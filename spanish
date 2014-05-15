@@ -1,0 +1,5000 @@
+1,"el, la (art)",the
+2,de (prep),"of, from"
+3,que (conj),"that, which"
+4,y (conj),and
+5,a (prep),"to, at"
+6,en (prep),"in, on"
+7,un (art),"a, an"
+8,ser (v),to be (norm) (v)
+9,se (pron),the reflexive marker
+10,no (adv),no
+11,haber (v),to have (aux v)
+12,por (prep),"by, for, through"
+13,con (prep),with
+14,su (adj),his/her/their/your (formal)
+15,para (prep),"for, to, in order to"
+16,como (conj),"like, as"
+17,estar (v),"to be (location, change from norm)"
+18,tener (v),to have
+19,le (pron),3rd person indir obj
+20,lo (art),the (neuter art)
+21,lo (pron),3rd person dir obj-m
+22,todo (adj),"all, every"
+23,pero (conj),"but, yet, except"
+24,más (adj),more
+25,hacer (v),"to do, to make"
+26,o (conj),or
+27,poder (v),"to be able to, can (v)"
+28,decir (v),"to tell, say"
+29,"este, esta (adj)",this (adj)
+30,ir (v),to go
+31,otro (adj),"other, another"
+32,"ese, esa (adj)",that
+33,la (pron),3rd person dir obj-f
+34,si (conj),"if, whether"
+35,me (pron) [also mí],me (pron)
+36,ya (adv),"already, still"
+37,ver (v),to see
+38,porque (conj),because
+39,dar (v),to give
+40,cuando (conj),when (conj)
+41,él (pron),"he, [ellos] them (m)"
+42,muy (adv),"very, really"
+43,sin (prep),without
+44,vez (nf),time (specific occurrence)
+45,"mucho (adj, adv)","much, many, a lot"
+46,saber (v),"to know (a fact), find out (v)"
+47,qué (adj),"what?, which?, how (adj)!"
+48,sobre (prep),"on top of, over, about"
+49,mi (adj),my
+50,"alguno (adj, pron)","some, someone"
+51,mismo (adj),same
+52,yo (pron),I (pron)
+53,también (adv),also
+54,hasta (prep),"until, up to, even (adv)"
+55,año (nm),year
+56,dos (num),two
+57,querer (v),"to want, love"
+58,entre (prep),"between, among"
+59,así (adv),like that
+60,primero (adj),first
+61,desde (prep),"from, since"
+62,grande (adj),"large, great, big"
+63,eso (pron),that (pron)
+64,ni (conj),"not even, neither, nor"
+65,nos (pron),us
+66,llegar (v),to arrive
+67,pasar (v),"to pass, spend time"
+68,tiempo (nm),"time (general), weather"
+69,"ella, ellas (pron)","she,  them (f)"
+70,sí (adv),yes
+71,día (nm),day
+72,uno (num),one
+73,bien (adv) [also bueno],well (adv)
+74,poco (adj),"little, few, a little bit (adv)"
+75,deber (v),"should, ought to; to owe (v)"
+76,entonces (adv),"so, then"
+77,poner (v),to put on
+78,cosa (nf),thing
+79,tanto (adj),"so much, so many"
+80,hombre (nm),"man, mankind, husband"
+81,parecer (v),"to seem, look like (v)"
+82,nuestro (adj),our
+83,tan (adv),"such, as, too, so"
+84,donde (conj),where
+85,ahora (adv),now
+86,parte (nf),"part, portion"
+87,después (adv),after
+88,vida (nf),life
+89,quedar (v),"to remain, stay"
+90,siempre (adv),"always, forever"
+91,creer (v),"to believe, think"
+92,hablar (v),"to speak, talk"
+93,llevar (v),"to take, carry"
+94,dejar (v),"to let, leave"
+95,nada (pron),"nothing, not at all"
+96,cada (adj),"each, every"
+97,seguir (v),"to follow, to go on"
+98,menos (adj),"less, fewer"
+99,nuevo (adj),new
+100,encontrar (v),to find
+101,algo (pron),"something, somewhat"
+102,solo (adv),"only, just (adv)"
+103,pues (conj),"then, well then"
+104,llamar (v) [also denominar],"to call, name"
+105,venir (v),to come
+106,pensar (v),to think
+107,aquel (adj),that (over there)
+108,momento (nm),"moment, time"
+109,sino (conj),"but, except, rather"
+110,esto (pron),this (pron)
+111,salir (v) [also partir],to leave
+112,volver (v),"to turn, to turn over, to return to a place"
+113,forma (nf),"form, shape, way"
+114,antes (adv),before
+115,bueno (adj),good (adj)
+116,casa (nf),house
+117,aunque (conj),"although, even though"
+118,mundo (nm),world
+119,tres (num),three
+120,tal (adj),such a
+121,mejor (adj),"best, better (adv)"
+122,tomar (v),"to take, drink"
+123,cierto (adj),"certain, sure, true"
+124,conocer (v),to know (someone or place)
+125,hacia (prep),"toward, towards"
+126,cómo (adv),how?
+127,mujer (nf),"woman, wife"
+128,vivir (v),to live
+129,aquí (adv),here
+130,caso (nm),"case, occasion"
+131,sentir (v),"to feel, regret (v)"
+132,luego (adv),"later, afterwards"
+133,país (nm),country
+134,tratar (v),"to try, treat, deal with"
+135,lugar (nm),"place, position"
+136,te (pron),"you (obj, familiar)"
+137,persona (nf),person
+138,mayor (adj),"larger, older, main"
+139,último (adj),"last, final"
+140,propio (adj),"own, proper, typical"
+141,quien (pron),"who, whom"
+142,mirar (v),"to look, watch"
+143,hora (nf),"hour, time (specific)"
+144,ninguno (adj pron),"no, none, nobody"
+145,trabajo (nm),"work, job, effort"
+146,casi (adv),"almost, nearly"
+147,punto (nm),"point, dot, period"
+148,durante (adv),"during, for (time)"
+149,"cualquier (adj, pron)","any, anyone"
+150,mano (nf),hand
+151,nunca (adv),"never, ever"
+152,manera (nf),"way, manner (nf)"
+153,cual (pron),"which, who, whom"
+154,mientras (conj),"while, whereas, as long as"
+155,contar (v),"to tell, count"
+156,fin (nm),end
+157,tipo (nm),"type, kind"
+158,gente (nf),people
+159,además (adv),"also, as well, besides"
+160,solo (adj),"lonely, alone (adj)"
+161,empezar (v) [also comenzar],"to begin, start"
+162,ejemplo (nm),example
+163,esperar (v),"to wait, hope for, expect"
+164,hoy (adv),"today, nowadays"
+165,lado (nm),side
+166,hijo (nm),"son, [pl] children"
+167,allí (adv) [also ahí],there
+168,"éste, ésta (pron)",this one
+169,problema (nm),problem
+170,cuenta (nf),"bill, account"
+171,medio (nm),"means, middle (nm)"
+172,contra (prep),"against, opposite"
+173,buscar (v),to look for
+174,dentro (adv) [also adentro],inside
+175,largo (adj),long (adj)
+176,palabra (nf),word
+177,existir (v),to exist
+178,niño (nm),"child, little boy"
+179,entrar (v),to enter
+180,embargo (nm),sin embargo: nevertheless
+181,único (adj),"only, unique, sole"
+182,padre (nm),father
+183,trabajar (v),to work
+184,pequeño (adj),"little, small, young"
+185,alto (adj),"tall, high"
+186,cambio (nm),change
+187,escribir (v),to write
+188,cuatro (num),four
+189,ahí (adv) [also allí],there
+190,perder (v),"to lose, miss"
+191,nosotros (pron),we
+192,historia (nf),"history, story"
+193,idea (nf),idea
+194,agua (nf el),water
+195,producir (v),"to produce, cause"
+196,noche (nf),"night, evening"
+197,ciudad (nf),city
+198,modo (nm),"way, manner (nm)"
+199,nombre (nm),"name, noun"
+200,ocurrir (v),"to happen, occur"
+201,familia (nf),family
+202,realidad (nf),"reality, actuality"
+203,entender (v) [also comprender],to understand
+204,pedir (v),"to ask for, request"
+205,recibir (v),to receive
+206,obra (nf),"work, book, deed"
+207,importante (adj),important
+208,medio (adj),"half, middle (adj)"
+209,verdad (nf),truth
+210,mes (nm),month
+211,todavía (adv) [also aún],"still, yet"
+212,razón (nf),reason
+213,cuanto (adj),"en cuanto a: in terms of, regarding"
+214,bajo (prep),"under, underneath (prep)"
+215,recordar (v) [also acordar],"to remember, remind"
+216,grupo (nm),group
+217,mil (num),thousand
+218,humano (adj),human (adj)
+219,terminar (v),"to finish, end"
+220,permitir (v),"to allow, permit"
+221,aparecer (v),to appear
+222,conseguir (v),to acheive
+223,comenzar (v) [also empezar],"to begin, start"
+224,varios (adj),"several, various"
+225,posible (adj),possible
+226,servir (v),to serve
+227,general (adj),general (adj)
+228,sacar (v),to take out
+229,necesitar (v),to need
+230,relación (nf),"relationship, relation"
+231,cinco (num),five
+232,cuerpo (nm),body
+233,nadie (pron),"nobody, anybody"
+234,mantener (v),"to keep, maintain"
+235,hecho (nm),"fact, happening"
+236,ante (prep),"before, in the presence of"
+237,principio (nm),"beginning, principle"
+238,resultar (v),"to result, turn out"
+239,igual (adj),"equal, same as"
+240,señor (nm),"sir, Mr., lord"
+241,pueblo (nm),"people, village"
+242,tarde (nf),"afternoon, evening (nf)"
+243,segundo (adj),second (adj)
+244,leer (v),to read
+245,caer (v),to fall
+246,cambiar (v),to change
+247,ojo (nm),eye
+248,calle (nf),street
+249,presentar (v),"to introduce, present"
+250,blanco (adj),white
+251,crear (v),to create
+252,abrir (v),to open
+253,libro (nm),book
+254,distinto (adj),"distinct, different"
+255,fuerza (nf),"strength, force, power"
+256,luz (nf),light
+257,según (prep),according to
+258,santo (nm),saint (m)
+259,claro (adj),clear (adj)
+260,frente (nmf),"al frente: facing; (frente a: across from)"
+261,considerar (v),to consider
+262,amigo (nm),friend
+263,oír (v),to hear
+264,cuyo (adj),whose
+265,sentido (nm),"sense, feeling"
+266,acabar (v),to have just
+267,paso (nm),"step, pace"
+268,situación (nf),situation
+269,usted (pron),you (subj formal)
+270,"bastante (adj, adv)","rather, fairly, quite a bit"
+271,convertir (v),"to convert, change, become"
+272,gracia (nf),"thank you, grace, favor"
+273,siglo (nm),"century, age"
+274,dios (nm),"god, divinity"
+275,malo (adj),bad
+276,tierra (nf),"earth, land, ground"
+277,papel (nm),"paper, role, part"
+278,madre (nf),mother
+279,tampoco (adv),"neither, nor, either"
+280,social (adj),social
+281,viejo (adj),"old, aged"
+282,aún (adv) [also todavía],"still, yet"
+283,tema (nm),"theme, subject, topic"
+284,político (adj),political (adj)
+285,español (adj),Spanish
+286,ganar (v),"to win, earn"
+287,formar (v),to form
+288,clase (nf),"kind, class, order"
+289,traer (v),"to bring, carry"
+290,partir (v) [also salir],to leave
+291,dinero (nm),money
+292,quién (pron),"who?, whom?"
+293,morir (v),to die
+294,incluso (adv),"including, even (adv)"
+295,campo (nm),"field, country"
+296,aceptar (v),to accept
+297,quizás (adv),"perhaps, maybe"
+298,cabeza (nf),head (part of body)
+299,realizar (v),"to fulfill, carry out"
+300,ciento (num),hundred (num)
+301,mal (adv),badly (adv)
+302,orden (nmf),"order; sequence (m), religious (f)"
+303,don (nm),"courtesy title (m), Mr., gift"
+304,semana (nf),week
+305,suponer (v),"to suppose, assume"
+306,comprender (v) [also entender],to understand
+307,final (nmf),"al final: finally, in the end (nmf)"
+308,interés (nm),interest
+309,siguiente (adj),"following, next"
+310,vista (nf),"view, sight"
+311,lograr (v),"to get, to manage to (do something)"
+312,demás (adj),"the rest, others"
+313,acuerdo (nm),"accord; (de acuerdo: in agreement)"
+314,difícil (adj),"difficult, hard"
+315,número (nm),number
+316,explicar (v),to explain
+317,negro (adj),black
+318,fondo (nm),"bottom, end"
+319,camino (nm),"road, route, path"
+320,voz (nf),voice
+321,estudio (nm),"study, learning"
+322,necesario (adj),necessary
+323,preguntar (v),to ask a question
+324,allá (adv),"there, over there"
+325,tocar (v),"to touch, play an instrument"
+326,valor (nm),"value, worth (n)"
+327,reconocer (v),"to recognize, admit"
+328,estudiar (v),to study
+329,alcanzar (v),"to reach, catch up with"
+330,nacer (v),to be born
+331,dirigir (v),"to direct, manage"
+332,correr (v),to run
+333,medida (nf),"measure; (a medida que: to the extent)"
+334,menor (adj),"younger, youngest"
+335,demasiado (adj),"too much, too many"
+336,solamente (adv) [also únicamente],only
+337,bueno (adv) [also bien],well (adv)
+338,utilizar (v),"to use, utilize"
+339,centro (nm),"center, middle, downtown"
+340,necesidad (nf),"necessity, need"
+341,condición (nf),condition
+342,pagar (v),to pay
+343,ello (pron),it (subj-n)
+344,falta (nf) [also carencia],"lack, shortage"
+345,ayudar (v),to help
+346,diez (num),ten
+347,a través (adv),"across, over, through"
+348,antiguo (adj),"old, ancient, former"
+349,tu (adj),your (singular familiar)
+350,edad (nf),age
+351,estado (nm),"state, condition, status"
+352,ser (nm),being (nm)
+353,gustar (v),to be pleasing to
+354,puerta (nf),door
+355,jugar (v),to play (sport/game)
+356,cara (nf),"face, expression"
+357,mí (pron) [also me],me (pron)
+358,época (nf),"time, age, period"
+359,color (nm),color
+360,escuchar (v),to listen to
+361,experiencia (nf),experience
+362,movimiento (nm),movement
+363,cumplir (v),to fulfill
+364,especial (adj),special
+365,diferente (adj),"different, separate"
+366,pesar (nm),sorrow (nm)
+367,posibilidad (nf),possibility
+368,ofrecer (v),"to offer, present"
+369,descubrir (v),to discover
+370,anterior (adj),"previous, preceding"
+371,juego (nm),"game, play, sport"
+372,levantar (v),"to raise, lift"
+373,pobre (adj),poor
+374,aire (nm),"air, wind, appearance"
+375,seis (num),six
+376,intentar (v),"to try, attempt"
+377,guerra (nf),"war, warfare"
+378,junto (adv),"together with, next to (adv)"
+379,resultado (nm),"result, outcome"
+380,usar (v),to use
+381,decidir (v),to decide
+382,repetir (v),to repeat
+383,olvidar (v),to forget
+384,ley (nf),"law, bill, rule"
+385,aspecto (nm),"aspect, appearance"
+386,pie (nm),"foot, base"
+387,valer (v),"to be worth, cost"
+388,especie (nf),"kind, sort, species"
+389,comer (v),to eat
+390,servicio (nm),"service, helpfulness"
+391,cerca (adv),"close, near"
+392,mostrar (v),to show
+393,actividad (nf),"activity, action"
+394,tercero (adj),third
+395,cuál (pron),which?
+396,pronto (adv),"soon, quick"
+397,ocupar (v),"to occupy, use"
+398,cuestión (nf),"question, matter"
+399,duda (nf),doubt
+400,diferencia (nf),difference
+401,mañana (nf),"morning, tomorrow (nf)"
+402,mover (v),"to move, incite"
+403,continuar (v),to continue
+404,cantidad (nf),"quantity, amount"
+405,acción (nf),"action, act, deed"
+406,suceder (v),to happen
+407,fijar (v),"to set, fix, [se] notice"
+408,sociedad (nf),society
+409,referir (v),to refer to
+410,acercar (v),to come near
+411,capaz (adj),"capable, able"
+412,bajo (adj),"short, low (adj)"
+413,libre (adj),"free, vacant"
+414,natural (adj),natural
+415,dedicar (v),"to dedicate, devote"
+416,realmente (adv),"really, actually, in fact"
+417,peso (nm),"peso (money), weight, load"
+418,efecto (nm),effect
+419,objeto (nm),"object, thing"
+420,verdadero (adj),"true, real"
+421,dónde (adv),where?
+422,aprender (v),to learn
+423,amor (nm),love
+424,muerte (nf),death
+425,partido (nm),"party, group, sports match"
+426,económico (adj),economic
+427,derecho (nm),"right, justice, law (nm)"
+428,poder (nm),power (nm)
+429,importancia (nf),importance
+430,sistema (nm),system
+431,viaje (nm),"travel, trip"
+432,suelo (nm),"ground, floor"
+433,respecto (nm),"respect, con respecto a: with regards to"
+434,conocimiento (nm),knowledge
+435,libertad (nf),"freedom, liberty"
+436,encima (adv),"above, on top, in addition"
+437,comprar (v),to buy
+438,común (adj),common
+439,abierto (adj),"open, unlocked"
+440,próximo (adj),next
+441,atención (nf),attention
+442,joven (adj),young (adj)
+443,subir (v),to go up
+444,esfuerzo (nm),"effort, endeavor"
+445,pasado (adj),"past, last (adj)"
+446,evitar (v) [also prevenir],"to avoid, prevent"
+447,resto (nm),"rest, remainder, leftover"
+448,interesar (v),to interest
+449,zona (nf),"area, zone (nf)"
+450,ladrón (nm),thief
+451,miedo (nm) [also temor],fear
+452,fuera (adv),"out, outside, away"
+453,proceso (nm),"process, procedure"
+454,vivo (adj),"alive, bright"
+455,cerrar (v),to close
+456,echar (v),to throw
+457,responder (v),"to answer, respond"
+458,sufrir (v),"to suffer, undergo"
+459,completo (adj),complete
+460,minuto (nm),minute
+461,contrario (adj),"contrary, opposite"
+462,mesa (nf),"table, board"
+463,real (adj),"royal, real, authentic"
+464,ocasión (nf),"opportunity, occasion"
+465,importar (v),"to matter, import"
+466,público (adj),public (adj)
+467,obtener (v),to obtain
+468,programa (nm),"program, plan"
+469,favor (nm),"favor, benefit"
+470,lejos (adv),"far away, far off"
+471,siete (num),seven
+472,enorme (adj),"enormous, vast"
+473,respuesta (nf),"answer, reply"
+474,línea (nf),"line, course"
+475,espacio (nm),"space, room"
+476,nivel (nm),level
+477,gobierno (nm),government
+478,cabo (nm),"end, bit"
+479,observar (v),"to observe, to notice"
+480,indicar (v),to indicate
+481,alguien (pron),"somebody, someone, anyone"
+482,pregunta (nf),question
+483,claro (adv),"of course, clearly (adv)"
+484,atrás (adv),behind
+485,imagen (nf),"image, picture"
+486,carrera (nf),"career, course, race"
+487,imaginar (v),to imagine
+488,soler (v) [also acostumbrar],to be accustomed to
+489,ambos (adj),both
+490,profundo (adj),"deep, profound"
+491,detener (v),"to stop, detain"
+492,desarrollar (v),to develop
+493,ocho (num),eight
+494,señalar (v),"to point out, signal"
+495,elegir (v),"to choose, elect"
+496,figura (nf),figure
+497,principal (adj),"main, principal"
+498,animal (nm),animal
+499,base (nf),"base, basis"
+500,preparar (v),to prepare
+501,proponer (v),to propose
+502,demostrar (v),"to show, demonstrate"
+503,significar (v),to mean
+504,posición (nf),position
+505,motivo (nm),"motive, cause"
+506,prueba (nf),"proof, trial, test"
+507,política (nf),"politics, policy"
+508,nacional (adj),national
+509,lleno (adj),"full, filled (as an object would de filled)"
+510,reunir (v) [also juntar],"to put togerther, to get together"
+511,faltar (v),to be lacking
+512,supuesto (adj),"supposed; (por supuesto: of course)"
+513,acompañar (v),to accompany
+514,dato (nm),"data, fact"
+515,fácil (adj),easy
+516,desear (v),"to want, desire, wish for"
+517,adelante (adv),"forward, further"
+518,empresa (nf),"firm, company, venture"
+519,asunto (nm),"matter, issue, affair"
+520,presencia (nf),"presence, appearance"
+521,suyo (pron),"his, hers, yours, theirs (formal)"
+522,cultura (nf),culture
+523,serie (nf),series
+524,millón (num),"million, fortune"
+525,enseñar (v),"to teach, show"
+526,construir (v),"to construct, build"
+527,vender (v),to sell
+528,representar (v),to represent
+529,desaparecer (v),"to disappear, vanish"
+530,mandar (v),"to send, order"
+531,carácter (nm),"personality, nature"
+532,mayoría (nf),majority
+533,escuela (nf),school
+534,rojo (adj),red
+535,tras (prep),"after, behind"
+536,superior (adj),"superior, upper"
+537,andar (v) [also caminar],to walk
+538,corto (adj),"short, brief"
+539,autor (nm/f),"writer, author"
+540,hermano (nm),"brother, [pl] siblings"
+541,conocido (adj),"known, well-known"
+542,preferir (v),to prefer
+543,asegurar (v),"to assure, secure, insure"
+544,función (nf),"function, meeting"
+545,arriba (adv),up above
+546,serio (adj),serious
+547,causa (nf),cause
+548,suficiente (adj),"sufficient, enough"
+549,grave (adj),"serious, solemn"
+550,decisión (nf),decision
+551,música (nf),music
+552,extraño (adj),"strange, foreign"
+553,crecer (v),"to grow, increase"
+554,surgir (v),"to appear, spring forth"
+555,tú (pron) [also vos],you (subj singular familiar)
+556,expresión (nf),expression
+557,alrededor (adv),"about, around, round (adv)"
+558,matar (v),to kill
+559,entregar (v),to deliver
+560,río (nm),river
+561,seguridad (nf),"security, safety"
+562,término (nm),"term (language), end"
+563,colocar (v),"to place, position"
+564,metro (nm),"meter (unit of measure), subway"
+565,médico (nm/f),doctor (nm/f)
+566,establecer (v),to establish
+567,guardar (v),"to keep, save"
+568,arte (nm),"art, skill"
+569,iniciar (v),"to initiate, start"
+570,bajar (v),"to come down, let down"
+571,consecuencia (nf),consequence
+572,notar (v),to notice [also percibir]
+573,acto (nm),"act, action"
+574,meter (v),to put into
+575,absoluto (adj),absolute
+576,pena (nf) (valer la pena),trouble (be of worth)
+577,actuar (v),to act
+578,segundo (nm),second (nm)
+579,altura (nf),"height, altitude"
+580,deseo (nm),"desire, wish"
+581,precisamente (adv),precisely
+582,joven (nc),"teenager, young person (nc)"
+583,veinte (num),twenty
+584,sueño (nm),"dream, sleep"
+585,pretender (v),to attempt
+586,tarea (nf),"task, job"
+587,carta (nf),"letter, playing card"
+588,apenas (adv),"hardly, barely"
+589,propiedad (nf),property
+590,producto (nm),product
+591,personal (adj),personal (adj)
+592,simplemente (adv),"simply, just"
+593,imposible (adj),impossible
+594,gusto (nm),"pleasure, taste, preference"
+595,ayuda (nf),"help, aid"
+596,acordar (v) [also recordar],"to remember, remind"
+597,lengua (nf),"language, tongue, strip of land"
+598,cortar (v),to cut
+599,plan (nm),plan
+600,corresponder (v),to correspond with
+601,vuelta (nf),"return, turn"
+602,romper (v),to break
+603,siquiera (adv),even if
+604,adquirir (v),"to acquire, get"
+605,proyecto (nm),"project, plan"
+606,memoria (nf),memory
+607,origen (nm),"origin, cause"
+608,elemento (nm),element
+609,inglés (adj),English
+610,mercado (nm),market
+611,curso (nm),"course, direction"
+612,lanzar (v),"to throw (violently), to hurl [also arrojar]"
+613,aprovechar (v),to take advantage of
+614,sangre (nf),blood
+615,interior (nm),"interior, inside (nm)"
+616,duro (adj),hard (adj)
+617,apoyar (v),"to support, lean on"
+618,negar (v),"to deny, refuse"
+619,avanzar (v),"to advance, progress"
+620,uso (nm),use
+621,brazo (nm),arm
+622,profesor (nm/f),"professor, teacher"
+623,resolver (v),"to resolve, settle, work out"
+624,futuro (nm),future (nm)
+625,oportunidad (nf),"opportunity, chance"
+626,mitad (nf),"half, middle"
+627,costar (v),"to cost, to be hard to do"
+628,rico (adj),"rich, tasty"
+629,recuerdo (nm),"memory, keepsake"
+630,total (adj),"total, entire (adj)"
+631,exigir (v),to demand
+632,abajo (adv),"down, below, downward"
+633,opinión (nf),"opinion, view"
+634,aumentar (v) [also incrementar],to increase
+635,recoger (v),to pick up
+636,boca (nf),"mouth, entrance, opening"
+637,dirección (nf),"direction, address"
+638,puro (adj),"pure, clean"
+639,abandonar (v),"to abandon, leave (a place)"
+640,pieza (nf),"piece, part"
+641,profesional (adj),professional
+642,imponer (v),"to impose, enforce"
+643,obligar (v),"to obligate, force"
+644,físico (adj),physical (adj)
+645,actitud (nf),attitude
+646,mar (nmf),sea
+647,francés (adj),French
+648,entrada (nf),"entrance, admission ticket"
+649,contacto (nm),contact
+650,corazón (nm),"heart, core"
+651,aplicar (v),to apply
+652,capital (nmf),"capital city (f), money (m)"
+653,rápido (adj),"quick, fast"
+654,título (nm),"title, heading"
+655,pertenecer (v),to belong
+656,cuarto (nm),"room, chamber (nm)"
+657,material (nm),"material, element (nm)"
+658,golpe (nm),"hit, strike, punch"
+659,disponer (v),"to have means, dispose"
+660,comunicación (nf),communication
+661,expresar (v),to express
+662,simple (adj),"simple, mere, simple-minded"
+663,totalmente (adv),"totally, completely"
+664,provocar (v),"to cause, provoke"
+665,normal (adj),"normal, usual, regular"
+666,defender (v),"to defend, protect"
+667,enfermedad (nf),"illness, sickness"
+668,bien (nm),"goods, property, benefit (nm)"
+669,materia (nf),"matter, subject"
+670,quitar (v),"to remove, take away"
+671,conservar (v),"to conserve, preserve"
+672,moderno (adj),modern
+673,sitio (nm),"place, space"
+674,depender (v),to depend on
+675,naturaleza (nf),nature
+676,capacidad (nf),capacity
+677,actual (adj),current (adj)
+678,marcar (v),"to mark, note, dial"
+679,distancia (nf),distance
+680,pleno (adj),"complete, fulfilled (as emotionally)"
+681,cerrado (adj),closed
+682,compartir (v),to share
+683,información (nf),information
+684,ambiente (nm),"environment, atmosphere"
+685,especialmente (adv),especially
+686,desarrollo (nm),development
+687,sol (nm),sun
+688,muerto (adj),dead (adj)
+689,consistir (v),to consist of
+690,constituir (v),"to constitute, consist of"
+691,dispuesto (adj),"willing, ready"
+692,cubrir (v),to cover
+693,funcionar (v),"to work, function"
+694,compañero (nm),"companion, classmate"
+695,salida (nf),"exit, escape, outcome"
+696,caber (v),to fit into
+697,conciencia (nf),"conscience, consciousness"
+698,atender (v),"to serve, attend to"
+699,enfermo (adj),"ill, sick"
+700,insistir (v),to insist on
+701,costumbre (nf),"habit, custom, usage"
+702,detrás (adv),in the back
+703,paz (nf),peace
+704,noticia (nf),news
+705,circunstancia (nf),circumstance
+706,dolor (nm),"pain, ache, sorrow"
+707,privado (adj),private
+708,estilo (nm),style
+709,precio (nm),"price, cost, value"
+710,popular (adj),popular
+711,sentar (v),"to sit down, seat"
+712,planta (nf),"plant, floor"
+713,personaje (nm),character (e.g. movie)
+714,famoso (adj),"famous, well-known"
+715,éxito (nm),success
+716,hija (nf),daughter
+717,merecer (v),"to deserve, be worthy of"
+718,edificio (nm),building
+719,autoridad (nf),authority
+720,piedra (nf),"stone, rock"
+721,incluir (v),to include
+722,conjunto (nm),"group, set"
+723,treinta (num),thirty
+724,cuánto (adj),how much?
+725,inmediato (adj),immediate
+726,suerte (nf),"luck, fortune"
+727,cruzar (v) [also atravesar],to cross
+728,tender (v),"to tend to, lay out"
+729,finalmente (adv),"finally, at last"
+730,junto (adj),together (adj)
+731,anunciar (v),"to announce, advertise"
+732,espíritu (nm),"spirit, ghost"
+733,miembro (nm),"member, limb"
+734,directo (adj),"direct, straight"
+735,despertar (v),"to wake up, arouse"
+736,recurso (nm),"resource, recourse, means"
+737,pared (nf),interior wall
+738,equipo (nm),"team, equipment, outfit"
+739,error (nm),"error, mistake"
+740,preciso (adj),"precise, necessary"
+741,diverso (adj),"different, several, diverse"
+742,dificultad (nf),"difficulty, obstacle"
+743,comentar (v),to comment on
+744,publicar (v),to publish
+745,familiar (adj),"familiar, of the family (adj)"
+746,voluntad (nf),"will, willpower, intention"
+747,reunión (nf),"meeting, reunion"
+748,modelo (nc),"model, pattern"
+749,cargar (v),"to load up, carry"
+750,fecha (nf),"date, day"
+751,participar (v),to participate
+752,impedir (v),"to prevent, hinder"
+753,propósito (nm),"intention, purpose"
+754,salvar (v),"to save, rescue"
+755,cuidado (nm),"care, carefulness"
+756,puesto (nm),"job, place, position"
+757,grado (nm),"degree, grade"
+758,escapar (v),to escape
+759,lucha (nf),"fight, struggle, wrestle"
+760,tirar (v),"to throw, pull"
+761,entero (adj),"entire, whole, complete"
+762,jefe (nm/f),"leader, boss, manager"
+763,interesante (adj),interesting
+764,amplio (adj),"wide, ample, broad"
+765,contestar (v),"to answer, reply"
+766,periódico (nm),"newspaper, periodical"
+767,preocupar(se) (v),to worry
+768,prestar (v),to lend
+769,par (nmf),"pair, couple (m)"
+770,público (nm),"public, audience (nm)"
+771,pesar (v),to weigh (v)
+772,final (adj),final (adj)
+773,calidad (nf),quality
+774,exponer (v),"to expound, expose"
+775,civil (adj),civil (adj)
+776,ciencia (nf),"science, knowledge"
+777,tamaño (nm),"size, dimension"
+778,mas (conj),"but, however"
+779,doctor (nm/f),doctor
+780,cuadro (nm),"painting, picture"
+781,caballo (nm),horse
+782,responsabilidad (nf),responsibility
+783,cincuenta (num),fifty
+784,interno (adj),internal
+785,detalle (nm),detail
+786,marcha (nf),"march, progress"
+787,nueve (num),nine
+788,carne (nf),"meat, flesh"
+789,jamás (adv),never
+790,pensamiento (nm),"thought, thinking"
+791,viajar (v),to travel
+792,cargo (nm),"position, charge, fee"
+793,separar (v),to separate
+794,santa (nf),saint (f)
+795,construcción (nf),construction
+796,juicio (nm),judgment
+797,terreno (nm),"ground, earth, terrain"
+798,piso (nm),"floor, story"
+799,compañía (nf),company
+800,regresar (v),to return to a place
+801,texto (nm),text
+802,fuente (nf),"source, fountain"
+803,presente (nm),present (nm)
+804,definitivo (adj),"definitive, conclusive"
+805,revista (nf),"magazine, journal"
+806,esperanza (nf),hope
+807,máquina (nf),machine
+808,contemplar (v),to contemplate
+809,recorrer (v),"to travel, cover distance"
+810,frase (nf),phrase
+811,perfecto (adj),perfect
+812,sala (nf),"room, hall"
+813,durar (v),to last
+814,instrumento (nm),instrument
+815,aquello (pron),that over there (n)
+816,defensa (nf),"defense, plea"
+817,director (nm/f),"director, manager, principal"
+818,retirar (v),"to take away, retire"
+819,explicación (nf),explanation
+820,artículo (nm),"article, product, item"
+821,debajo (adv),"underneath, below"
+822,permanecer (v),"to stay, remain"
+823,asistir (v),to attend
+824,doce (num),twelve
+825,radio (nmf),"radio; set (m), communication (f)"
+826,organizar (v),to organize
+827,película (nf),"movie, film"
+828,elección (nf),"election, choice"
+829,visita (nf),"visit, visitor, guest"
+830,contener (v),to contain
+831,apoyo (nm),"support, backing"
+832,presidente (nm),president
+833,arma (nf el),weapon
+834,árbol (nm),tree
+835,visitar (v),to visit
+836,informar (v),to inform
+837,encuentro (nm),"meeting, game, skirmish"
+838,parecido (adj) [also similar],similar
+839,corriente (nf),"current, flow (nf)"
+840,lectura (nf),reading
+841,existencia (nf),"existence, life"
+842,lenguaje (nm),"language, speech"
+843,enviar (v),to send
+844,aun (adv),"even (though), still"
+845,destino (nm),"destination, destiny"
+846,educación (nf),education
+847,cuidar (v),to take care of
+848,intervenir (v),to intervene
+849,operación (nf),operation
+850,raro (adj),"strange, rare, scarce"
+851,perfectamente (adv),perfectly
+852,extender (v),"to extend, spread"
+853,comprobar (v),"to verify, prove"
+854,nota (nf),"note, grade"
+855,particular (adj),"particular, peculiar (adj)"
+856,"ése, ésa (pron)",that one
+857,militar (adj),military (adj)
+858,dormir (v),to sleep
+859,unido (adj),united
+860,discutir (v),"to argue, discuss"
+861,extraordinario (adj),"extraordinary, exceptional"
+862,teatro (nm),"theater, drama"
+863,enfrentar (v),"to confront, face"
+864,recién (adv),"recently, just"
+865,negocio (nm),"business, transaction"
+866,letra (nf),"letter, handwriting, lyrics"
+867,peor (adv),worse (adv)
+868,sentimiento (nm),"feeling, sentiment"
+869,conducir (v),"to lead, drive"
+870,completamente (adv),completely
+871,firmar (v),to sign
+872,solución (nf),"solution, answer"
+873,mío (pron),mine (pron)
+874,comida (nf),"food, meal"
+875,impresión (nf),"impression, printing"
+876,plano (nm),"plane, map, level (nm)"
+877,intención (nf),intention
+878,ritmo (nm),rhythm
+879,verde (adj),green
+880,exacto (adj),"exact, faithful, true"
+881,respetar (v),to respect
+882,banco (nm),"financial bank, bench"
+883,inmediatamente (adv),immediately
+884,sostener (v),"to support, hold up"
+885,piel (nf),"skin, hide, fur"
+886,delante (adv),"in front of, ahead"
+887,religioso (adj),religious
+888,advertir (v),to warn
+889,oscuro (adj),"dark, obscure"
+890,control (nm),control
+891,investigación (nf),investigation
+892,transformar (v),"to transform, change"
+893,conversación (nf),conversation
+894,verano (nm),summer
+895,respeto (nm),"respect, regard"
+896,norte (nm),north
+897,mediante (prep),by means of
+898,cuarto (adj),fourth (adj)
+899,tradición (nf),tradition
+900,bastar (v),to be sufficient
+901,población (nf),population
+902,pareja (nf),"couple, pair"
+903,pasado (nm),past (nm)
+904,diario (nm),newspaper (nm)
+905,azul (adj),blue
+906,mencionar (v),"to mention, cite"
+907,generación (nf),generation
+908,frío (adj),cold (adj)
+909,visión (nf),vision
+910,concreto (adj),"concrete, real"
+911,plantear (v),"to propose, present"
+912,probar (v),"to test, prove, try"
+913,derecho (adj),"right, straight (adj)"
+914,peligro (nm),"danger, menace"
+915,oro (nm),gold
+916,justo (adv),just (adv)
+917,manejar (v),"to drive, handle"
+918,vino (nm),wine
+919,unir (v),to unite
+920,caminar (v) [also andar],to walk
+921,coincidir (v),"to coincide, agree"
+922,etapa (nf),"stage, period"
+923,sencillo (adj),"simple, plain, easy"
+924,silencio (nm),silence
+925,salvo (adv),"except for, but"
+926,llenar (v),to fill
+927,dominar (v),"to dominate, master"
+928,determinado (adj),"determined, fixed"
+929,artista (nc),"artist, performer"
+930,medir (v),to measure
+931,labor (nf),"labor, work, task"
+932,perdido (adj),lost
+933,cielo (nm),"sky, heaven, ceiling"
+934,práctica (nf),"practice, skill"
+935,límite (nm),limit
+936,masa (nf),"mass, dough, bulk, crowd"
+937,directamente (adv),"directly, straight away"
+938,atravesar (v) [also cruzar],to cross
+939,formación (nf),"formation, education"
+940,perro (nm),dog
+941,izquierda (nf),left
+942,destacar (v),"to emphasize, stand out"
+943,cercano (adj),near
+944,cuarenta (num),forty
+945,pronunciar (v),to pronounce
+946,distinguir (v),to distinguish
+947,energía (nf),"energy, power"
+948,confianza (nf),"confidence, trust"
+949,adecuado (adj),"adequate, suitable"
+950,introducir (v),"to introduce, bring in"
+951,flor (nf),flower
+952,esposa (nf),wife
+953,comunicar (v),to communicate
+954,italiano (adj),Italian
+955,invitar (v),to invite
+956,responsable (adj),responsible
+957,feliz (adj),"happy, fortunate"
+958,revolución (nf),revolution
+959,instalar (v),to install
+960,tardar (v),"to delay, take long"
+961,mejorar (v),"to improve, get better"
+962,maestro (nm),"teacher (m), master (nm)"
+963,emplear (v),to employ
+964,alemán (adj),German
+965,convenir (v),"to be agreeable, be convenient"
+966,recuperar (v),"to recuperate, recover"
+967,fenómeno (nm),phenomenon
+968,presión (nf),pressure
+969,dado (adj),given
+970,alumno (nm),"student, pupil"
+971,teoría (nf),theory
+972,probablemente (adv),probably
+973,tono (nm),tone
+974,salud (nf),health
+975,definir (v),to define
+976,superar (v),"to overcome, surpass"
+977,señora (nf),"Mrs., lady, madam"
+978,exactamente (adv),exactly
+979,afirmar (v),"to assert, affirm"
+980,diario (adj) [also cotidiano],daily (adj)
+981,histórico (adj),historical
+982,debido (adj),debido a: due to
+983,vía (nf),"road, way"
+984,interpretar (v),to interpret
+985,alma (nf el),soul
+986,admitir (v),to admit
+987,identificar (v),to identify
+988,madera (nf),wood
+989,fiesta (nf),"party, feast"
+990,calor (nm),"heat, warmth"
+991,mínimo (adj),minimum (adj)
+992,afectar (v),to affect
+993,hogar (nm),"home, hearth"
+994,mente (nf),mind
+995,seguramente (adv),"surely, securely"
+996,preocupación (nf),"worry, concern"
+997,reducir (v),to reduce
+998,concepto (nm),concept
+999,montar (v),"to ride, mount, assemble"
+1000,teléfono (nm),"phone, telephone"
+1001,hoja (nf),"sheet, leaf"
+1002,parar (v),to stop moving
+1003,doble (adj),double (adj)
+1004,devolver (v) [also retornar],"to give back, to return something"
+1005,ejercer (v),"to practice, exercise"
+1006,poseer (v),"to possess, own"
+1007,proteger (v),to protect
+1008,causar (v),"to cause, bring about"
+1009,rápidamente (adv),"rapidly, quickly"
+1010,determinar (v),"to determine, decide"
+1011,fuerte (adj),strong
+1012,escritor (nm/f),writer
+1013,intento (nm),"attempt, try"
+1014,cobrar (v),to charge money
+1015,regla (nf),"rule, ruler, regulation"
+1016,dividir (v),to divide
+1017,riesgo (nm),risk
+1018,policía (nc),"police, police force, police officer"
+1019,inventar (v),"to invent, make up"
+1020,estudiante (nc),student
+1021,plaza (nf),"square, marketplace"
+1022,limitar (v),to limit
+1023,llamada (nf),"call, knock"
+1024,sensación (nf),"sensation, feeling"
+1025,enemigo (nm),enemy
+1026,unidad (nf),"unit, unity"
+1027,luchar (v),"to fight, wrestle"
+1028,idioma (nm),language
+1029,raíz (nf),root
+1030,compromiso (nm),"compromise, engagement"
+1031,comentario (nm),"remark, comment"
+1032,carga (nf),"load, charge, cargo"
+1033,marido (nm),husband
+1034,quince (num),fifteen
+1035,constante (adj),constant
+1036,derecha (nf),"right, right hand"
+1037,extremo (nm),"edge, border, end (nm)"
+1038,individuo (nm),"individual, person"
+1039,contenido (nm),"contents, content"
+1040,semejante (adj),"similar, such, alike"
+1041,obligación (nf),obligation
+1042,corte (nmf),"court (f), cut (m)"
+1043,extranjero (adj),"foreign, alien (adj)"
+1044,total (nm),"sum, total (nm)"
+1045,acudir (v),"to attend, go to, frequent"
+1046,daño (nm),"harm, injury, damage"
+1047,tarde (adv),late (adv)
+1048,mensaje (nm),message
+1049,analizar (v),to analyze
+1050,lista (nf),"list, roster, roll"
+1051,región (nf),region
+1052,evidente (adj),"evident, obvious"
+1053,niña (nf),"child, young girl"
+1054,culpa (nf),"blame, fault"
+1055,encargar (v),"to entrust, [se] take charge of"
+1056,discusión (nf),"discussion, argument"
+1057,pelo (nm) [also cabello],hair
+1058,destinar (v),"to assign, appoint"
+1059,comparar (v),to compare
+1060,celebrar (v),to celebrate
+1061,fe (nf),faith
+1062,fijo (adj),"fixed, steady"
+1063,central (adj),central (adj)
+1064,referencia (nf),"reference, allusion"
+1065,sur (nm),south
+1066,gesto (nm),gesture
+1067,perspectiva (nf),perspective
+1068,preparado (adj),prepared
+1069,sonar (v),"to sound, ring"
+1070,manifestar (v),"to express, show"
+1071,controlar (v),to control
+1072,saltar (v),"to jump, leap, hop"
+1073,acaso (adv),"by chance, maybe"
+1074,colegio (nm),"high school, college"
+1075,inmenso (adj),"immense, vast, huge"
+1076,venta (nf),sale
+1077,documento (nm),document
+1078,citar (v),"to cite, quote"
+1079,televisión (nf),"TV, television"
+1080,chico (nm) [also muchacho],boy
+1081,novela (nf),novel
+1082,requerir (v),to require
+1083,moral (adj),moral (adj)
+1084,alcance (nm),"reach, scope"
+1085,curioso (adj),"curious, strange"
+1086,crisis (nf),crisis
+1087,fundamental (adj),fundamental
+1088,incorporar (v),"to incorporate, include"
+1089,presente (adj),"present, current (adj)"
+1090,máximo (adj),maximum (adj)
+1091,literatura (nf),literature
+1092,batalla (nf),battle
+1093,europeo (adj),European
+1094,dueño (nm),"owner, landlord (m)"
+1095,perseguir (v),to pursue
+1096,vecino (nm),neighbor (nm)
+1097,sector (nm),"sector, area, section"
+1098,pintura (nf),"painting, paint"
+1099,accidente (nm),"accident, irregularity"
+1100,oficial (adj),"official, authorized (adj)"
+1101,procurar (v),"to try, seek"
+1102,numeroso (adj),numerous
+1103,influencia (nf),influence
+1104,intelectual (adj),intellectual
+1105,empleado (nm),employee
+1106,casar (v),to marry
+1107,prácticamente (adv),practically
+1108,moneda (nf),"coins, currency"
+1109,facilidad (nf),"ease, facility"
+1110,matrimonio (nm),"marriage, married couple"
+1111,escaso (adj),"scarce, very little"
+1112,iglesia (nf),church
+1113,ayer (adv),yesterday
+1114,oficina (nf),office
+1115,cristiano (adj),Christian
+1116,institución (nf),institution
+1117,someter (v),to subject
+1118,fundar (v),"to found, base"
+1119,seguro (adj),"safe, sure, secure (adj)"
+1120,intenso (adj),"intense, acute"
+1121,frío (nm),cold (nm)
+1122,domingo (nm),Sunday
+1123,reacción (nf),reaction
+1124,elevar (v),"to elevate, raise"
+1125,cantar (v),to sing
+1126,acontecimiento (nm),"event, happening"
+1127,costa (nf),coast
+1128,peligroso (adj),dangerous
+1129,lento (adj),slow
+1130,método (nm),method
+1131,comunidad (nf),community
+1132,coche (nm),"car, carriage"
+1133,asumir (v),"to assume, take on"
+1134,aclarar (v),"to clarify, clear up"
+1135,arrastrar (v),"to drag, pull"
+1136,página (nf),page
+1137,declarar (v),"to declare, testify"
+1138,frecuencia (nf),frequency
+1139,conclusión (nf),"conclusion, end"
+1140,escena (nf),"scene, stage, setting"
+1141,falso (adj),false
+1142,estructura (nf),structure
+1143,beneficio (nm),"benefit, profit"
+1144,alimento (nm),"food, nourishment"
+1145,tranquilo (adj),"calm, tranquil, relaxed"
+1146,velocidad (nf) [also rapidez],"speed, velocity"
+1147,barrio (nm),"neighborhood, district"
+1148,nombrar (v),"to name, appoint"
+1149,análisis (nm),analysis
+1150,confundir (v),to confuse
+1151,frontera (nf),"border, frontier"
+1152,describir (v),to describe
+1153,lejano (adj),distant
+1154,breve (adj),"brief, short"
+1155,temor (nm) [also miedo],fear
+1156,calcular (v),"to calculate, figure out"
+1157,conformar (v),to conform
+1158,ataque (nm),"attack, raid"
+1159,pintar (v),to paint
+1160,cine (nm),"cinema, US movie theater"
+1161,rama (nf),"branch, bough, limb"
+1162,repartir (v),"to divide, deliver, distribute"
+1163,comienzo (nm),"start, beginning"
+1164,exterior (adj),"exterior, outside (adj)"
+1165,barco (nm),boat
+1166,partida (nf),"game, match, departure"
+1167,hallar (v),to find out
+1168,ordenar (v),"to put in order, organize"
+1169,aparato (nm),"apparatus, device"
+1170,convencer (v),"to convince, persuade"
+1171,médico (adj),medical (adj)
+1172,extranjero (nm),foreigner (nm)
+1173,cámara (nf),"camera, chamber"
+1174,creación (nf),creation
+1175,rodear (v),to surround
+1176,ajeno (adj),"not belonging to, detached"
+1177,reflejar (v),to reflect
+1178,gana (nf),desire
+1179,seco (adj),"dry, arid"
+1180,quinto (adj),fifth
+1181,moda (nf),"fashion, form"
+1182,absolutamente (adv),"absolutely, completely"
+1183,rechazar (v),to reject
+1184,contribuir (v),to contribute
+1185,ruido (nm),noise
+1186,cama (nf),bed (furniture)
+1187,infantil (adj),"of children, childlike, infantile"
+1188,técnica (nf),"technique, skill"
+1189,consejo (nm),"advice, council, counsel"
+1190,internacional (adj),international
+1191,violencia (nf),violence
+1192,original (adj),original (adj)
+1193,sonido (nm),sound
+1194,vencer (v),"to overcome, conquer"
+1195,estrella (nf),star (nf)
+1196,útil (adj),useful
+1197,alejar (v),to move away
+1198,mirada (nf),"gaze, look"
+1199,tremendo (adj),"tremendous, dreadful, huge"
+1200,cuándo (adv),when?
+1201,temprano (adj),early
+1202,pierna (nf),leg
+1203,transmitir (v),"to transmit, broadcast"
+1204,marchar (v),"to walk, to work (like a machine)"
+1205,hambre (nf el),"hunger, starvation"
+1206,placer (nm),pleasure
+1207,profesión (nf),"profession, occupation"
+1208,destruir (v),"to destroy, ruin"
+1209,separado (adj),separate
+1210,opinar (v),"to think, be of the opinion"
+1211,objetivo (nm),objective (nm)
+1212,honor (nm),"honor, honesty"
+1213,montaña (nf),mountain (nf)
+1214,cometer (v),to commit
+1215,lógico (adj),logical
+1216,instante (nm),"instant, moment"
+1217,viento (nm),"wind, scent"
+1218,lluvia (nf),rain
+1219,ejército (nm),army
+1220,trasladar (v),"to move, transfer"
+1221,tren (nm),"train, convoy"
+1222,concluir (v),"to conclude, finish"
+1223,círculo (nm),"circle, club"
+1224,auténtico (adj),authentic
+1225,hermoso (adj),"beautiful, lovely"
+1226,oponer (v),to oppose
+1227,ventaja (nf),"advantage, benefit"
+1228,figurar (v),"to appear, represent, figure in"
+1229,terrible (adj),terrible
+1230,isla (nf),island
+1231,torno (nm),"en torno a: about, regarding"
+1232,sentado (adj),seated
+1233,amistad (nf),friendship
+1234,concentrar (v),to concentrate
+1235,correcto (adj),"correct, suitable"
+1236,mañana (adv),tomorrow (adv)
+1237,cadena (nf),chain
+1238,político (nm/f),politician (nm/f)
+1239,rey (nm),king
+1240,permanente (adj),permanent
+1241,ánimo (nm),"zest, spirit, heart"
+1242,trato (nm),"treatment, manner, agreement"
+1243,ejercicio (nm),"exercise, practice"
+1244,organización (nf),organization
+1245,agosto (nm),August
+1246,secretario (nm/f),secretary
+1247,norteamericano (adj),North American
+1248,ignorar (v),to be unaware
+1249,dedo (nm),"finger, toe, digit"
+1250,gasto (nm),"expense, expenditure"
+1251,café (nm),"coffee, café"
+1252,diálogo (nm),"dialogue, conversation"
+1253,dudar (v),to have doubt
+1254,comercial (adj),"commercial, shopping"
+1255,discurso (nm),"lecture, discourse, talk"
+1256,obligado (adj),"obliged, required"
+1257,hermana (nf),sister
+1258,descansar (v),to rest
+1259,caja (nf),"bank, box, safe"
+1260,juez (nc),judge
+1261,particular (nm),"particular, detail, individual (nm)"
+1262,americano (adj),American
+1263,poeta (nc),poet
+1264,interior (adj),"interior, inside (adj)"
+1265,sorpresa (nf),surprise
+1266,ventana (nf),window
+1267,característica (nf),"characteristic, aspect"
+1268,adoptar (v),to adopt
+1269,arrancar (v),"to start a machine, uproot"
+1270,disfrutar (v) [also gozar],to enjoy
+1271,práctico (adj),"practical, skillful"
+1272,suma (nf),"sum, amount, summary"
+1273,molestar (v),"to bother, disturb, upset"
+1274,excelente (adj),excellent
+1275,volumen (nm),volume
+1276,estación (nf),"station, season"
+1277,atrever (v),to dare
+1278,cultural (adj),cultural
+1279,complejo (adj),"complex, complicated (adj)"
+1280,argumento (nm),"argument, plot"
+1281,categoría (nf),category
+1282,plata (nf),"silver, money"
+1283,conflicto (nm),conflict
+1284,avión (nm),"plane, airplane, aircraft"
+1285,débil (adj),weak
+1286,ropa (nf),"clothes, clothing"
+1287,examen (nm),"examination, exam"
+1288,habitante (nm),inhabitant
+1289,acerca (adv),"about, concerning"
+1290,ceder (v),"to give way, yield"
+1291,justicia (nf),"justice, fairness"
+1292,independiente (adj),"independent, self-sufficient"
+1293,criterio (nm),criterion
+1294,atraer (v),to attract
+1295,convencido (adj),"convinced, persuaded"
+1296,plazo (nm),"deadline, installment"
+1297,pendiente (adj),"aware of, pending"
+1298,kilómetro (nm),kilometer
+1299,hospital (nm),hospital
+1300,satisfacción (nf),satisfaction
+1301,futuro (adj),future (adj)
+1302,acumular (v),"to accumulate, amass"
+1303,desconocido (adj),unknown
+1304,practicar (v),to practice
+1305,gozar (v) [also disfrutar],to enjoy
+1306,muchísimo (adj),"great many, great amount"
+1307,sesenta (num),sixty
+1308,silla (nf),"chair, seat"
+1309,justificar (v),"to justify, excuse"
+1310,tradicional (adj),traditional
+1311,soportar (v),"to endure, stand (something)"
+1312,juventud (nf),youth
+1313,resistir (v),"to resist, endure"
+1314,aparte (adv),"apart, aside, separately"
+1315,triste (adj),"sad, unhappy"
+1316,acceso (nm),"access, entry"
+1317,marco (nm),"frame, mark, setting"
+1318,vestir (v),"to wear, dress"
+1319,prensa (nf),press
+1320,excepción (nf),exception
+1321,sorprender (v),to surprise
+1322,ausencia (nf),absence
+1323,proceder (v),"to proceed, start"
+1324,condenar (v),"to convict, condemn"
+1325,sombra (nf),"shade, shadow"
+1326,similar (adj) [also parecideo],similar
+1327,consumir (v),"to consume, take in"
+1328,sugerir (v),"to suggest, hint at"
+1329,activo (adj),active
+1330,clásico (adj),classic
+1331,profundidad (nf),"depth, profundity"
+1332,conceder (v),"to grant, concede"
+1333,reciente (adj),recent
+1334,eléctrico (adj),electric
+1335,leche (nf),milk
+1336,consideración (nf),"consideration, regard"
+1337,componer (v),"to compose, be part of"
+1338,premio (nm),"prize, reward"
+1339,bello (adj),"beautiful, fine"
+1340,nacimiento (nm),"birth, origin"
+1341,invierno (nm),winter
+1342,diciembre (nm),December
+1343,brillante (adj),"brilliant, shiny, sparkling"
+1344,comportamiento (nm),"behavior, conduct"
+1345,crítica (nf),"criticism, critique"
+1346,femenino (adj),"feminine, female"
+1347,fuego (nm),"fire, gunfire"
+1348,tendencia (nf),"tendency, style"
+1349,fino (adj),"fine, delicate"
+1350,norma (nf),"standard, pattern, norm"
+1351,inferior (adj),"lower, inferior"
+1352,arreglar (v),"to fix, arrange"
+1353,rueda (nf),wheel
+1354,puente (nm),bridge
+1355,animar (v),to cheer up
+1356,rasgo (nm),"feature, trait"
+1357,positivo (adj),positive
+1358,cuento (nm),"story, tale"
+1359,definitivamente (adv),"definitely, finally"
+1360,signo (nm),"sign, mark, symbol"
+1361,señal (nf),"sign, mark, token"
+1362,apuntar (v),"to point, note, aim"
+1363,campaña (nf),campaign
+1364,liberar (v),"to free, liberate"
+1365,puerto (nm),"port, harbor"
+1366,profundamente (adv),"profoundly, deeply"
+1367,aventura (nf),adventure
+1368,pesado (adj),"heavy, boring, tiresome"
+1369,complicado (adj),"complicated, complex"
+1370,añadir (v),to add
+1371,marca (nf),"mark, brand, trademark"
+1372,girar (v),"to rotate, revolve"
+1373,ilusión (nf),"illusion, hope, dream"
+1374,os (pron),you (obj pl fam)
+1375,compra (nf),"shopping, buy, purchase"
+1376,inteligencia (nf),intelligence
+1377,volar (v),to fly
+1378,loco (adj),"crazy, insane"
+1379,virtud (nf),"virtue, quality"
+1380,remedio (nm),"alternative, cure, solution"
+1381,delicado (adj),delicate
+1382,facilitar (v),to facilitate
+1383,territorio (nm),territory
+1384,facultad (nf),"faculty, ability"
+1385,solicitar (v),"to solicit, request"
+1386,fotografía (nf),photograph
+1387,techo (nm),roof
+1388,temer (v),to fear
+1389,conducta (nf),"conduct, behavior"
+1390,violento (adj),violent
+1391,aquél (pron),that one over there (m)
+1392,salto (nm),"jump, hop, skip"
+1393,pan (nm),bread
+1394,atacar (v),to attack
+1395,sano (adj) [also saludable],"healthy, wholesome"
+1396,pegar (v),"to hit, stick on"
+1397,juzgar (v),to judge
+1398,limpio (adj),clean
+1399,disposición (nf),"disposal, disposition"
+1400,posterior (adj),"rear, backside"
+1401,general (nm),general (nm)
+1402,disciplina (nf),"discipline, subject"
+1403,relacionado (adj),"related, regarding"
+1404,habitual (adj),"usual, habitual, customary"
+1405,personal (nm),"personnel, staff, staffing (nm)"
+1406,interrumpir (v),to interrupt
+1407,columna (nf),"column, spine"
+1408,verdaderamente (adv),truly
+1409,fabricar (v),to manufacture
+1410,únicamente (adv) [also solamente],only
+1411,nervioso (adj),"nervous, uptight"
+1412,indio (nm),Indian
+1413,gato (nm),cat
+1414,margen (nmf),"edge, margin, border, brink"
+1415,material (adj),material (adj)
+1416,resistencia (nf),"resistance, opposition"
+1417,consciente (adj),"conscious, aware"
+1418,pérdida (nf),loss
+1419,tratamiento (nm),"treatment, processing"
+1420,entrevista (nf),"interview, meeting"
+1421,espectáculo (nm),"spectacle, show"
+1422,personalidad (nf),"personality, celebrity"
+1423,mayo (nm),May
+1424,confiar (v),"to trust, confide"
+1425,operar (v),to operate
+1426,representación (nf),representation
+1427,régimen (nm),"regime, diet"
+1428,punta (nf),"tip, point"
+1429,vital (adj),"vital, lively, essential"
+1430,alegría (nf),"joy, happiness"
+1431,basar (v),"to base on, base upon"
+1432,igualmente (adv),equally
+1433,misión (nf),"mission, task"
+1434,estimar (v),"to estimate, hold in esteem"
+1435,cotidiano (adj) [also diario],daily (adj)
+1436,confirmar (v),to confirm
+1437,empleo (nm),"work, job, occupation"
+1438,previo (adj),previous
+1439,participación (nf),"participation, involvement"
+1440,integrar (v),"to integrate, fit in"
+1441,período (nm),"period, time"
+1442,busca (nf),"search, hunt"
+1443,superficie (nf),"surface, area"
+1444,aprobar (v),"to pass a test, approve"
+1445,chino (adj),Chinese
+1446,pasión (nf),"passion, desire"
+1447,vehículo (nm),"vehicle, car"
+1448,inteligente (adj),intelligent
+1449,grabar (v),"to record, engrave"
+1450,enero (nm),January
+1451,capítulo (nm),chapter
+1452,fracaso (nm),"failure, collapse"
+1453,experto (nm),expert
+1454,inquietud (nf),"restlessness, anxiety"
+1455,nuevamente (adv),"anew, again"
+1456,once (num),eleven
+1457,listo (adj),"ready, clever, smart"
+1458,equivocar (v),to be wrong
+1459,organismo (nm),"organization, organism, human body"
+1460,canción (nf),song
+1461,religión (nf),religion
+1462,correspondiente (adj),corresponding
+1463,departamento (nm),"department, apartment"
+1464,generalmente (adv),"generally, usually"
+1465,periodista (nc),journalist
+1466,seguido (adj),"in a row, successive"
+1467,llorar (v),to cry
+1468,griego (adj),Greek
+1469,interpretación (nf),"interpretation, interpreting"
+1470,maestro (adj),master (adj)
+1471,barato (adj),inexpensive
+1472,proyectar (v),to project
+1473,belleza (nf),beauty
+1474,universidad (nf),"university, college"
+1475,riqueza (nf),"riches, wealth"
+1476,notable (adj),"outstanding, noteworthy"
+1477,beber (v),to drink
+1478,claramente (adv),clearly
+1479,rato (nm),"moment, while, time"
+1480,encargado (adj),in charge of
+1481,técnico (adj),technical (adj)
+1482,ciego (adj),blind
+1483,individual (adj),individual
+1484,apreciar (v),to appreciate
+1485,experimentar (v),"to experience, experiment"
+1486,justamente (adv),"just, exactly"
+1487,amar (v),to love
+1488,equilibrio (nm),balance
+1489,universal (adj),universal
+1490,ah (interj) [also oh],oh
+1491,fruto (nm),"fruit, result"
+1492,representante (nc),representative (nc)
+1493,robar (v),"to rob, steal"
+1494,reír (v),to laugh
+1495,literario (adj),literary
+1496,exceso (nm),excess
+1497,capa (nf),"layer, coat"
+1498,defecto (nm),defect
+1499,fábrica (nf),"factory, manufacture"
+1500,espalda (nf),back (body)
+1501,mezclar (v),to mix
+1502,género (nm),"sort, gender, genre"
+1503,continuo (adj),continuous
+1504,distribuir (v),"to distribute, deliver"
+1505,economía (nf),"economy, economics, thriftiness"
+1506,apartar (v),"to move away, separate"
+1507,bosque (nm),forest
+1508,reclamar (v),"to demand, require"
+1509,paisaje (nm),landscape
+1510,quemar (v),to burn
+1511,llamado (nm),"call, calling"
+1512,paciente (nc),patient
+1513,elevado (adj),"elevated, high, lofty"
+1514,obedecer (v),to obey
+1515,tensión (nf),"tension, stress, strain"
+1516,establecido (adj),established
+1517,local (adj),local (adj)
+1518,satisfacer (v),to satisfy
+1519,concebir (v),"to conceive, understand"
+1520,ministro (nm/f),"government secretary, minister"
+1521,impulso (nm),"impulse, momentum"
+1522,reaccionar (v),to react
+1523,comercio (nm),"commerce, trade"
+1524,naturalmente (adv),naturally
+1525,acusar (v),to accuse
+1526,espera (nf),wait
+1527,gastar (v),to spend money
+1528,reserva (nf),"reservation, reserve"
+1529,regalar (v),to give as a gift
+1530,competencia (nf),"competition, contest"
+1531,quejar (v),to complain
+1532,penetrar (v),"to penetrate, come in"
+1533,vacío (adj),"empty, vacant (adj)"
+1534,aislado (adj),isolated
+1535,rendir (v),"to yield, to produce"
+1536,observación (nf),observation
+1537,registrar (v) [also inscribir],"to register, record"
+1538,limpiar (v),to clean
+1539,vacío (nm),"emptiness, void (nm)"
+1540,atribuir (v),to attribute
+1541,cifra (nf),"figure, number, amount"
+1542,ocultar (v),to hide
+1543,escala (nf),"scale, ladder, rank"
+1544,enterar (v),to find out [se]
+1545,procedimiento (nm),"procedure, proceedings"
+1546,ajustar (v),"to adjust, tighten"
+1547,fórmula (nf),formula
+1548,ámbito (nm),"sphere, space"
+1549,informe (nm),report
+1550,dimensión (nf),"dimension, size"
+1551,cliente (nc),"client, customer"
+1552,manifestación (nf),"protest, manifestation"
+1553,aspirar (v),"to aspire, want"
+1554,pico (nm),"beak, peak; (y pico: and a bit)"
+1555,sensibilidad (nf),sensitivity
+1556,recurrir (v),to resort to
+1557,múltiple (adj),"multiple, many"
+1558,regreso (nm) [also retorno],return
+1559,temperatura (nf),temperature
+1560,julio (nm),July
+1561,poderoso (adj),powerful
+1562,digno (adj),worthy
+1563,bomba (nf),"bomb, explosion, pump"
+1564,órgano (nm),organ
+1565,inútil (adj),useless
+1566,avance (nm) [also adelanto],"advance, progress"
+1567,humanidad (nf),"humanity, mankind"
+1568,firma (nf),"company, signature, signing"
+1569,soldado (nm/f),soldier
+1570,sólido (adj),"solid, strong"
+1571,firme (adj),"firm, steady"
+1572,extremo (adj),extreme (adj)
+1573,conforme (adj),in agreement
+1574,esencial (adj),essential
+1575,huir (v),"to flee, run away"
+1576,percibir (v),to notice [also notar]
+1577,clima (nm),climate
+1578,emoción (nf),"emotion, excitement"
+1579,automóvil (nm),automobile
+1580,transcurrir (v),"to occur, take place"
+1581,mal (nm),evil (nm)
+1582,recomendar (v),to recommend
+1583,habilidad (nf),"ability, skill, talent"
+1584,identidad (nf),identity
+1585,desgracia (nf),"misfortune, bad luck"
+1586,corregir (v),"to correct, rectify"
+1587,amarillo (adj),yellow
+1588,consultar (v),to consult
+1589,deber (nm),"duty, obligation (nm)"
+1590,cola (nf),"line, queue, tail"
+1591,padecer (v),to suffer
+1592,progreso (nm),progress
+1593,elaborar (v),"to make, develop"
+1594,soñar (v),to dream
+1595,muestra (nf),"proof, sample, sign"
+1596,acostumbrado (adj),accustomed
+1597,hábito (nm),habit
+1598,gritar (v),to shout
+1599,artístico (adj),artistic
+1600,mecanismo (nm),mechanism
+1601,vivienda (nf),"housing, dwelling"
+1602,ocupado (adj),"busy, occupied"
+1603,área (nf el),"area, zone (nf el)"
+1604,traducir (v),to translate
+1605,efectivamente (adv),"in fact, actually, indeed"
+1606,interesado (adj),interested
+1607,mezcla (nf),"mixture, blend"
+1608,excesivo (adj),excessive
+1609,sumar (v),"to add up, amount to"
+1610,alimentar (v),"to feed, support"
+1611,habitación (nf),"room, bedroom, habitat"
+1612,instrucción (nf),instruction
+1613,eliminar (v),"to eliminate, exclude"
+1614,versión (nf),"version, account"
+1615,lujo (nm),luxury
+1616,intervención (nf),intervention
+1617,llegada (nf),arrival
+1618,alrededor (nm),"surrounding area, vicinity (nm)"
+1619,testigo (nm),witness
+1620,dominio (nm),"power, control"
+1621,raza (nf),"race, lineage"
+1622,renunciar (v),"to give up, renounce"
+1623,descubrimiento (nm),discovery
+1624,vacaciones (nf),vacation
+1625,provincia (nf),"province, region"
+1626,saber (nm),knowledge (nm)
+1627,argentino (adj),Argentine
+1628,cómodo (adj),"comfortable, convenient"
+1629,acostumbrar (v) [also soler],to be accustomed to
+1630,fácilmente (adv),easily
+1631,claridad (nf),"clearness, clarity"
+1632,negativo (adj),"negative, pessimistic"
+1633,revisar (v),"to check, revise, inspect"
+1634,carecer (v),to be without
+1635,científico (adj),scientific (adj)
+1636,arena (nf),sand
+1637,postura (nf),"posture, position, attitude"
+1638,salón (nm),"hall, room"
+1639,escenario (nm),"stage, setting, scene"
+1640,armado (adj),armed
+1641,largo (nm),length (nm)
+1642,prometer (v),to promise
+1643,contento (adj),"happy, content"
+1644,hotel (nm),hotel
+1645,oficio (nm),"job, occupation, function"
+1646,descender (v),to descend
+1647,cubierto (adj),covered
+1648,fila (nf),"line, row, file"
+1649,patrón (nm),"employer, landlord, patron saint"
+1650,pecho (nm),"chest, breast"
+1651,tienda (nf),"shop, store, tent"
+1652,típico (adj),typical
+1653,protección (nf),protection
+1654,funcionario (nm),civil servant
+1655,reproducir (v),"to reproduce, repeat"
+1656,constar (v),"to consist of, comprise"
+1657,crítico (adj),critical (adj)
+1658,transporte (nm),"transportation, transport"
+1659,red (nf),"network, net, system"
+1660,caída (nf),"fall, drop, falling"
+1661,castellano (adj),"Castilian, Spanish"
+1662,asociar (v),to associate with
+1663,desconocer (v),"to not know, not recognize"
+1664,valle (nm),valley
+1665,fallar (v),"to fail, miss"
+1666,vuelo (nm),flight
+1667,vecino (adj),"nearby, neighboring (adj)"
+1668,sexo (nm),sex
+1669,iniciativa (nf),initiative
+1670,increíble (adj),"incredible, unbelievable"
+1671,concentración (nf),"concentration, gathering"
+1672,grito (nm),"cry, shout, scream"
+1673,esencia (nf),essence
+1674,cocina (nf),kitchen
+1675,mental (adj),mental
+1676,reflejo (nm),reflection (reflected image)
+1677,definición (nf),definition
+1678,preocupado (adj),"worried, concerned"
+1679,perdonar (v),"to forgive, excuse"
+1680,obstante (adj),no + obstante: nevertheless
+1681,abogado (nm/f),lawyer
+1682,agradecer (v),to thank for
+1683,admirar (v),to admire
+1684,sesión (nf),"session, meeting"
+1685,íntimo (adj),"close, intimate"
+1686,reloj (nm),"clock, watch"
+1687,estrecho (adj),narrow
+1688,muchacho (nm) [also chico],boy
+1689,octubre (nm),October
+1690,exposición (nf),"exhibition, display"
+1691,ingreso (nm),"entrance, admission, income"
+1692,revelar (v),"to reveal, disclose"
+1693,dibujo (nm),"drawing, sketch"
+1694,frecuente (adj),frequent
+1695,inevitable (adj),"inevitable, unavoidable"
+1696,hueso (nm),bone
+1697,ligero (adj),"light (in weight), slight"
+1698,militar (nm),"soldier, military person (nm)"
+1699,motor (nm),"engine, motor"
+1700,oposición (nf),opposition
+1701,patio (nm),"courtyard, playground, yard"
+1702,fruta (nf),fruit
+1703,ideal (nm),"ideal, goal (nm)"
+1704,izquierdo (adj),left (opposite of right)
+1705,ti (pron),you (obj prep singular familiar)
+1706,actor (nm),actor
+1707,confusión (nf),confusion
+1708,bonito (adj),"pretty, nice"
+1709,agregar (v),"to add, gather"
+1710,corriente (adj),"current, common (adj)"
+1711,traje (nm),"suit, dress, costume"
+1712,exigencia (nf),"requirement, demand"
+1713,víctima (nf),"victim, casualty"
+1714,playa (nf),"beach, seaside"
+1715,trabajador (nm/f) [also obrero],"worker, laborer (nm/f)"
+1716,primario (adj),primary
+1717,hierro (nm),iron
+1718,ideal (adj),ideal (adj)
+1719,completar (v),to complete
+1720,tela (nf),"cloth, fabric"
+1721,ancho (adj),wide (adj)
+1722,producción (nf) [also elaboración],production
+1723,febrero (nm),February
+1724,símbolo (nm),symbol
+1725,agradable (adj),"nice, pleasant"
+1726,medicina (nf),medicine
+1727,combatir (v),to fight against
+1728,búsqueda (nf),search
+1729,colectivo (adj),"collective, joint (adj)"
+1730,tranquilidad (nf),"tranquility, peace"
+1731,espejo (nm),"mirror, reflection"
+1732,secreto (adj),secret (adj)
+1733,comprensión (nf),understanding (nf)
+1734,incapaz (adj),incapable
+1735,cerebro (nm),brain
+1736,satisfecho (adj),satisfied
+1737,reducido (adj),"reduced, limited"
+1738,tiro (nm),"throw, shot"
+1739,aportar (v),"to provide, contribute"
+1740,derivar (v),"to derive, come from"
+1741,abuelo (nm),grandfather
+1742,prohibir (v),"to prohibit, forbid"
+1743,proporcionar (v),to supply
+1744,maravilloso (adj),"wonderful, marvelous"
+1745,saludar (v),"to greet, say hello"
+1746,relacionar (v),to relate
+1747,declaración (nf),"declaration, statement"
+1748,relativo (adj),relative (adj)
+1749,sujeto (nm),"subject, individual (nm)"
+1750,investigar (v) [also indagar],to investigate
+1751,ubicar (v),"to find, locate"
+1752,enseñanza (nf),"teaching, instruction"
+1753,musical (adj),musical
+1754,permiso (nm),"permission, permit"
+1755,evolución (nf),"evolution, development"
+1756,tío (nm),"uncle, guy"
+1757,moral (nf),"morals, ethics (nf)"
+1758,redondo (adj),round (adj)
+1759,modificar (v),to modify
+1760,sujeto (adj),"fastened, subject to (adj)"
+1761,parque (nm),park
+1762,ingeniero (nm/f),engineer
+1763,lavar (v),to wash
+1764,borde (nm),edge
+1765,invadir (v),"to invade, overcome"
+1766,entusiasmo (nm),enthusiasm
+1767,evidentemente (adv),"evidently, obviously"
+1768,independencia (nf),independence
+1769,mentira (nf),lie
+1770,exclusivamente (adv),exclusively
+1771,sueldo (nm),"salary, pay"
+1772,desplazar (v),"to replace, move, shift"
+1773,comparación (nf),comparison
+1774,setenta (num),seventy
+1775,romano (adj),Roman
+1776,sagrado (adj),sacred
+1777,seno (nm),"breast, bosom, cavity"
+1778,adelantar (v),to move forward
+1779,canto (nm),"singing, chant"
+1780,potencia (nf),"power, potential"
+1781,examinar (v),"to examine, inspect"
+1782,oficial (nc),"official, officer (nc)"
+1783,fortuna (nf),"fortune, fate"
+1784,crimen (nm),"crime, murder"
+1785,suave (adj),"soft, gentle, mild"
+1786,opuesto (adj),"opposite, contrary"
+1787,sustituir (v),"to substitute, replace"
+1788,ciudadano (nm),citizen (nm)
+1789,implicar (v),"to implicate, imply"
+1790,baño (nm),"bathroom, bath, swim"
+1791,sabio (adj),"wise, learned"
+1792,ingresar (v),"to join, deposit, admit"
+1793,respirar (v),to breathe
+1794,caliente (adj),"hot, warm, spirited"
+1795,reconocimiento (nm),"recognition, acknowledgment"
+1796,exterior (nm),"exterior, outside (nm)"
+1797,sexual (adj),sexual
+1798,respectivo (adj),respective
+1799,situado (adj),"situated, located"
+1800,crédito (nm),"credit, reputation"
+1801,alternativa (nf),alternative
+1802,rodeado (adj),surrounded
+1803,esconder (v),"to hide, conceal"
+1804,cuando (adv),when (adv)
+1805,canal (nm),"channel, canal"
+1806,suficientemente (adv),enough
+1807,agente (nc),agent
+1808,pago (nm),payment
+1809,filosofía (nf),philosophy
+1810,alterar (v),"to alter, modify"
+1811,lector (nm),"reader, lecturer"
+1812,emitir (v),"to emit, give off"
+1813,magnífico (adj),"magnificent, splendid"
+1814,triunfo (nm),"triumph, victory"
+1815,inclinar (v),"to bow, tilt, incline"
+1816,campesino (adj),rural
+1817,sábado (nm),Saturday
+1818,amiga (nf),friend (f)
+1819,carretera (nf),"highway, road"
+1820,desprender (v),"to detach, release, remove"
+1821,efectivo (adj) [also eficaz],effective
+1822,victoria (nf),"victory, triumph"
+1823,circular (v),"to circulate, go around, flow (v)"
+1824,pelear (v),"to fight, struggle"
+1825,pájaro (nm) [also ave],bird
+1826,biblioteca (nf),library
+1827,reflexión (nf),"reflection, thought"
+1828,aplicado (adj),applied
+1829,aconsejar (v),"to advise, counsel"
+1830,vocación (nf),"vocation, calling"
+1831,casado (adj),married
+1832,continente (nm),continent
+1833,severo (adj),severe
+1834,tabla (nf),"chart, board, table, plank"
+1835,justo (adj),"fair, just (adj)"
+1836,ensayo (nm),"essay, rehearsal"
+1837,plato (nm),"plate, dish"
+1838,jardín (nm),garden
+1839,imaginación (nf),"imagination, fantasy"
+1840,precioso (adj),"beautiful, precious"
+1841,probable (adj),probable
+1842,poesía (nf),"poetry, poem"
+1843,guardia (nc),"guard, watch, lookout"
+1844,privilegio (nm),privilege
+1845,monte (nm),mountain (nm)
+1846,conmigo (pron),with me
+1847,arrojar (v),"to throw (violently), to hurl [also lanzar]"
+1848,precisión (nf),precision
+1849,sacrificio (nm),sacrifice
+1850,criticar (v),to criticize
+1851,hundir (v),"to sink, submerge"
+1852,hilo (nm),"thread, yarn, wire"
+1853,entendido (adj),understood
+1854,aparentemente (adv),apparently
+1855,aparición (nf),"appearance, apparition"
+1856,poema (nm),poem
+1857,avanzado (adj),advanced
+1858,curiosidad (nf),"curiosity, quaintness"
+1859,afuera (adv),outside
+1860,diente (nm),"tooth, cog"
+1861,primo (nm),cousin
+1862,encerrar (v),to shut in
+1863,latino (adj),Latin (adj)
+1864,apariencia (nf),"appearance, aspect"
+1865,novedad (nf),"latest news, newness"
+1866,espiritual (adj),spiritual
+1867,limitado (adj),limited
+1868,castigo (nm),"punishment, penalty"
+1869,constantemente (adv),constantly
+1870,denominar (v) [also llamar],"to call, name"
+1871,vestido (adj),dressed (adj)
+1872,carro (nm),"car, cart"
+1873,eterno (adj),eternal
+1874,aumento (nm),"increase, rise"
+1875,pobreza (nf),"poverty, lack, scarcity"
+1876,impulsar (v),"to push, promote, drive"
+1877,caro (adj),"expensive, difficult, dear"
+1878,empujar (v),"to push, shove"
+1879,dólar (nm),dollar
+1880,inicial (adj),initial (adj)
+1881,local (nm),"place, quarters (nm)"
+1882,dictar (v),"to dictate, announce"
+1883,dulce (adj),sweet (adj)
+1884,chocar (v),"to crash into, collide with"
+1885,industria (nf),"industry, factory"
+1886,caballero (nm),"gentleman, knight"
+1887,especialista (nc),specialist
+1888,temporada (nf),"season, period, time"
+1889,divino (adj),divine
+1890,humor (nm),"mood, humor"
+1891,borrar (v),to erase
+1892,nación (nf),nation
+1893,felicidad (nf),happiness
+1894,amante (nc),lover
+1895,alejado (adj),"remote, distant, aloof"
+1896,aguantar (v),"to endure, put up with"
+1897,coger (v),"to hold, take, catch"
+1898,cálculo (nm),"calculation, calculus"
+1899,composición (nf),"composition, make-up, essay"
+1900,rapidez (nf) [also velocidad],"speed, velocity"
+1901,huevo (nm),egg
+1902,elemental (adj),"elemental, basic"
+1903,crecimiento (nm),"growth, increase"
+1904,clave (nf),key (nf)
+1905,golpear (v),"to hit, strike"
+1906,tragedia (nf),tragedy
+1907,colección (nf),collection
+1908,chica (nf),"girl, female"
+1909,prestigio (nm),prestige
+1910,ascender (v),"to ascend, be promoted"
+1911,sección (nf),"section, cut"
+1912,complicar (v),"to complicate, make difficult"
+1913,anciano (adj),"elderly, aged"
+1914,fiel (adj),"faithful, loyal"
+1915,roto (adj),"broken, torn"
+1916,bolsa (nf),"bag, purse, stock exchange"
+1917,cinta (nf),"tape, ribbon, film, strip"
+1918,engañar (v),"to trick, deceive"
+1919,elegante (adj),"elegant, smart, stylish"
+1920,agotar (v),"to exhaust, wear out, run out"
+1921,cuello (nm),"neck, collar"
+1922,continuación (nf),"continuation, follow-up"
+1923,abril (nm),April
+1924,precisar (v),"to do exactly, specify"
+1925,actuación (nf),"performance, acting"
+1926,factor (nm),"factor, cause, influence"
+1927,esquina (nf),corner
+1928,hombro (nm),shoulder
+1929,infancia (nf),"infancy, childhood"
+1930,suspender (v),"to suspend, hang, fail"
+1931,descanso (nm),"rest, interval, break"
+1932,ampliar (v),"to enlarge, increase, expand"
+1933,zapato (nm),shoe
+1934,parecer (nm),"opinion, looks (nm)"
+1935,familiar (nm),relative (nm)
+1936,mérito (nm),"worth, merit"
+1937,cultivar (v),"to cultivate, produce"
+1938,oportuno (adj),"opportune, timely"
+1939,explotar (v),"to explode, exploit"
+1940,significativo (adj),"significant, meaningful"
+1941,despedir (v),"to dismiss, to say goodbye to"
+1942,suelto (adj),loose
+1943,muro (nm),"outer wall, rampart"
+1944,colaborar (v),"to collaborate, work together"
+1945,a menudo (adv),often
+1946,invertir (v),to invest
+1947,montón (nm),"lot of, heap, pile"
+1948,revolucionario (adj),revolutionary
+1949,disco (nm),"disc, disk, record"
+1950,indispensable (adj),"indispensable, essential"
+1951,demanda (nf),"petition, request, demand"
+1952,mundial (adj),worldwide
+1953,mueble (nm),piece of furniture
+1954,desastre (nm),disaster
+1955,secreto (nm),secret (nm)
+1956,oriental (adj),"eastern, oriental"
+1957,regular (adj),regular (adj)
+1958,angustia (nf),"anguish, distress"
+1959,provenir (v),"to come from, be from"
+1960,forzar (v),to force
+1961,doméstico (adj),domestic
+1962,nube (nf),cloud
+1963,criar (v),"to bring up, rear"
+1964,miseria (nf),"misery, wretchedness"
+1965,personalmente (adv),personally
+1966,peor (adj),"worse, worst (adj)"
+1967,significado (nm),meaning
+1968,fama (nf),"reputation, fame"
+1969,palacio (nm),palace
+1970,oído (nm),"hearing, ear"
+1971,conveniente (adj),convenient
+1972,polvo (nm),"dust, powder"
+1973,confesar (v),"to confess, admit"
+1974,mecánico (adj),mechanical
+1975,sacerdote (nm),priest
+1976,lentamente (adv),slowly
+1977,eficaz (adj) [also efectivo],effective
+1978,lección (nf),lesson
+1979,rosa (nf),rose
+1980,nocturno (adj),"nocturnal, evening"
+1981,posiblemente (adv),possibly
+1982,doblar (v),"to bend, turn"
+1983,disminuir (v),"to decrease, diminish"
+1984,averiguar (v),"to investigate, find out"
+1985,sospechar (v),"to suspect, suppose"
+1986,pasear (v),"to go for a walk, ride"
+1987,olor (nm),"smell, odor, fragrance"
+1988,radical (adj),radical
+1989,decidido (adj),"determined, resolute"
+1990,contrato (nm),"contract, agreement"
+1991,presentación (nf),"presentation, introduction"
+1992,cárcel (nf),"jail, prison"
+1993,división (nf),division
+1994,revés (nm),"al revés: backwards, upside down, inside out"
+1995,sucio (adj),"dirty, filthy, underhanded"
+1996,depositar (v),"to deposit, place, store"
+1997,captar (v),"to capture, attract"
+1998,cualidad (nf),"quality, attribute"
+1999,empeñar (v),to steam up
+2000,sobrevivir (v),"to survive, outlive"
+2001,índice (nm),"index, forefinger"
+2002,salvaje (adj),"wild, savage, uncultivated"
+2003,marzo (nm),March
+2004,atmósfera (nf),"atmosphere, environment"
+2005,planeta (nm),planet
+2006,industrial (adj),industrial
+2007,orgullo (nm),pride
+2008,jornada (nf),"working day, shift"
+2009,desnudo (adj),"nude, naked"
+2010,querido (adj),"dear, beloved"
+2011,absurdo (adj),absurd
+2012,dramático (adj),dramatic
+2013,palo (nm),"stick, pole"
+2014,diseño (nm),design
+2015,liberal (adj),liberal
+2016,lógica (nf),logic
+2017,herencia (nf),"inheritance, legacy"
+2018,legal (adj),legal
+2019,artificial (adj),artificial
+2020,deporte (nm),sport
+2021,reina (nf),queen
+2022,bandera (nf),flag
+2023,influir (v),to have influence
+2024,maravilla (nf),"wonder, marvel"
+2025,modesto (adj),"modest, humble"
+2026,banda (nf),"musical band, sash"
+2027,cristal (nm),"glass, crystal, window"
+2028,objetivo (adj),"objective, impartial (adj)"
+2029,anécdota (nf),anecdote
+2030,universitario (adj),university
+2031,sensible (adj),"sensitive, sentient"
+2032,leyenda (nf),legend
+2033,muerto (nm),dead person (nm)
+2034,azúcar (nm),sugar
+2035,multiplicar (v),to multiply
+2036,inclinación (nf),"slope, incline, tendency"
+2037,formal (adj),"formal, polite"
+2038,doler (v),to hurt
+2039,primitivo (adj),primitive
+2040,oculto (adj),"hidden, occult"
+2041,rostro (nm),"face, countenance"
+2042,separación (nf),separation
+2043,eco (nm),"echo, response"
+2044,definido (adj),definite
+2045,favorecer (v),"to favor, help"
+2046,cita (nf),"appointment, date, quotation"
+2047,actualidad (nf),present time
+2048,externo (adj),"external, outward"
+2049,escoger (v),to choose
+2050,colgar (v),to hang up
+2051,fantasía (nf),"fantasy, fancy"
+2052,promesa (nf),promise
+2053,pata (nf),"leg, paw"
+2054,llover (v),to rain
+2055,foto (nf),"photo, picture"
+2056,administración (nf),administration
+2057,absorber (v),"to absorb, soak up"
+2058,civilización (nf),civilization
+2059,organizado (adj),organized
+2060,ocupación (nf),"occupation, use"
+2061,mero (adj),mere
+2062,asiento (nm),"seat, chair"
+2063,compuesto (adj),"composite, mixed"
+2064,imitar (v),"to imitate, copy, mimic"
+2065,solitario (adj),"solitary, lonely"
+2066,pista (nf),"clue, track, trace"
+2067,testimonio (nm),"testimony, evidence"
+2068,regalo (nm),"gift, present"
+2069,educar (v),to educate
+2070,comprometer (v),to compromise
+2071,aproximar (v),"to come near, closer"
+2072,bailar (v),to dance
+2073,inspirar (v),"to inspire, inhale"
+2074,contradicción (nf),contradiction
+2075,agarrar (v),"to grasp, catch"
+2076,metal (nm),metal
+2077,aceite (nm),oil
+2078,prolongar (v),"to extend, prolong"
+2079,código (nm),code
+2080,estricto (adj),"strict, rigorous"
+2081,doloroso (adj),painful
+2082,unión (nf),union
+2083,extensión (nf),"extension, area, expanse"
+2084,duro (nm),money (nm)
+2085,adentro (adv) [also dentro],inside
+2086,idéntico (adj),identical
+2087,previsto (adj),"foreseen, planned"
+2088,adaptar (v),to adapt
+2089,varón (nm),"male, man"
+2090,situar (v),"to situate, place, locate"
+2091,característico (adj),characteristic
+2092,evidencia (nf),"evidence, certainty"
+2093,dignidad (nf),dignity
+2094,escándalo (nm),scandal
+2095,colega (nc),colleague
+2096,horario (nm),"schedule, timetable"
+2097,orilla (nf),"shore, edge"
+2098,curar (v),to cure
+2099,copia (nf),copy
+2100,huella (nf),"trace, track, footstep"
+2101,desempeñar (v),"to carry out, fulfill"
+2102,ejemplar (nm),"copy, issue (nm)"
+2103,extraer (v),"to extract, take out"
+2104,cura (nmf),"priest (m), cure (f)"
+2105,apagar (v),"to turn off, extinguish"
+2106,prever (v),"to foresee, anticipate, forecast"
+2107,garantía (nf),"guarantee, warranty"
+2108,vaso (nm),"drinking glass, vase"
+2109,perfil (nm),"profile, outline"
+2110,proporción (nf),proportion
+2111,expulsar (v),"to expel, throw out"
+2112,ceremonia (nf),ceremony
+2113,vidrio (nm),"glass, pane"
+2114,ruta (nf),route
+2115,anuncio (nm),"advertisement, announcement"
+2116,trece (num),thirteen
+2117,soledad (nf),"loneliness, solitude"
+2118,tesis (nf),"thesis, exposition"
+2119,rincón (nm),"corner, nook"
+2120,nariz (nf),nose
+2121,ochenta (num),eighty
+2122,bolsillo (nm),pocket
+2123,exhibir (v),"to exhibit, show off"
+2124,asociación (nf),association
+2125,fresco (adj),"cool, healthy, fresh (adj)"
+2126,mando (nm),"command, authority"
+2127,sabor (nm),"taste, flavor, sensation"
+2128,década (nf),decade
+2129,preparación (nf),"preparation, training"
+2130,tapar (v),"to cover, wrap"
+2131,acceder (v),"to consent, agree, accede"
+2132,atractivo (adj),attractive (adj)
+2133,afecto (nm),"affection, fondness"
+2134,encender (v),to turn on
+2135,protesta (nf),"objection, protest"
+2136,patria (nf),"native land, fatherland"
+2137,consumo (nm),consumption
+2138,católico (adj),Catholic
+2139,selva (nf),"forest, jungle"
+2140,deuda (nf),debt
+2141,horizonte (nm),horizon
+2142,disparar (v),to shoot at
+2143,masculino (adj),"masculine, manly, male"
+2144,talento (nm),"talent, skill"
+2145,gas (nm),gas
+2146,té (nm),tea
+2147,gloria (nf),"glory, fame"
+2148,cansado (adj),"tired, tiresome"
+2149,noviembre (nm),November
+2150,candidato (nm),candidate
+2151,llave (nf),"key, faucet, wrench"
+2152,inconveniente (nm),"inconvenience, drawback"
+2153,afán (nm),"eagerness, zeal, effort"
+2154,atar (v),to tie (up)
+2155,etcétera (n),etcetera
+2156,comisión (nf),"commission, committee"
+2157,desesperado (adj),"desperate, hopeless"
+2158,generar (v),to generate
+2159,posesión (nf),possession
+2160,dama (nf),"lady, dame"
+2161,onda (nf),"wave, ripple"
+2162,botella (nf),"bottle, flask"
+2163,torre (nf),tower
+2164,abarcar (v),"to encompass, comprise"
+2165,combinación (nf),combination
+2166,cadáver (nm),"corpse, body"
+2167,paquete (nm),"package, packet"
+2168,apellido (nm),last name
+2169,caído (adj),fallen
+2170,japonés (adj),Japanese
+2171,brindar (v),to offer
+2172,conferencia (nf),"conference, lecture"
+2173,espontáneo (adj),spontaneous
+2174,propuesta (nf),"proposal, proposition"
+2175,intensidad (nf),"intensity, force"
+2176,explosión (nf),explosion
+2177,urbano (adj),"urban, city, urbane"
+2178,odio (nm),hatred
+2179,valioso (adj),"valuable, precious"
+2180,universo (nm),universe
+2181,agudo (adj),"sharp, acute"
+2182,milagro (nm),miracle
+2183,entrega (nf),delivery
+2184,repente (adv),de + repente: suddenly
+2185,solucionar (v),"to solve, settle"
+2186,mapa (nm),map
+2187,héroe (nm),hero
+2188,lunes (nm),Monday
+2189,tráfico (nm),"traffic, trade"
+2190,terror (nm),"terror, horror"
+2191,casualidad (nf),"chance, coincidence"
+2192,tonto (adj),"stupid, dumb"
+2193,risa (nf),"laugh, chuckle"
+2194,cuerda (nf),"cord, rope"
+2195,consulta (nf),"consultation, advice"
+2196,edición (nf),"edition, publication"
+2197,acomodar (v),to be/make comfortable
+2198,rayo (nm),"ray, beam, lightning"
+2199,cuadrado (adj),square
+2200,tía (nf),aunt
+2201,adulto (nm),"adult, grown-up (nm)"
+2202,voto (nm),vote
+2203,calma (nf),"calm, lull"
+2204,sorprendente (adj),"surprising, astonishing"
+2205,favorable (adj),"favorable, suitable"
+2206,oferta (nf),"offer, bid, supply"
+2207,vergüenza (nf),embarrassment
+2208,ave (nm) [also pájaro],bird
+2209,rodilla (nf),knee
+2210,paseo (nm),"walk, ride"
+2211,variar (v),"to change, vary"
+2212,culpable (adj),guilty
+2213,normalmente (adv),normally
+2214,secundario (adj),secondary
+2215,registro (nm),"register, record"
+2216,infinito (adj),infinite (adj)
+2217,válido (adj),valid
+2218,gordo (adj),"fat, thick"
+2219,pintor (nm/f),painter
+2220,delito (nm),"crime, offense"
+2221,vestido (nm),dress (nm)
+2222,relato (nm),"tale, story"
+2223,baile (nm),"dance, ball"
+2224,misterio (nm),mystery
+2225,otorgar (v),"to give, grant, award"
+2226,ciclo (nm),cycle
+2227,principalmente (adv),"principally, mainly"
+2228,cesar (v),"to cease, stop"
+2229,síntoma (nm),symptom
+2230,amenaza (nf),threat
+2231,acá (adv),"here, around here"
+2232,recorrido (nm),"journey, itinerary, route"
+2233,concepción (nf),conception
+2234,tristeza (nf),sadness
+2235,vaca (nf),cow
+2236,criatura (nf),"creature, child"
+2237,creencia (nf),belief
+2238,desagradable (adj),unpleasant
+2239,núcleo (nm),"nucleus, core"
+2240,amenazar (v),to threaten
+2241,perdón (nm),"forgiveness, pardon"
+2242,madrugada (nf) [also alba],"dawn, daybreak"
+2243,agresivo (adj),aggressive
+2244,obrero (nm/f) [also trabajador],"worker, laborer (nm/f)"
+2245,parado (adj),"stopped, standing"
+2246,callar (v),to be/make quiet
+2247,cariño (nm),"love, affection"
+2248,vigilar (v),"to watch over, guard"
+2249,ángel (nm),angel
+2250,rigor (nm),"harshness, rigor"
+2251,orientar (v),"guide, show the way"
+2252,contraste (nm),contrast
+2253,turno (nm),"turn, shift; (en turno a: around)"
+2254,exclusivo (adj),exclusive
+2255,portar (v),"to behave [se], carry"
+2256,reino (nm),"kingdom, reign"
+2257,aproximadamente (adv),approximately
+2258,prohibido (adj),prohibited
+2259,funcionamiento (nm),"functioning, operation"
+2260,auto (nm),"auto, car"
+2261,ala (nf el),"wing, flank"
+2262,debate (nm),debate
+2263,grueso (adj),thick (adj)
+2264,aplicación (nf),application
+2265,laboratorio (nm),laboratory
+2266,urgente (adj),urgent
+2267,vendedor (nm/f),salesperson
+2268,copa (nf),"cup, glass, top of a tree"
+2269,avisar (v) [also notificar],to notify
+2270,renovar (v),"to renew, renovate"
+2271,tratado (nm),"treaty, treatise"
+2272,democrático (adj),democratic
+2273,soltar (v),"to release, loosen, let out"
+2274,abordar (v),"to board, get in/on"
+2275,castigar (v),to punish
+2276,rechazo (nm),"rejection, refusal"
+2277,totalidad (nf),"whole, totality"
+2278,fracasar (v),"to fail, to be unsuccessful"
+2279,catorce (num),fourteen
+2280,calificar (v),"to grade, rate, qualify"
+2281,juntar (v) [also reunir],"to put togerther, to get together"
+2282,papá (nm),dad
+2283,necesariamente (adv),necessarily
+2284,considerable (adj),considerable
+2285,cero (num),"zero, naught, nil"
+2286,ejecutar (v),"to execute, carry out"
+2287,mamá (nf),mom
+2288,vela (nf),"candle, sail, vigil"
+2289,protestar (v),"to protest, object"
+2290,establecimiento (nm),establishment
+2291,gris (adj),"gray, gloomy"
+2292,matiz (nm),"shade, tint, nuance"
+2293,impresionar (v),to impress
+2294,meta (nf),"goal, aim, purpose"
+2295,comportar (v),to behave
+2296,básico (adj),"basic, essential"
+2297,comodidad (nf),"comfort, convenience"
+2298,pariente (nc),relative (nc)
+2299,abandonado (adj),abandoned
+2300,distribución (nf),distribution
+2301,invitación (nf),invitation
+2302,destrucción (nf),destruction
+2303,indígena (adj),"indigenous, native"
+2304,moreno (adj),"dark, brown"
+2305,alegre (adj),"happy, lively, cheerful"
+2306,opción (nf),"option, choice"
+2307,extenso (adj),"extensive, large"
+2308,ruso (adj),Russian
+2309,máximo (nm),maximum (nm)
+2310,tarjeta (nf),card
+2311,fase (nf),"phase, stage"
+2312,veinticinco (num),twenty-five
+2313,tropa (nf),"troops, forces"
+2314,remoto (adj),"remote, far-off"
+2315,socio (nm),"member, partner"
+2316,comunista (adj),Communist
+2317,abundante (adj),"abundant, plentiful"
+2318,dibujar (v),"to draw, sketch"
+2319,guía (nc),"guide, leader"
+2320,judío (adj),Jewish
+2321,impresionante (adj),"impressive, astonishing"
+2322,hielo (nm),ice
+2323,gobernar (v),to govern
+2324,occidental (adj),"occidental, western"
+2325,deshacer (v),"to undo, destroy, take apart"
+2326,primavera (nf),"spring, spring-like"
+2327,mutuo (adj),mutual
+2328,simpatía (nf),"sympathy, affinity"
+2329,reconstruir (v),to reconstruct
+2330,centímetro (nm),centimeter
+2331,pantalla (nf),"screen, monitor"
+2332,toro (nm),bull
+2333,denunciar (v),to denounce
+2334,cultivo (nm),"cultivation, crop"
+2335,horror (nm),"horror, atrocity"
+2336,bienestar (nm),"wellbeing, welfare"
+2337,paciencia (nf),patience
+2338,ay (interj),oh no! oh my!
+2339,romántico (adj),romantic
+2340,convicción (nf),conviction
+2341,plenamente (adv),fully
+2342,uniforme (nm),uniform (nm)
+2343,media (nf),"average; (a media: halfways)"
+2344,mínimo (nm),minimum (nm)
+2345,doscientos (num),two hundred
+2346,garantizar (v),to guarantee
+2347,compañera (nf),female companion
+2348,pintado (adj),painted
+2349,combinar (v),to combine
+2350,junio (nm),June
+2351,drama (nm),drama
+2352,distante (adj),"distant, far, remote"
+2353,sencillamente (adv),simply
+2354,equivocado (adj),"mistaken, wrong"
+2355,doble (nm),double (nm)
+2356,episodio (nm),"episode, incident"
+2357,divertir (v),"to amuse, entertain"
+2358,afirmación (nf),"statement, assertion"
+2359,conquistar (v),"to conquer, win over"
+2360,bar (nm),"snack bar, café"
+2361,fantástico (adj),"fantastic, unreal"
+2362,liberación (nf),liberation
+2363,actualmente (adv),"now, at present"
+2364,envolver (v),to wrap
+2365,estancia (nf),"stay, stance, ranch"
+2366,emprender (v),"to undertake, embark on"
+2367,anticipar (v),"to anticipate, advance"
+2368,humilde (adj),"humble, modest"
+2369,variedad (nf),variety
+2370,desarrollado (adj),"developed, grown"
+2371,capitán (nm),"captain, chief"
+2372,droga (nf),drug
+2373,específico (adj),specific
+2374,taller (nm),"workshop, shop"
+2375,desorden (nm),"disorder, mess"
+2376,quebrar (v),"to break, bend, weaken"
+2377,encerrado (adj),locked up
+2378,esclavo (nm),slave
+2379,injusto (adj),"unfair, unjust"
+2380,sucesivo (adj),"successive, following"
+2381,sumamente (adv),"extremely, highly"
+2382,feo (adj),"ugly, nasty, rude"
+2383,equilibrar (v),to balance
+2384,asomar (v),"to appear, show, stick (out)"
+2385,optar (v),"to choose, opt for"
+2386,manejo (nm),"handling, management"
+2387,lágrima (nf),"tear, teardrop"
+2388,colaboración (nf),collaboration
+2389,orgulloso (adj) [also soberbio],"proud, arrogant"
+2390,ángulo (nm),angle
+2391,impacto (nm),impact
+2392,urgencia (nf),urgency
+2393,excepcional (adj),"exceptional, unusual"
+2394,creador (nm),creator
+2395,luna (nf),moon
+2396,instalación (nf),"installation, facilities"
+2397,homenaje (nm),"homage, tribute"
+2398,ruina (nf),"ruin, collapse"
+2399,generoso (adj),generous
+2400,académico (adj),academic
+2401,azar (nm),"random, chance, hazard"
+2402,estallar (v),"to break out, explode, start"
+2403,copiar (v),to copy
+2404,inaugurar (v),"to inaugurate, start"
+2405,apretar (v),"to squeeze, tighten, compress"
+2406,razonable (adj),reasonable
+2407,ola (nf),"wave, billow"
+2408,oreja (nf),ear
+2409,abuela (nf),grandmother
+2410,amable (adj),"kind, nice, friendly"
+2411,doña (nf),"courtesy title (f), Mrs."
+2412,rígido (adj),"rigid, stiff, firm"
+2413,arco (nm),"arch, arc, bow"
+2414,oriente (nm),East
+2415,rumbo (nm),"direction, course, bearing"
+2416,ejecución (nf),"performance, execution"
+2417,mentir (v),to (tell a) lie
+2418,ordenado (adj),"organized, clean"
+2419,contratar (v),"to hire, contract"
+2420,caos (nm),chaos
+2421,colonia (nf),"colony, cologne"
+2422,alcohol (nm),alcohol
+2423,apropiado (adj),appropriate
+2424,nieve (nf),snow
+2425,multitud (nf),multitude
+2426,ganado (nm),"livestock, cattle"
+2427,pez (nm),fish (alive)
+2428,líder (nc),leader
+2429,resuelto (adj),"resolved, determined"
+2430,club (nm),"club, society"
+2431,posteriormente (adv),afterwards
+2432,desierto (nm),desert (nm)
+2433,escritura (nf),"writing, scripture"
+2434,árabe (adj),Arab
+2435,danza (nf),dance
+2436,concierto (nm),"concert, concerto"
+2437,partidario (nm),"supporter, partisan"
+2438,templo (nm),"temple, church"
+2439,líquido (nm),liquid
+2440,debilidad (nf),weakness
+2441,ambición (nf),ambition
+2442,locura (nf),"madness, insanity"
+2443,comerciante (nc),"merchant, businessman"
+2444,camisa (nf),shirt
+2445,pluma (nf),"pen, feather"
+2446,pelota (nf),ball
+2447,pasaje (nm),"fare, passage, lane"
+2448,limpieza (nf),"cleanliness, purity"
+2449,admiración (nf),admiration
+2450,fantasma (nm),"ghost, phantom"
+2451,transformación (nf),transformation
+2452,caza (nf),hunting (game)
+2453,retener (v),"to keep, retain"
+2454,cruel (adj),"cruel, harsh"
+2455,prender (v),"to turn on, apprehend"
+2456,almacén (nm),"warehouse, store"
+2457,expectativa (nf),"expectation, hope, prospect"
+2458,ruptura (nf),"break-up, rupture"
+2459,inversión (nf),"investment, outlay"
+2460,visible (adj),visible
+2461,herida (nf),"wound, injury"
+2462,hipótesis (nf),hypothesis
+2463,formular (v),to formulate
+2464,poquito (adj),little bit
+2465,variado (adj),"varied, mixed"
+2466,giro (nm),"turn, draft, expression"
+2467,esquema (nm),"outline, diagram, plan"
+2468,mito (nm),myth
+2469,oscuridad (nf),darkness
+2470,pensión (nf),boarding house
+2471,desaparición (nf),disappearance
+2472,repetido (adj),repeated
+2473,fumar (v),to smoke
+2474,envuelto (adj),wrapped
+2475,especializar (v),"to specialize, major in"
+2476,últimamente (adv),"lately, recently"
+2477,caracterizar (v),"to characterize, portray"
+2478,paralelo (adj),parallel
+2479,ordinario (adj),"vulgar, ordinary"
+2480,designar (v),to designate
+2481,bloque (nm),block
+2482,cierre (nm),"zipper, closing"
+2483,broma (nf),joke
+2484,viernes (nm),Friday
+2485,creciente (adj),"growing, increasing"
+2486,tumba (nf),"tomb, grave"
+2487,competir (v),to compete
+2488,despacho (nm),"office, study"
+2489,viuda (nf),widow
+2490,pantalón (nm),"pants, trousers"
+2491,intercambio (nm),"exchange, interchange"
+2492,mancha (nf),"stain, spot"
+2493,retrato (nm),"portrait, photograph"
+2494,lata (nf),tin can
+2495,combate (nm),"combat, battle, fight"
+2496,instancia (nf),instance
+2497,secar (v),to dry
+2498,roca (nf),rock
+2499,herramienta (nf),tool
+2500,anónimo (adj),anonymous
+2501,panorama (nm),"panorama, landscape"
+2502,trágico (adj),tragic
+2503,imprimir (v),to print
+2504,camión (nm),"truck, van, tanker"
+2505,olvido (nm),"forgetfulness, omission"
+2506,estrategia (nf),strategy
+2507,muchacha (nf),girl
+2508,conversar (v),"to converse, talk"
+2509,propaganda (nf),"advertising, propaganda"
+2510,lamentar (v),to regret
+2511,misa (nf),religious mass
+2512,alzar (v),"to lift, raise"
+2513,inicio (nm),"beginning, start"
+2514,fútbol (nm),soccer
+2515,esfera (nf),"sphere, globe"
+2516,iluminar (v),"to illuminate, light up"
+2517,arquitectura (nf),architecture
+2518,especialidad (nf),"specialty, specialized field"
+2519,músico (nm/f),musician
+2520,relativamente (adv),relatively
+2521,eh (interj),eh
+2522,eje (nm),"axis, shaft, crux"
+2523,guiar (v),"to guide, lead, steer"
+2524,efectuar (v),"to carry out, cause to happen"
+2525,abandono (nm),"abandonment, desertion"
+2526,museo (nm),museum
+2527,propietario (nm),owner
+2528,trozo (nm),"piece, chunk"
+2529,riguroso (adj),"rigorous, severe"
+2530,armonía (nf),harmony
+2531,pacto (nm),"pact, agreement"
+2532,calentar (v),"to warm, heat"
+2533,atento (adj),"attentive, polite"
+2534,selección (nf),"selection, choice"
+2535,proseguir (v),"to continue, carry on"
+2536,incómodo (adj),uncomfortable
+2537,protagonista (nc),"protagonist, main character"
+2538,ferrocarril (nm),railway
+2539,inocente (adj),"innocent, naïve"
+2540,fatal (adj),"fateful, deadly, awful"
+2541,intimidad (nf),"private life, intimacy"
+2542,enfrente (adv),in front of
+2543,nave (nf),"spacecraft, ship"
+2544,oración (nf),prayer
+2545,cansancio (nm),"tiredness, weariness"
+2546,noble (adj),noble (adj)
+2547,escondido (adj),hidden
+2548,tejido (nm),"fabric, tissue"
+2549,trampa (nf),"trick, trap; (hacer trampa: to cheat)"
+2550,hondo (adj),deep
+2551,descripción (nf),description
+2552,pecado (nm),sin
+2553,cansar (v),"to tire, annoy"
+2554,divertido (adj),"funny, amusing"
+2555,injusticia (nf),injustice
+2556,heredar (v),to inherit
+2557,librar (v),"to liberate, set free"
+2558,adiós (nm),goodbye
+2559,brillar (v),"to shine, twinkle, be outstanding"
+2560,rescatar (v),"to rescue, save"
+2561,tabaco (nm),"tobacco, cigarette, cigar"
+2562,juvenil (adj),"young, juvenile"
+2563,ausente (adj),absent
+2564,suceso (nm),"event, incident"
+2565,extrañar (v),"to miss, long for"
+2566,asustar (v),"to frighten, scare"
+2567,mediado (adj),"mid, middle"
+2568,antecedente (nm),antecedent
+2569,barrera (nf),"barrier, obstacle"
+2570,estético (adj),esthetic
+2571,anotar (v),"to annotate, jot, note"
+2572,tribunal (nm),court
+2573,bravo (adj),"fierce, angry"
+2574,invasión (nf),invasion
+2575,septiembre (nm),September
+2576,dependencia (nf),"dependence, dependency"
+2577,democracia (nf),democracy
+2578,sutil (adj),subtle
+2579,maduro (adj),"mature, ripe"
+2580,mezclado (adj),mixed
+2581,remontar (v),to go back to (time)
+2582,limitación (nf),limitation
+2583,lindo (adj),"pretty, nice, lovely"
+2584,invitado (nm),guest
+2585,pescado (nm),fish (cooked)
+2586,continuamente (adv),continuously
+2587,obvio (adj),obvious
+2588,estrictamente (adv),strictly
+2589,obstáculo (nm),obstacle
+2590,aspiración (nf),"ambition, aspiration"
+2591,simpático (adj),"nice, likeable, friendly"
+2592,corredor (nm/f),"broker, corridor, runner"
+2593,exquisito (adj),"exquisite, superb"
+2594,resumen (nm),summary
+2595,basura (nf),"garbage, rubbish"
+2596,escalera (nf),"stairs, ladder"
+2597,gravedad (nf),"seriousness, gravity"
+2598,fundamento (nm),"foundation, ground"
+2599,sustancia (nf),"substance, essence"
+2600,convocar (v),"to convene, summon"
+2601,harto (adj),fed up with
+2602,derrota (nf),"defeat, loss"
+2603,sospecha (nf),suspicion
+2604,exagerado (adj),exaggerated
+2605,huelga (nf),"strike, protest"
+2606,abuso (nm),"abuse, misuse"
+2607,jueves (nm),Thursday
+2608,arreglo (nm),arrangement
+2609,sal (nf),salt
+2610,dosis (nf),dose
+2611,acento (nm),"accent, stress"
+2612,aviso (nm),warning
+2613,lazo (nm),"bow, knot, tie, lasso"
+2614,conservador (adj),conservative
+2615,entorno (nm),"environment, surroundings"
+2616,nieto (nm),grandchild
+2617,príncipe (nm),prince
+2618,imprescindible (adj),"essential, indispensable"
+2619,mediodía (nm),"noon, midday"
+2620,gota (nf),drop
+2621,cajón (nm),drawer
+2622,generalizar (v),"to generalize, popularize"
+2623,señorita (nf),young woman
+2624,preferencia (nf),preference
+2625,habitar (v),to inhabit
+2626,pozo (nm),"well, shaft"
+2627,rumor (nm),"rumor, murmur"
+2628,armar (v),"to arm, put together"
+2629,concurso (nm),"competition, gathering"
+2630,tesoro (nm),"treasure, thesaurus"
+2631,presupuesto (nm),budget
+2632,rural (adj),"rural, country"
+2633,vigilancia (nf),"surveillance, vigilance"
+2634,supremo (adj),supreme
+2635,confuso (adj),"confused, mixed up"
+2636,presa (nf),"dam, prisoner (f)"
+2637,estómago (nm),stomach
+2638,anular (v),"to annul, cancel"
+2639,decisivo (adj),"decisive, conclusive"
+2640,bola (nf),"ball, sphere"
+2641,determinación (nf),determination
+2642,reforma (nf),"reform, improvement"
+2643,bruto (adj),"brutal, coarse, clumsy"
+2644,verso (nm),"verse, poem"
+2645,requisito (nm),"prerequisite, requirement"
+2646,adolescente (nc),adolescent (nc)
+2647,sentimental (adj),sentimental
+2648,herido (adj),"wounded, injured (adj)"
+2649,kilo (nm),kilogram
+2650,alargar (v),"to enlarge, elongate"
+2651,conquista (nf),conquest
+2652,luminoso (adj),"bright, luminous"
+2653,particularmente (adv),"particularly, personally"
+2654,filósofo (nm),philosopher
+2655,genio (nm),"genius, disposition"
+2656,sucesión (nf),"succession, series"
+2657,componente (nm),"component, ingredient"
+2658,transparente (adj),"transparent, clear"
+2659,sufrimiento (nm),suffering
+2660,aparente (adj),apparent
+2661,entidad (nf),entity
+2662,saludo (nm),greeting
+2663,estimular (v),"to stimulate, encourage"
+2664,certeza (nf),certainty
+2665,depósito (nm),"deposit, sediment"
+2666,húmedo (adj),"humid, damp"
+2667,pasillo (nm),"hall, corridor"
+2668,pisar (v),to step on
+2669,solidaridad (nf),"solidarity, togetherness"
+2670,papa (nmf),"Pope (m), potato (f)"
+2671,geografía (nf),geography
+2672,leve (adj),"slight, trifling, light"
+2673,juguete (nm),toy
+2674,violar (v),"to violate, trespass, rape"
+2675,chiste (nm),"joke, funny story"
+2676,aprendizaje (nm),"learning, apprenticeship"
+2677,esposo (nm),"husband, spouse"
+2678,boda (nf),"marriage, wedding"
+2679,realista (adj),realistic
+2680,fresco (nm),"freshness, coolness (nm)"
+2681,lago (nm),lake
+2682,enriquecer (v),to enrich
+2683,prestado (adj),"borrowed, lent"
+2684,orientación (nf),"orientation, direction"
+2685,madurez (nf),"maturity, ripeness"
+2686,adulto (adj),"adult, grown-up (adj)"
+2687,municipal (adj),"municipal, town"
+2688,demostración (nf),demonstration
+2689,fundamentalmente (adv),"fundamentally, basically"
+2690,alegrar (v),to be/make happy
+2691,transportar (v),"to transport, carry"
+2692,cumplimiento (nm),"fulfillment, compliment"
+2693,respaldo (nm),"support, backing, back"
+2694,superficial (adj),superficial
+2695,dieciocho (num),eighteen
+2696,incendio (nm),"fire, conflagration"
+2697,dorado (adj),"golden, gold-plated"
+2698,triunfar (v),to triumph
+2699,joya (nf),"jewel, treasure"
+2700,favorito (adj),favorite
+2701,cementerio (nm),"cemetery, graveyard"
+2702,escolar (adj),"school, scholastic"
+2703,publicación (nf),publication
+2704,variación (nf),variation
+2705,cálido (adj),warm
+2706,inconsciente (adj),"unconscious, thoughtless"
+2707,promoción (nf),promotion
+2708,enseguida (adv),"immediately, at once"
+2709,mágico (adj),"magic, magical"
+2710,sentencia (nf),"legal sentence, judgment"
+2711,amargo (adj),"bitter, sour, painful"
+2712,resolución (nf),resolution
+2713,afortunadamente (adv),"luckily, fortunately"
+2714,coincidencia (nf),coincidence
+2715,estímulo (nm),"stimulus, encouragement"
+2716,acoger (v),"to welcome, accept"
+2717,filosófico (adj),philosophical
+2718,sembrar (v),"to sow, plant"
+2719,acentuar (v),"to accent, stress"
+2720,anteriormente (adv) [also previamente],previously
+2721,marino (adj),"marine, naval"
+2722,barra (nf),"bar, rod, rail"
+2723,entretener (v),"to entertain, amuse"
+2724,desviar (v),"to deviate, divert, change"
+2725,retroceder (v),to go back
+2726,culto (adj),"cultured, educated (adj)"
+2727,novia (nf),"girlfriend, bride"
+2728,piano (nm),piano
+2729,pretensión (nf),"pretension, claim"
+2730,habla (nf el),"speech, talking"
+2731,novio (nm),"boyfriend, groom"
+2732,sonreír (v),to smile
+2733,espectador (nm),"spectator, onlooker"
+2734,relatar (v),"to tell, narrate"
+2735,pensado (adj),"thought-out, designed"
+2736,bota (nf),"boot, wineskin"
+2737,oh (interj) [also ah],oh
+2738,pretexto (nm),"pretext, excuse"
+2739,horrible (adj),horrible
+2740,fiebre (nf),"fever, excitement"
+2741,difundir (v),to spread out
+2742,lucir (v),"to show off, shine"
+2743,síntesis (nf),synthesis
+2744,este (n),East (n)
+2745,nervio (nm),nerve
+2746,científico (nm/f),scientist (nm/f)
+2747,peculiar (adj),peculiar
+2748,ejemplar (adj),"exemplary, model (adj)"
+2749,grano (nm),"grain, kernel"
+2750,recientemente (adv),recently
+2751,reservar (v),"to reserve, book"
+2752,asistencia (nf),"attendance, assistance"
+2753,sacrificar (v),to sacrifice
+2754,puramente (adv),"purely, simply"
+2755,sonrisa (nf),smile
+2756,exagerar (v),to exaggerate
+2757,león (nm),lion
+2758,bárbaro (adj),"savage, horrible"
+2759,aceptación (nf),"acceptance, approval"
+2760,labio (nm),lip
+2761,visitante (nc),visitor
+2762,autónomo (adj),autonomous
+2763,sonoro (adj),"loud, resounding"
+2764,traslado (nm),transfer
+2765,residir (v),"to reside, live in"
+2766,tentación (nf),temptation
+2767,porvenir (nm),"future, time to come"
+2768,promover (v),to promote
+2769,atracción (nf),attraction
+2770,jurídico (adj),"legal, juridical"
+2771,reparar (v),"to repair, to mend, to fix"
+2772,ilustre (adj),"renowned, illustrious"
+2773,corona (nf),crown
+2774,administrar (v),"to administer, manage"
+2775,docena (nf),dozen
+2776,ahorrar (v),"to save (money, time)"
+2777,perfección (nf),perfection
+2778,humedad (nf),humidity
+2779,cosecha (nf),"harvest, crop"
+2780,enterrar (v),to bury
+2781,desesperación (nf),"desperation, exasperation"
+2782,curva (nf),curve
+2783,contraer (v),"to contract, shrink, abbreviate"
+2784,blando (adj),"soft, limp, gentle"
+2785,estable (adj),"stable, steady"
+2786,ciertamente (adv),"certainly, indeed"
+2787,dormido (adj),"asleep, sleeping"
+2788,amo (nm),"master, boss (m)"
+2789,reflexionar (v),"to reflect, consider on"
+2790,humo (nm),smoke
+2791,realización (nf),"fulfillment, realization"
+2792,cuartel (nm),"quarters, barracks"
+2793,tránsito (nm),"traffic, transit"
+2794,dieciséis (num),sixteen
+2795,énfasis (nm),emphasis
+2796,tímido (adj),"timid, shy, half-hearted"
+2797,empresario (nm),"manager, entrepreneur"
+2798,tuyo (pron),yours (singular familiar)
+2799,saco (nm),"sack, bag, plunder"
+2800,vasto (adj),"vast, immense, huge"
+2801,cruz (nf),"cross, burden"
+2802,frustrado (adj),frustrated
+2803,pausa (nf),pause
+2804,comprometido (adj),"committed, engaged"
+2805,libremente (adv),freely
+2806,vicio (nm),"vice, bad habit, defect"
+2807,impuesto (nm),tax
+2808,consiguiente (adj),consequent
+2809,arquitecto (nm/f),architect
+2810,cruce (nm),"crossing, intersection"
+2811,centrar (v),"to center, focus, base on"
+2812,convivencia (nf),"coexistence, living together"
+2813,cable (nm),"cable, wiring"
+2814,aburrido (adj),"boring, bored"
+2815,bondad (nf),"goodness, kindness"
+2816,experimento (nm),experiment
+2817,recto (adj),"right, straight, honest"
+2818,crónica (nf),"account, chronicle"
+2819,seguida (adv),"en seguida: right away, at once"
+2820,originar (v),"to give rise to, cause"
+2821,socialista (adj),socialist
+2822,ahogar (v),"to drown, choke, flood"
+2823,espléndido (adj),"splendid, generous"
+2824,esforzar (v),"to make an effort, exert oneself"
+2825,dictadura (nf),dictatorship
+2826,eficacia (nf),"efficiency, effectiveness"
+2827,detectar (v),to detect
+2828,vapor (nm),"vapor, steam"
+2829,bebida (nf),"drink, beverage"
+2830,autorizar (v),"to authorize, legalize"
+2831,charla (nf),"talk, chat"
+2832,gestión (nf),"management, step, negotiation"
+2833,afrontar (v),"to face, confront"
+2834,existente (adj),existing
+2835,cartera (nf),"wallet, satchel"
+2836,inclinado (adj),"inclined, slanting"
+2837,restar (v),"to subtract, minimize"
+2838,circulación (nf),"circulation, traffic"
+2839,denuncia (nf),accusation
+2840,concretar (v),"to materialize, fulfill"
+2841,picar (v),"to bite, sting, itch"
+2842,tormenta (nf),storm
+2843,metálico (adj),metallic
+2844,foco (nm),focus
+2845,residencia (nf),residence
+2846,espectacular (adj),spectacular
+2847,jurar (v),"to swear, take an oath"
+2848,rezar (v),"to pray, recite"
+2849,cuero (nm),"leather, skin"
+2850,misterioso (adj),mysterious
+2851,hierba (nf),"herb, grass, weed"
+2852,obrero (adj),working class (adj)
+2853,administrativo (adj),administrative
+2854,manzana (nf),"apple, city block"
+2855,singular (adj),"single, singular"
+2856,pedazo (nm),"piece, bit"
+2857,sabiduría (nf),"wisdom, knowledge"
+2858,inducir (v),to lead to
+2859,cigarrillo (nm),cigarette
+2860,encantar (v),to be very pleasing to
+2861,crudo (adj),"raw, crude, natural"
+2862,agotado (adj),"tired, used up, sold out"
+2863,deportivo (adj),"sports, sporty"
+2864,magnitud (nf),"magnitude, extent"
+2865,químico (adj),chemical
+2866,botón (nm),button
+2867,teórico (adj),theoretical
+2868,igualdad (nf),equality
+2869,privar (v),to deprive of
+2870,deducir (v),"to deduce, infer"
+2871,redactar (v),"to edit, write, compose"
+2872,noción (nf),"notion, idea"
+2873,planear (v),to plan
+2874,abrazar (v),"to hug, embrace"
+2875,tolerar (v),"to tolerate, put up with"
+2876,semilla (nf),seed
+2877,avenida (nf),avenue
+2878,descartar (v),"to discard, reject, rule out"
+2879,diablo (nm),devil
+2880,sujetar (v),"to fasten, attach, hold"
+2881,hueco (nm),"hole, cavity (nm)"
+2882,colaborador (nm),collaborator
+2883,capricho (nm),"caprice, whim"
+2884,ciudadano (adj),"community, citizen (adj)"
+2885,prudente (adj),"sensible, prudent"
+2886,guitarra (nf),guitar
+2887,agencia (nf),"agency, branch"
+2888,rabia (nf),rage
+2889,telefónico (adj),telephone
+2890,monumento (nm),monument
+2891,racional (adj),rational
+2892,previamente (adv) [also anteriormente],previously
+2893,trazar (v),"to draw, trace"
+2894,correspondencia (nf),"correspondence, connection"
+2895,barro (nm),"clay, mud"
+2896,fuga (nf),"flight, escape"
+2897,presionar (v),"to press, pressure"
+2898,identificación (nf),identification
+2899,contexto (nm),context
+2900,sombrero (nm),"hat, sombrero"
+2901,reiterar (v),"to reiterate, repeat"
+2902,ayudante (nc),"helper, assistant"
+2903,indiferente (adj),indifferent
+2904,maniobra (nf),"maneuver, operation"
+2905,inesperado (adj),"unexpected, unforeseen"
+2906,distraer (v),to distract
+2907,prejuicio (nm),prejudice
+2908,tropezar (v),"to trip, stumble"
+2909,recomendación (nf),recommendation
+2910,francamente (adv),"frankly, openly"
+2911,diseñar (v),"to design, develop"
+2912,proveer (v),to provide
+2913,seleccionar (v),to select
+2914,convivir (v),to coexist
+2915,instinto (nm),instinct
+2916,sincero (adj),sincere
+2917,progresar (v),to progress
+2918,ideológico (adj),ideological
+2919,precaución (nf),"caution, forethought"
+2920,robo (nm),"theft, robbery"
+2921,cabello (nm) [also pelo],hair
+2922,utilidad (nf),"usefulness, utility"
+2923,queja (nf),complaint
+2924,abundar (v),to be plentiful
+2925,celo (nm),"jealousy, zeal"
+2926,publicidad (nf),"advertising, publicity"
+2927,ligado (adj),"linked, joined"
+2928,índole (nf),"nature, temperament"
+2929,asimilar (v),to assimilate
+2930,prolongado (adj),"prolonged, lengthy"
+2931,choque (nm),"crash, collision"
+2932,tecnología (nf),technology
+2933,tubo (nm),"tube, pipe"
+2934,sordo (adj),"deaf, dull"
+2935,admirable (adj),admirable
+2936,mercancía (nf),"goods, merchandise"
+2937,tronco (nm),"trunk, torso"
+2938,culto (nm),"worship, cult (nm)"
+2939,palma (nf),"palm tree, palm"
+2940,prenda (nf),piece of clothing
+2941,coro (nm),"choir, chorus"
+2942,tejer (v),"to sew, weave"
+2943,túnel (nm),tunnel
+2944,cercanía (nf),"nearness, proximity"
+2945,proclamar (v),to proclaim
+2946,cuchillo (nm),knife
+2947,desprecio (nm),"contempt, disdain"
+2948,plástico (nm),plastic (nm)
+2949,complejo (nm),complex (nm)
+2950,plantar (v),to plant
+2951,naranja (nf),orange (fruit)
+2952,derrotar (v),"to defeat, beat"
+2953,frenar (v),"to brake, restrain"
+2954,voluntario (adj),"voluntary, volunteer"
+2955,adivinar (v),"to guess, solve"
+2956,cuota (nf),"quota, share, dues"
+2957,mosca (nf),fly (insect)
+2958,judicial (adj),judicial
+2959,pescar (v),to fish
+2960,doctrina (nf),"doctrine, teachings"
+2961,reservado (adj),"reserved, booked"
+2962,laguna (nf),lagoon
+2963,distinción (nf),distinction
+2964,tribu (nf),tribe
+2965,refugio (nm),"shelter, refuge"
+2966,tragar (v),to swallow
+2967,legítimo (adj),legitimate
+2968,flotar (v),"to float, flutter"
+2969,convencional (adj),conventional
+2970,sacudir (v),"to shake, jolt"
+2971,gigantesco (adj),"giant, gigantic"
+2972,cena (nf),dinner
+2973,incertidumbre (nf),uncertainty
+2974,tierno (adj),"tender, soft"
+2975,ligeramente (adv),"slightly, lightly"
+2976,aéreo (adj),"aerial, air"
+2977,suprimir (v),"to suppress, delete"
+2978,ahorro (nm),"saving, thrift"
+2979,sobrar (v),"to be too much, left over"
+2980,brotar (v),to sprout
+2981,prisión (nf),"prison, imprisonment"
+2982,investigador (nm/f),"researcher, investigator"
+2983,técnico (nm/f),technician (nm/f)
+2984,paraíso (nm),paradise
+2985,automático (adj),automatic
+2986,postre (nmf),"dessert; (a la postre: in the end)"
+2987,inquieto (adj),"restless, anxious"
+2988,helado (adj),"iced, freezing, icy"
+2989,plástico (adj),plastic (adj)
+2990,alimentación (nf),"feeding, food"
+2991,miel (nf),honey
+2992,vulgar (adj),"vulgar, common, banal"
+2993,desafío (nm),"challenge, provocation"
+2994,aeropuerto (nm),airport
+2995,valorar (v),to value
+2996,diferenciar (v),"to differentiate, distinguish"
+2997,abrigo (nm),"overcoat, shelter"
+2998,hábil (adj),"skillful, clever"
+2999,veinticuatro (num),twenty-four
+3000,sello (nm),"stamp, seal"
+3001,campana (nf),bell
+3002,destacado (adj),"outstanding, leading"
+3003,encendido (adj),"turned on, burning"
+3004,incidente (nm),incident
+3005,fragmento (nm),"fragment, passage"
+3006,plano (adj),"flat, plain, even, level (adj)"
+3007,compensar (v),"to compensate, make up for"
+3008,obligatorio (adj),"obligatory, compulsory"
+3009,asignar (v),"to assign, allocate"
+3010,contemporáneo (adj),contemporary
+3011,suscitar (v),"to arouse, provoke"
+3012,finalizar (v),"to end, finalize"
+3013,reforzar (v),"to reinforce, strengthen"
+3014,mina (nf),mine (nf)
+3015,restaurante (nm),restaurant
+3016,porcentaje (nm),percentage
+3017,conductor (nm/f),"driver, conductor"
+3018,contigo (pron),with you
+3019,evolucionar (v),"to evolve, develop"
+3020,magia (nf),magic
+3021,presidir (v),to preside over
+3022,comedor (nm),dining room
+3023,seriedad (nf),seriousness
+3024,gallina (nf),"hen, coward"
+3025,espada (nf),sword
+3026,discreto (adj),"discreet, tactful"
+3027,excelencia (nf),excellence
+3028,agitar (v),"to shake, move"
+3029,amoroso (adj),"loving, affectionate"
+3030,músculo (nm),muscle
+3031,optimista (adj),optimistic
+3032,persecución (nf),"pursuit, persecution"
+3033,imperio (nm),"empire, fortune"
+3034,casco (nm),helmet
+3035,pelea (nf),"fight, quarrel"
+3036,retorno (nm) [also regreso],return
+3037,oler (v),to smell
+3038,aludir (v),to allude to
+3039,vera (nf),"de veras: really, for real"
+3040,delgado (adj),"thin, skinny"
+3041,latín (nm),Latin (nm)
+3042,resumir (v),to summarize
+3043,rutina (nf),routine
+3044,tenso (adj),"tight, tense"
+3045,mejora (nf),improvement
+3046,domicilio (nm),"residence, address"
+3047,porquería (nf),"filth, junk"
+3048,burlar (v),to mock
+3049,susto (nm),"fright, scare"
+3050,encajar (v),"to insert, fit well"
+3051,nadar (v),to swim
+3052,amanecer (nm),"daybreak, dawn (nm)"
+3053,célula (nf),cell (biology)
+3054,acelerar (v),"to accelerate, speed up"
+3055,crítico (nm),critic (nm)
+3056,inspiración (nf),"inspiration, inhalation"
+3057,ladrillo (nm),brick
+3058,proyección (nf),"projection, screening"
+3059,desplegar (v),"to unfold, deploy"
+3060,desembocar (v),"to flow, lead into"
+3061,lana (nf),wool
+3062,indirecto (adj),indirect
+3063,infierno (nm),"hell, inferno"
+3064,aliviar (v),"to lighten, relieve, comfort"
+3065,acero (nm),steel
+3066,ejecutivo (adj),executive
+3067,cazar (v),to hunt
+3068,ojalá (adv),I hope that
+3069,aplaudir (v),"to clap, applaud"
+3070,preso (nm),prisoner (nm)
+3071,billete (nm),"ticket, bill, note"
+3072,motivar (v),"to motivate, cause"
+3073,descuidar (v),to neglect
+3074,referente (adj),concerning
+3075,tontería (nf) [also estupidez],"stupidity, stupid thing"
+3076,cauce (nm),"riverbed, ditch"
+3077,ignorancia (nf),ignorance
+3078,acostar (v),to put/go to bed
+3079,encanto (nm),"charm, spell"
+3080,propiamente (adv),"exactly, properly"
+3081,sed (nf),thirst
+3082,escudo (nm),"shield, coat of arms"
+3083,muñeca (nf),"doll, wrist"
+3084,dotado (adj),"endowed, gifted"
+3085,conectar (v),"to connect, plug in"
+3086,rango (nm),"rank, range"
+3087,invento (nm),invention
+3088,arder (v),"to burn, glow"
+3089,recinto (nm),"grounds, precincts"
+3090,tinta (nf),ink
+3091,garganta (nf),"throat, gorge"
+3092,viajero (nm),"traveler, passenger"
+3093,asesino (nm),"killer, assassin"
+3094,rito (nm),"rite, ritual"
+3095,atractivo (nm),"attraction, charm (nm)"
+3096,callado (adj),"quiet, reserved"
+3097,frustración (nf),frustration
+3098,flexible (adj),flexible
+3099,cemento (nm),"cement, concrete"
+3100,catástrofe (nf),catastrophe
+3101,dulce (nm),"candy, sweets (nm)"
+3102,recuperación (nf),"recovery, recuperation"
+3103,localizar (v),"to locate, find, localize"
+3104,mediano (adj),"average, medium, ordinary"
+3105,almuerzo (nm),lunch
+3106,pacífico (adj),peaceful
+3107,uña (nf),"nail, fingernail, toenail"
+3108,contradictorio (adj),contradictory
+3109,excepto (prep),except for
+3110,herir (v),"to wound, hurt"
+3111,costo (nm),"price, cost, expense"
+3112,manifiesto (nm),poner de manifiesto: to show
+3113,mortal (adj),"mortal, lethal, deadly (adj)"
+3114,repetición (nf),repetition
+3115,patrimonio (nm),"patrimony, inheritance"
+3116,solemne (adj),solemn
+3117,estatua (nf),statue
+3118,decadencia (nf),"decline, decay"
+3119,mudo (adj),"mute, silent"
+3120,precipitar (v),"to plunge, hurl, rush"
+3121,sorprendido (adj),surprised
+3122,excluir (v),"to exclude, reject"
+3123,enfermero (nm/f),nurse
+3124,psicológico (adj),psychological
+3125,adorar (v),"to worship, adore"
+3126,aficionado (nm),"fan, devotee"
+3127,preferible (adj),preferable
+3128,célebre (adj),"famous, renowned"
+3129,agujero (nm),"hole, opening"
+3130,beneficiar (v),to benefit
+3131,arroz (nm),rice
+3132,valiente (adj),"brave, courageous, bold"
+3133,delicioso (adj),"delicious, delightful, charming"
+3134,potente (adj),"potent, powerful"
+3135,cerveza (nf),"beer, ale"
+3136,escasez (nf),"scarcity, shortage"
+3137,ministerio (nm),ministry
+3138,vuestro (adj),your (plural familiar)
+3139,notorio (adj),"notorious, noticeable"
+3140,transición (nf),transition
+3141,sexto (adj),sixth
+3142,despreciar (v),"to despise, scorn"
+3143,negativa (nf),"negative, denial"
+3144,falda (nf),skirt
+3145,improvisar (v),to improvise
+3146,emerger (v),"to emerge, surface"
+3147,clavar (v),to nail
+3148,cantante (nc),singer
+3149,constancia (nf),perseverance
+3150,electrónico (adj),electronic
+3151,anillo (nm),ring
+3152,balance (nm),"outcome, balance"
+3153,entendimiento (nm),understanding
+3154,volcar (v),"to turn/knock over, empty"
+3155,quieto (adj),"still, motionless, calm"
+3156,transcurso (nm),"passing, course, lapse"
+3157,barrer (v),"sweep, clean out"
+3158,desayuno (nm),breakfast
+3159,alfombra (nf),"rug, carpet mat"
+3160,historiador (nm/f),historian
+3161,rogar (v),"to implore, pray, ask"
+3162,pálido (adj),"pale, ghastly, faded"
+3163,programar (v),"to plan, program"
+3164,animado (adj),"excited, lively"
+3165,chileno (adj),Chilean
+3166,ficción (nf),fiction
+3167,ensayar (v),to test
+3168,materno (adj),maternal
+3169,jugador (nm),"player, gambler"
+3170,cartel (nm),poster
+3171,desconfianza (nf),distrust
+3172,respiración (nf),"respiration, breath"
+3173,votar (v),to vote
+3174,caña (nf),"cane, reed"
+3175,aislar (v),"to isolate, insulate"
+3176,soltero (adj),"single, not married"
+3177,prisionero (nm),prisoner
+3178,turista (nc),tourist (nc)
+3179,abundancia (nf),abundance
+3180,rodar (v),"to roll, run, scatter"
+3181,asistente (nc),assistant
+3182,vinculado (adj),connected
+3183,queso (nm),cheese
+3184,arriesgar (v),"to risk, venture"
+3185,indicio (nm),"indication, sign"
+3186,colgado (adj),hanging
+3187,bautizar (v),"to baptize, christen"
+3188,cerro (nm),hill
+3189,desatar (v),"to untie, unleash, spark off"
+3190,alentar (v),to encourage
+3191,descargar (v),"to unleash, unload"
+3192,galería (nf),"gallery, balcony"
+3193,engaño (nm),"deceit, falsehood, hoax"
+3194,enamorar (v),to fall in love
+3195,geográfico (adj),geographical
+3196,continuidad (nf),continuity
+3197,receta (nf),"recipe, prescription"
+3198,conveniencia (nf),"convenience, usefulness"
+3199,reemplazar (v),to replace
+3200,carencia (nf) [also falta],"lack, shortage"
+3201,cerdo (nm),"pig, sow, slob"
+3202,soplar (v),to blow (wind)
+3203,frágil (adj),"fragile, weak"
+3204,empeño (nm),"insistence, determination"
+3205,agresión (nf),"aggression, attack"
+3206,fortaleza (nf),"fortress, strength"
+3207,seriamente (adv),seriously
+3208,balcón (nm),balcony
+3209,observador (nm),observer
+3210,ridículo (adj),"ridiculous, absurd (adj)"
+3211,renta (nf),income
+3212,justificación (nf),justification
+3213,enfrentamiento (nm),confrontation
+3214,junta (nf),"meeting, conference, seam"
+3215,irregular (adj),irregular
+3216,trayectoria (nf),"trajectory, path"
+3217,genial (adj),"brilliant, inspired"
+3218,indiferencia (nf),indifference
+3219,taza (nf),"cup, bowl"
+3220,vínculo (nm),"tie, bond, link"
+3221,cuaderno (nm),"notebook, workbook"
+3222,gracioso (adj),"funny, charming, amusing"
+3223,regir (v),"to rule, govern, manage"
+3224,intermedio (adj),"interim, intermediate (adj)"
+3225,bañar (v),"to bathe, take a bath"
+3226,temporal (adj),temporary
+3227,rozar (v),to touch lightly
+3228,pánico (nm),panic
+3229,distinguido (adj),distinguished
+3230,cañón (nm),"canyon, cannon"
+3231,dudoso (adj),"doubtful, dubious"
+3232,pollo (nm),chicken
+3233,lamentable (adj),regrettable
+3234,trascendencia (nf),"transcendent nature, significance"
+3235,remitir (v),to remit
+3236,interminable (adj),"endless, interminable"
+3237,corrupción (nf),corruption
+3238,confesión (nf),"confession, admission"
+3239,corbata (nf),"tie, sash"
+3240,macho (nm),"male, manliness"
+3241,disolver (v),to dissolve
+3242,secuencia (nf),sequence
+3243,cáncer (nm),cancer
+3244,velar (v),to watch over
+3245,archivo (nm),"archive, file, filing cabinet"
+3246,habitualmente (adv),habitually
+3247,trámite (nm),"procedure, step, requirement"
+3248,tranquilamente (adv),"calmly, peacefully"
+3249,innecesario (adj),unnecessary
+3250,raya (nf),"line, ray, stripe"
+3251,televisor (nm),television set
+3252,estabilidad (nf),stability
+3253,grandeza (nf),"greatness, size"
+3254,prisa (nf),hurry
+3255,persistir (v),to persist
+3256,temblar (v),"to tremble, shake"
+3257,verbal (adj),"verbal, oral"
+3258,matemática (nf),mathematics
+3259,demonio (nm),"demon, devil"
+3260,intacto (adj),intact
+3261,procedente (adj) [also proveniente],coming from
+3262,cenar (v),to dine
+3263,disponible (adj),available
+3264,tornar (v),"to transform, turn"
+3265,encantado (adj),"pleased, delighted"
+3266,británico (adj),British
+3267,manga (nf),sleeve
+3268,perjudicar (v),to endanger
+3269,laboral (adj),"labor, industry"
+3270,rubio (adj),"blonde, fair"
+3271,prevenir (v) [also evitar],"to avoid, prevent"
+3272,seda (nf),silk
+3273,envidia (nf),envy
+3274,emergencia (nf),emergency
+3275,enamorado (adj),in love
+3276,grasa (nf),"grease, fat"
+3277,culminar (v),"to culminate, accomplish"
+3278,alcalde (nm),mayor
+3279,insuficiente (adj),insufficient
+3280,sostenido (adj),"sustained, steady"
+3281,congreso (nm),congress
+3282,espantoso (adj),"frightening, dreadful"
+3283,aplauso (nm),"applause, praise, acclaim"
+3284,prima (nf),"female cousin, down payment"
+3285,ansiedad (nf),anxiety
+3286,dirigente (nc),"leader, director, manager"
+3287,ascenso (nm),"promotion, climb"
+3288,finalidad (nf),"purpose, aim"
+3289,preceder (v),to precede
+3290,financiero (adj),financial
+3291,nostalgia (nf),"nostalgia, homesickness"
+3292,mención (nf),mention
+3293,afición (nf),"fondness, interest"
+3294,colonial (adj),colonial
+3295,lástima (nf),"shame, pity"
+3296,teatral (adj),theatrical
+3297,lápiz (nm),pencil
+3298,vertical (adj),"vertical, upright"
+3299,nido (nm),nest
+3300,gratuito (adj),"free, arbitrary, gratuitous"
+3301,difícilmente (adv),with difficulty
+3302,orquesta (nf),"orchestra, dance band"
+3303,conexión (nf),"connection, relationship"
+3304,alternar (v),to alternate
+3305,vegetal (adj),"plant, vegetable (adj)"
+3306,usado (adj),"worn out, old, used"
+3307,vigor (nm),"force, strength, vigor"
+3308,salario (nm),"salary, wages"
+3309,acertar (v),to get right
+3310,filo (nm),cutting edge
+3311,ambicioso (adj),"ambitious, greedy"
+3312,policial (adj),police
+3313,poético (adj),poetic
+3314,batir (v),to beat an object
+3315,maíz (nm),"corn, maize"
+3316,desgraciadamente (adv),unfortunately
+3317,satisfactorio (adj),satisfactory
+3318,autonomía (nf),"autonomy, range"
+3319,vago (adj),vague
+3320,estúpido (adj),"stupid, idiotic"
+3321,demorar (v),"to delay, take time"
+3322,ama (nc),"housekeeper, housewife"
+3323,beso (nm),kiss
+3324,cintura (nf),waist
+3325,automáticamente (adv),automatically
+3326,pauta (nf),"guideline, rule, standard"
+3327,honesto (adj),honest
+3328,recepción (nf),"reception, waiting-room"
+3329,bala (nf),"bullet, shot"
+3330,suicidio (nm),suicide
+3331,placa (nf),"plaque, plate, badge"
+3332,calmar (v),"to calm, soothe, relieve"
+3333,brusco (adj),"brusque, abrupt, sudden"
+3334,asesinato (nm),"murder, assassination"
+3335,mentalidad (nf),"mindset, mind"
+3336,jerarquía (nf),"hierarchy, rank"
+3337,duración (nf),"duration, length"
+3338,hallazgo (nm),"finding, discovery"
+3339,proximidad (nf),proximity
+3340,estadística (nf),statistic
+3341,presumir (v),"to boast, show off, suppose"
+3342,trescientos (num),three hundred
+3343,iluminado (adj),illuminated
+3344,castillo (nm),castle
+3345,traducción (nf),translation
+3346,diversión (nf),"fun, entertainment"
+3347,introducción (nf),introduction
+3348,lámpara (nf),lamp
+3349,dicho (nm),"saying, proverb (nm)"
+3350,simbólico (adj),symbolic
+3351,fluir (v),to flow
+3352,heroico (adj),heroic
+3353,asesinar (v),"to murder, assassinate"
+3354,audiencia (nf),"audience, hearing"
+3355,pasajero (nm),passenger (nm)
+3356,décimo (adj),tenth
+3357,costado (nm),"side, flank"
+3358,otoño (nm),autumn
+3359,feria (nf),"fair, festival"
+3360,exilio (nm),exile
+3361,indudablemente (adv),"doubtless, undoubtedly"
+3362,preservar (v),to preserve
+3363,portador (nm),"bearer, carrier"
+3364,obispo (nm),bishop
+3365,disimular (v),"to disguise, hide, pretend"
+3366,quemado (adj),"burned, burnt"
+3367,perfeccionar (v),to perfect
+3368,vano (adj),"vain, useless"
+3369,apertura (nf),"opening, beginning"
+3370,ideología (nf),ideology
+3371,casero (adj),homemade
+3372,molesto (adj),"annoyed, bothered, upset"
+3373,cocinar (v),to cook
+3374,auxiliar (adj),"auxiliary, ancillary"
+3375,silencioso (adj),"quiet, silent"
+3376,navegar (v),"to navigate, sail"
+3377,cazador (nm/f),hunter
+3378,seguro (nm),insurance (nm)
+3379,ingenio (nm),"ingenuity, talent, wit"
+3380,hembra (nf),"female, woman"
+3381,bando (nm),"faction, side"
+3382,nativo (adj),native
+3383,dormitorio (nm),"bedroom, dormitory"
+3384,plenitud (nf),"fullness, abundance"
+3385,aceptable (adj),"acceptable, suitable"
+3386,coraje (nm),"courage, toughness"
+3387,plomo (nm),"lead, bullet"
+3388,descendiente (nc),descendant
+3389,rotundo (adj),categorical
+3390,república (nf),republic
+3391,sierra (nf),"mountain range, saw"
+3392,aplastar (v),"to flatten, crush, smash"
+3393,guante (nm),glove
+3394,cartón (nm),"cardboard, carton, sketch"
+3395,repentino (adj) [also súbito],sudden
+3396,ansioso (adj),anxious eager
+3397,subrayar (v),"to underline, highlight, emphasize"
+3398,adolescencia (nf),adolescence
+3399,despacio (adj),"slow, slowly"
+3400,innumerable (adj),"innumerable, countless"
+3401,complicación (nf),complication
+3402,insoportable (adj),"unbearable, intolerable"
+3403,taxi (nm),"taxi, cab"
+3404,porción (nf),"part, portion, share"
+3405,timbre (nm),"doorbell, bell, seal, stamp"
+3406,monstruo (nm),"monster, monstrosity"
+3407,bebé (nm),baby
+3408,trayecto (nm),"trajectory, course, path"
+3409,globo (nm),"balloon, globe"
+3410,celebración (nf),celebration
+3411,quehacer (nm),"task, job, chore"
+3412,electoral (adj),electoral
+3413,obsesión (nf),"mania, obsession"
+3414,bronce (nm),bronze
+3415,formidable (adj),"formidable, tremendous"
+3416,licencia (nf),"license, permission"
+3417,motivación (nf),motivation
+3418,noventa (num),ninety
+3419,anoche (adv),last night
+3420,depresión (nf),"depression, slump"
+3421,pulmón (nm),lung
+3422,apoderar (v),to take power
+3423,debatir (v),"to debate, discuss"
+3424,reponer (v),"to replace, restore"
+3425,fibra (nf),"fiber, grain"
+3426,disputar (v),"to dispute, contest"
+3427,quinientos (num),five hundred
+3428,petróleo (nm),"oil, petroleum"
+3429,sucesivamente (adv),"successively, step by step"
+3430,permanencia (nf),"permanence, tenure"
+3431,vos (pron) [also tú],you (subj singular familiar)
+3432,miércoles (nm),Wednesday
+3433,horno (nm),"oven, furnace"
+3434,logro (nm),"success, achievement"
+3435,vientre (nm),"womb, belly"
+3436,petición (nf),"request, petition"
+3437,civil (nc),civilian (nc)
+3438,reparto (nm),"distribution, delivery"
+3439,advertencia (nf),"warning, notice"
+3440,arrebatar (v),"to snatch, grab"
+3441,previsión (nf),"forecast, precaution"
+3442,miserable (adj),"wretched, miserable"
+3443,grato (adj),"agreeable, pleasant"
+3444,mandato (nm),"mandate, order, command"
+3445,odiar (v),to hate
+3446,clave (adj),key (adj)
+3447,diecisiete (num),seventeen
+3448,timidez (nf),"shyness, timidity"
+3449,toque (nm),"touch, ringing, warning"
+3450,máscara (nf),mask
+3451,venganza (nf),"revenge, vengeance"
+3452,barba (nf),beard
+3453,alarma (nf),alarm
+3454,insinuar (v),"to insinuate, hint"
+3455,aliento (nm),"breath, courage, spirit"
+3456,pureza (nf),"purity, chastity"
+3457,fallecer (v),to pass away (to die)
+3458,comedia (nf),"comedy, play, pretense"
+3459,aldea (nf),small village
+3460,enérgico (adj),"energetic, vigorous"
+3461,eludir (v),"to evade, avoid, elude"
+3462,párrafo (nm),paragraph
+3463,permanentemente (adv),permanently
+3464,brillo (nm),"shine, twinkling, sparkle"
+3465,ocasionar (v),"to occasion, bring about"
+3466,rastro (nm),"track, sign, flea market"
+3467,concretamente (adv),"specifically, exactly"
+3468,ignorante (adj),ignorant
+3469,adorno (nm),"decoration, adornment"
+3470,curiosamente (adv),"strangely, funnily enough"
+3471,lógicamente (adv),logically
+3472,mono (nm),monkey
+3473,razonamiento (nm),reasoning
+3474,ilustrado (adj),"learned, illustrated"
+3475,pastor (nm/f),"shepherd, pastor"
+3476,tramo (nm),"section, stretch, plot"
+3477,reto (nm),"challenge, defiance"
+3478,altísimo (adj),"very high, tall"
+3479,estupendo (adj),"marvelous, stupendous"
+3480,pesadilla (nf),nightmare
+3481,centenar (nm),hundred (nm)
+3482,molestia (nf),"bother, nuisance, trouble"
+3483,restante (adj),remaining
+3484,paja (nf),"straw, thatching"
+3485,regional (adj),regional
+3486,cómico (adj),comic
+3487,concesión (nf),"awarding, concession"
+3488,tardío (adj),"late, belated"
+3489,nudo (nm),knot
+3490,retomar (v),"to retake, restart"
+3491,martes (nm),Tuesday
+3492,utilización (nf),"use, utilization"
+3493,tapa (nf),"cover, lid"
+3494,traición (nf),"treason, betrayal"
+3495,asentar (v),"to settle, establish, locate"
+3496,pesca (nf),fishing
+3497,malestar (nm),"discomfort, unease, unrest"
+3498,rata (nf),rat
+3499,puntual (adj),punctual
+3500,defensor (nm),defender
+3501,auxilio (nm),"help, aid, assistance"
+3502,estrechar (v),"to tighten, make closer"
+3503,traspasar (v),"to go beyond, cross over"
+3504,cobre (nm),copper
+3505,imaginario (adj),imaginary
+3506,brutal (adj),"brutal, savage"
+3507,disperso (adj),spread out
+3508,ingenuo (adj),"naive, ingenuous"
+3509,anual (adj),"annual, yearly"
+3510,intuición (nf),intuition
+3511,invención (nf),"invention, contrivance"
+3512,asimismo (adv),"as well, also, moreover"
+3513,vena (nf),vein
+3514,freno (nm),brake
+3515,costoso (adj),"costly, expensive"
+3516,repleto (adj),"full, overcrowded"
+3517,consumar (v),"to complete, carry out"
+3518,asaltar (v),to assault
+3519,interrupción (nf),interruption
+3520,condena (nf),"sentence in prison, penalty"
+3521,inocencia (nf),innocence
+3522,relieve (nm),"relief; (poner de relieve: to emphasize)"
+3523,semejanza (nf),"similarity, likeness"
+3524,cumbre (nf),"summit, top"
+3525,diariamente (adv),daily (adv)
+3526,colmo (nm),"climax; (para colmo: to top it all)"
+3527,asombroso (adj),amazing
+3528,administrador (nm/f),"administrator, manager"
+3529,arrepentir (v),"to repent, regret"
+3530,decreto (nm),"decree, order"
+3531,exigente (adj),"demanding, urgent"
+3532,ironía (nf),irony
+3533,felicitar (v),to congratulate
+3534,seña (nf),"sign, mark, seal"
+3535,ritual (nm),"ritual, rite"
+3536,apto (adj),"appropriate, fit, able"
+3537,incierto (adj),uncertain
+3538,espeso (adj),"thick, dense, stiff"
+3539,presenciar (v),"to be present at, witness"
+3540,escritorio (nm),"desk, bureau"
+3541,solicitud (nf),"request, application"
+3542,víspera (nf),eve
+3543,insecto (nm),insect
+3544,ridículo (nm),ridicule (nm)
+3545,derrumbar (v),"to knock down, demolish"
+3546,ira (nf),"rage, wrath"
+3547,ceniza (nf),ash
+3548,apasionado (adj),passionate
+3549,monja (nf),nun
+3550,abstracto (adj),abstract
+3551,parto (nm),birth
+3552,creativo (adj),creative
+3553,autoritario (adj),authoritarian
+3554,excesivamente (adv),excessively
+3555,circuito (nm),"circuit, circumference, track"
+3556,subterráneo (adj),underground
+3557,oveja (nf),"sheep, ewe"
+3558,dueña (nf),"landlady, owner (f)"
+3559,dañar (v),to damage
+3560,ubicación (nf),"position, location"
+3561,feroz (adj),"ferocious, fierce"
+3562,hacienda (nf),ranch
+3563,antigüedad (nf),"antiquity, seniority"
+3564,puño (nm),"fist, handle, cuff"
+3565,excusa (nf),excuse
+3566,asombrar (v),"to amaze, astound"
+3567,trama (nf),"plot, theme"
+3568,sistemático (adj),systematic
+3569,inclusive (adv),"including, even"
+3570,alteración (nf),"alteration, change"
+3571,sumo (adj),"utmost, highest"
+3572,eficiente (adj),efficient
+3573,invisible (adj),invisible
+3574,acusación (nf),"accusation, charge"
+3575,sinceramente (adv),sincerely
+3576,salvación (nf),"salvation, rescue"
+3577,rebelde (adj),rebel (adj)
+3578,fundador (nm),founder
+3579,oscilar (v),oscillate
+3580,privilegiado (adj),privileged
+3581,recobrar (v),"to recover, regain"
+3582,original (nm),original (nm)
+3583,maquinaria (nf),machinery
+3584,dominante (adj),"dominant, prevailing"
+3585,vaciar (v),"to empty, pour out"
+3586,tortura (nf),torture
+3587,humano (nm),human (nm)
+3588,insistencia (nf),"insistence, persistence"
+3589,morder (v),to bite
+3590,atrapar (v),"to trap, catch"
+3591,tibio (adj),lukewarm
+3592,amanecer (v),"to dawn, get light (v)"
+3593,sospechoso (adj),suspicious
+3594,sobrino (nm),nephew
+3595,recitar (v),to recite
+3596,explorar (v),to explore
+3597,fabuloso (adj),"fabulous, fantastic"
+3598,embarcar (v),"to embark, load"
+3599,aguardar (v),"to wait for, await"
+3600,apunte (nm),"note, annotation"
+3601,antepasado (nm),ancestor
+3602,antemano (adv),"beforehand, in advance"
+3603,parir (v),to give birth
+3604,refugiar (v),"to take shelter, give refuge"
+3605,sillón (nm),"armchair, seat"
+3606,denso (adj),"heavy, dense, thick"
+3607,colectivo (nm),"collective, group (nm)"
+3608,dieta (nf),diet
+3609,teniente (nm),"lieutenant, deputy mayor"
+3610,polo (nm),"pole, polo, polo shirt"
+3611,verificar (v),to verify
+3612,agrícola (adj),"agricultural, farming"
+3613,abismo (nm),"abyss, large gap"
+3614,algodón (nm),cotton
+3615,harina (nf),flour
+3616,exactitud (nf),accuracy
+3617,extinguir (v),"to extinguish, put out"
+3618,provecho (nm),"benefit, use"
+3619,mensual (adj),monthly
+3620,agradar (v),to please
+3621,sobrepasar (v),"excel, out perform"
+3622,prudencia (nf),"prudence, moderation"
+3623,insulto (nm),insult
+3624,narrar (v),"to narrate, tell"
+3625,flujo (nm),"flow, tide, discharge"
+3626,aguja (nf),"needle, spire, stylus"
+3627,planteamiento (nm),"proposal, exposition"
+3628,simultáneamente (adv),simultaneously
+3629,florecer (v),"to flower, bloom, flourish"
+3630,torpe (adj),"clumsy, awkward, slow"
+3631,cortina (nf),"curtain, screen"
+3632,acarrear (v),"to bring up, entail"
+3633,liso (adj),"smooth, flat, straight"
+3634,asustado (adj),"scared, frightened"
+3635,profundizar (v),"to deepen, analyze in depth"
+3636,apostar (v),"to wager, bet"
+3637,propicio (adj),"appropriate, suitable"
+3638,reproducción (nf),reproduction
+3639,expansión (nf),"expansion, spreading"
+3640,umbral (nm),"threshold, outset"
+3641,alusión (nf),"allusion, hint"
+3642,descenso (nm),"decline, descent, lowering"
+3643,clasificar (v),"to classify, sort, file"
+3644,recortar (v),"to trim, cut off, clip"
+3645,dicho (adj),"aforementioned, said (adj)"
+3646,ambiguo (adj),ambiguous
+3647,océano (nm),ocean
+3648,proposición (nf),proposition
+3649,absurdo (nm),"absurdity, nonsense"
+3650,parada (nf),transportation stop
+3651,encantador (adj),charming
+3652,deslizar (v),"to slide, glide, slip"
+3653,estirar (v),"to stretch, strain"
+3654,respetuoso (adj),respectful
+3655,africano (adj),African
+3656,titular (nm),"headline, holder (nm)"
+3657,calendario (nm),calendar
+3658,interlocutor (nm),participant in a dialog
+3659,abusar (v),to abuse
+3660,complementar (v),"to complement, supplement"
+3661,disgusto (nm),"disgust, annoyance"
+3662,conservación (nf),conservation
+3663,revivir (v),to revive
+3664,elaboración (nf) [also producción],production
+3665,conmover (v),"to move, affect"
+3666,correo (nm),"mail, post office"
+3667,circo (nm),circus
+3668,adversario (nm),adversary
+3669,cubierta (nf),"covering, top, lid"
+3670,aniversario (nm),anniversary
+3671,franja (nf),"strip, stripe, fringe"
+3672,charlar (v),"to chat, talk"
+3673,pila (nf),"baptismal font, battery, heap"
+3674,flaco (adj),"thin, frail"
+3675,biológico (adj),biological
+3676,equivaler (v),"to be equivalent, tantamount to"
+3677,fomentar (v),"to foster, promote, encourage"
+3678,goma (nf),rubber
+3679,enormemente (adv),enormously
+3680,ancho (nm),width (nm)
+3681,emocional (adj),emotional
+3682,diplomático (adj),diplomatic (adj)
+3683,uva (nf),grape
+3684,ética (nf),ethics
+3685,inscripción (nf),"inscription, registration"
+3686,progresivo (adj),progressive
+3687,reanudar (v),"to renew, resume"
+3688,adquisición (nf),acquisition
+3689,mudar (v),"to move, change"
+3690,glorioso (adj),glorious
+3691,sentir (nm),feeling (nm)
+3692,turco (adj),Turkish
+3693,prescindir (v),to do without
+3694,renuncia (nf),"resignation, renunciation"
+3695,préstamo (nm),"loan, borrowing"
+3696,poblado (adj),populated
+3697,besar (v),to kiss
+3698,impreso (adj),printed
+3699,dedicación (nf),"dedication, devotion"
+3700,instituto (nm),institute
+3701,paloma (nf),dove
+3702,resaltar (v),to emphasize
+3703,devoción (nf),devotion
+3704,inverso (adj),"inverse, opposite"
+3705,intercambiar (v),to exchange
+3706,consolar (v),to console
+3707,descomponer (v),"to decompose, break down"
+3708,enfocar (v),to focus
+3709,espina (nf),"thorn, spine"
+3710,aprobación (nf),"approval, consent"
+3711,fachada (nf),front of a building
+3712,funcional (adj),functional
+3713,jugo (nm),juice
+3714,traicionar (v),to betray
+3715,discípulo (nm),disciple
+3716,coronel (nm),colonel
+3717,orgánico (adj),organic
+3718,modificación (nf),"modification, alteration"
+3719,acumulación (nf),accumulation
+3720,comparable (adj),comparable
+3721,mantenimiento (nm),"maintenance, sustenance"
+3722,marginal (adj),"marginal, minor"
+3723,pardo (adj),"brown, dark, dim"
+3724,cabecera (nf),"head, header"
+3725,revelación (nf),revelation
+3726,peseta (nf),peseta (money)
+3727,cuna (nf),"cradle, birth, lineage"
+3728,tendido (adj),"spread, hung, laid out"
+3729,horizontal (adj),horizontal
+3730,ácido (nm),acid
+3731,incapacidad (nf),"inability, incompetence"
+3732,villa (nf),"village, town"
+3733,lecho (nm),bed
+3734,alquiler (nm),"rent, rental"
+3735,contrastar (v),to contrast
+3736,redacción (nf),"editing, wording, essay"
+3737,ficha (nf),"index card, chip, token"
+3738,penoso (adj),"painful, laborious"
+3739,inseguridad (nf),insecurity
+3740,coma (nmf),"comma (f), coma (m)"
+3741,desenvolver (v),to unwrap
+3742,agricultura (nf),"agriculture, farming"
+3743,naturalidad (nf),"ease, spontaneity"
+3744,serenidad (nf),"serenity, calm"
+3745,preferido (adj),"preferred, favorite"
+3746,pistola (nf),"gun, pistol"
+3747,interrogar (v),"to question, interrogate"
+3748,insignificante (adj),insignificant
+3749,subsistir (v),"to subsist, survive"
+3750,diputado (nm),"deputy, member"
+3751,literalmente (adv),literally
+3752,duelo (nm),"grief, affliction"
+3753,revolver (v),"to stir, to make upset, to rummage through"
+3754,frecuentemente (adv),"frequently, often"
+3755,retornar (v) [also devolver],"to return, give back"
+3756,comandante (nm),"commander, commanding officer"
+3757,preso (adj),"imprisoned, confined (adj)"
+3758,ópera (nf),opera
+3759,réplica (nf),"answer, retort, copy"
+3760,fuertemente (adv),strongly
+3761,global (adj),"global, overall"
+3762,alquilar (v) [also arrendar],"to rent, hire"
+3763,pulso (nm),"pulse, pulsation"
+3764,radicar (v),"to lie, be situated"
+3765,explotación (nf),"exploitation, cultivation"
+3766,bestia (nf),"beast, brute"
+3767,mojar (v),"to make wet, dampen"
+3768,abrazo (nm),"hug, embrace"
+3769,asalto (nm),"assault, robbery"
+3770,reposo (nm),"rest, peace"
+3771,lámina (nf),sheet of metal
+3772,pasta (nf),"pasta, dough"
+3773,derribar (v),"to knock down, to demolish"
+3774,oral (adj),oral
+3775,polémica (nf),"polemics, argument"
+3776,parcial (adj),"partial, biased"
+3777,chocolate (nm),chocolate
+3778,generosidad (nf),generosity
+3779,masivo (adj),"mass, massive"
+3780,sobresalir (v),"to stand out, excel"
+3781,realismo (nm),realism
+3782,filtrar (v),"to seep, filter"
+3783,desierto (adj),"deserted, desolate (adj)"
+3784,acorde (nm),"agreement, accord"
+3785,sugerencia (nf),suggestion
+3786,cumpleaños (nm),birthday
+3787,ronda (nf),round (nf)
+3788,movilizar (v),to mobilize
+3789,capilla (nf),chapel
+3790,enteramente (adv),"completely, entirely"
+3791,apelar (v),"to call upon, appeal to"
+3792,expediente (nm),"dossier, proceedings"
+3793,tolerancia (nf),tolerance
+3794,entusiasmar (v),"to fill with enthusiasm, excite"
+3795,educativo (adj),educational
+3796,sopa (nf),soup
+3797,rival (nc),rival
+3798,ternura (nf),tenderness
+3799,variante (nf),"variant, difference"
+3800,coser (v),to sew
+3801,molde (nm),"mold, cast, pattern"
+3802,vigente (adj),"in force, valid"
+3803,espectro (nm),"ghost, specter"
+3804,saludable (adj) [also sano],"healthy, wholesome"
+3805,recorte (nm),"clipping, cutting, trimming"
+3806,reglamento (nm),"regulations, rules"
+3807,apretado (adj),"tight, jammed"
+3808,vitalidad (nf),"vitality, health"
+3809,cuidadosamente (adv),carefully
+3810,adaptación (nf),adaptation
+3811,etiqueta (nf),"label, etiquette"
+3812,obviamente (adv),obviously
+3813,muralla (nf),city wall
+3814,desaparecido (adj),missing
+3815,represión (nf),repression
+3816,reducción (nf),reduction
+3817,difusión (nf),"spread, diffusion"
+3818,pésimo (adj),"dreadful, awful"
+3819,encargo (nm),"job, order, errand"
+3820,madurar (v),"to mature, ripen"
+3821,almorzar (v),to have lunch
+3822,oeste (nm),West
+3823,albergar (v),"to lodge, harbor"
+3824,complacer (v),"to please, satisfy"
+3825,pescador (nm/f),fisherman
+3826,diagnóstico (nm),diagnosis
+3827,cuadra (nf),city block
+3828,remover (v),to remove
+3829,pecar (v),to sin
+3830,rienda (nf),"rein, restraint"
+3831,crueldad (nf),"cruelty, harshness"
+3832,acontecer (v),"to happen, come about"
+3833,ansia (nf el),"anxiety, anguish"
+3834,cúpula (nf),"cupola, dome"
+3835,desbordar (v),"to overflow, spill over"
+3836,llama (nf),"flame, llama"
+3837,alegar (v),"to plead, argue"
+3838,vegetación (nf),vegetation
+3839,lema (nm),"motto, slogan"
+3840,encarar (v),"to front, confront"
+3841,bote (nm),small boat
+3842,solar (adj),solar
+3843,inevitablemente (adv),inevitably
+3844,perfume (nm),perfume
+3845,central (nf),headquarters (nf)
+3846,egoísta (adj),selfish
+3847,pertenencia (nf),"membership, property"
+3848,exótico (adj),exotic
+3849,tranquilizar (v),to calm down
+3850,casita (nf),cottage
+3851,emigrar (v),to emigrate
+3852,alianza (nf),alliance
+3853,físicamente (adv),physically
+3854,fascinante (adj),fascinating
+3855,áspero (adj),"rough, coarse, harsh"
+3856,desechar (v),to throw out
+3857,ratón (nm),"mouse, rat"
+3858,hazaña (nf),"deed, heroic feat"
+3859,dureza (nf),"hardness, toughness"
+3860,sábana (nf),bed sheet
+3861,revisión (nf),checking revision
+3862,retirada (nf),"retreat, withdrawal"
+3863,básicamente (adv),basically
+3864,aroma (nm),aroma
+3865,optimismo (nm),optimism
+3866,mate (nm),mate (beverage)
+3867,lujoso (adj),luxurious
+3868,evento (nm),event
+3869,físico (nm/f),physicist (nm/f)
+3870,estrenar (v),"to use for the first time, debut"
+3871,pasto (nm),"grass, pasture"
+3872,hostil (adj),"hostile, unfriendly"
+3873,gallo (nm),rooster
+3874,tropical (adj),tropical
+3875,rendimiento (nm),"yield, output, efficiency"
+3876,lentitud (nf),slowness
+3877,aula (nf el),classroom
+3878,incitar (v),to incite
+3879,franco (adj),"open, frank, outspoken"
+3880,inédito (adj),unpublished
+3881,uniforme (adj),uniform (adj)
+3882,himno (nm),"hymn, anthem"
+3883,sindicato (nm),trade union
+3884,mariposa (nf),"butterfly, wing nut"
+3885,propiciar (v),"to favor, foster, aid"
+3886,fidelidad (nf),"faithfulness, accuracy"
+3887,retraso (nm),delay
+3888,desplazamiento (nm),"movement, removal"
+3889,cuestionar (v),to question
+3890,integrante (adj),"integral, part of a group"
+3891,lingüístico (adj),linguistic
+3892,compatriota (nc),fellow countryman
+3893,mexicano (adj),Mexican
+3894,fundir (v),"to melt, cast, smelt"
+3895,localidad (nf),"town, locality"
+3896,reprimir (v),to repress
+3897,autorizado (adj),authorized
+3898,leal (adj),"loyal, faithful"
+3899,lobo (nm),wolf
+3900,asamblea (nf),assembly
+3901,pañuelo (nm),"handkerchief, shawl"
+3902,meditar (v),"to meditate, ponder"
+3903,temblor (nm),"tremor, shudder, shiver"
+3904,gira (nf),tour
+3905,manto (nm),cloak
+3906,cubano (adj),Cuban
+3907,asombro (nm),"amazement, astonishment"
+3908,gobernador (nm),governor
+3909,amplitud (nf),"breadth, extent, range"
+3910,carbón (nm),"coal, charcoal"
+3911,campamento (nm),"camp, camping"
+3912,sangriento (adj),bloody
+3913,matemático (adj),mathematical
+3914,portugués (adj),Portuguese
+3915,intensamente (adv),intensely
+3916,suavemente (adv),softly
+3917,excursión (nf),excursion
+3918,predicar (v),to preach
+3919,encarnar (v),to embody
+3920,lamentablemente (adv),regrettably
+3921,tomate (nm),tomato
+3922,negociar (v),"to negotiate, deal with"
+3923,cinturón (nm),belt
+3924,estático (adj),"static, motionless"
+3925,antaño (adv),"in days gone by, last year"
+3926,bulto (nm),"bulk, shape"
+3927,adónde (adv),to where?
+3928,vocabulario (nm),vocabulary
+3929,especulación (nf),"speculation, conjecture"
+3930,manual (nm),"manual, handbook (nm)"
+3931,representativo (adj),representative (adj)
+3932,honrar (v),to honor
+3933,disparo (nm),"shot, discharge"
+3934,desencadenar (v),"to unleash, unchain"
+3935,residuo (nm),"residue, waste"
+3936,vanidad (nf),"vanity, conceit"
+3937,ofender (v),to offend
+3938,renovación (nf),"renewal, renovation"
+3939,enfriar (v),to cool
+3940,furioso (adj),furious
+3941,estudioso (adj),studious
+3942,ilustrar (v),to illustrate
+3943,ratificar (v),to ratify
+3944,peste (nf),"plague, pestilence, pest"
+3945,expedición (nf),expedition
+3946,destrozar (v),to rip/break into pieces
+3947,vasco (adj),Basque
+3948,simular (v),"to pretend, simulate"
+3949,complementario (adj),"additional, complementary"
+3950,mecánica (nf),"mechanics, mechanism"
+3951,electricidad (nf),electricity
+3952,insólito (adj),"unusual, uncommon"
+3953,temeroso (adj),fearful
+3954,extraordinariamente (adv),extraordinarily
+3955,ascensor (nm),elevator
+3956,bicicleta (nf),bicycle
+3957,consagrado (adj),"dedicated, consecrated"
+3958,aporte (nm),contribution (nm)
+3959,despierto (adj),awake
+3960,beca (nf),"scholarship, grant"
+3961,consentir (v),"to consent to, pamper"
+3962,trigo (nm),wheat
+3963,paralizar (v),to paralyze
+3964,disipar (v),"to dissipate, disperse"
+3965,incrementar (v) [also aumentar],to increase
+3966,plataforma (nf),"platform, springboard"
+3967,maestra (nf),teacher (f)
+3968,clínica (nf),clinic
+3969,heredero (nm),"heir, heiress"
+3970,embarazada (adj),pregnant
+3971,estadio (nm),stadium
+3972,latinoamericano (adj),Latin American
+3973,tecnológico (adj),technological
+3974,desfile (nm),"parade, line, formation"
+3975,buque (nm),large ship
+3976,parentesco (nm),kinship
+3977,fallo (nm),"mistake, blunder, fault"
+3978,rebeldía (nf),"rebelliousness, defiance"
+3979,desigual (adj),"unequal, uneven, irregular"
+3980,corrección (nf),"correction, amendment"
+3981,chispa (nf),spark
+3982,virgen (nf),virgin (nf)
+3983,reprochar (v),to reproach
+3984,supervivencia (nf),survival
+3985,caridad (nf),charity
+3986,alumbrar (v),"to light, illuminate"
+3987,comunión (nf),communion
+3988,embajador (nm/f),ambassador
+3989,tercio (nm),third (one-third)
+3990,iluminación (nf),"illumination, lighting"
+3991,censura (nf),"censorship, criticism"
+3992,disputa (nf),"dispute, argument, quarrel"
+3993,esplendor (nm),splendor
+3994,inscribir (v) [also registrar],"to register, record"
+3995,perjuicio (nm),"damage, loss"
+3996,medalla (nf),"medal, medallion"
+3997,lealtad (nf),"loyalty, faithfulness"
+3998,divorcio (nm),divorce
+3999,dotar (v),"to endow, bestow"
+4000,enfoque (nm),"focus, approach"
+4001,civilizado (adj),civilized
+4002,firmeza (nf),firmness
+4003,indudable (adj),unquestionable
+4004,colina (nf),"hill, slope"
+4005,parcela (nf),piece of property
+4006,jaula (nf),"cage, crate, playpen"
+4007,ajuste (nm),"adjustment, settlement"
+4008,lateral (adj),"side, lateral"
+4009,entierro (nm),burial
+4010,reventar (v),"to burst, puncture"
+4011,servidor (nm/f),servant
+4012,superioridad (nf),superiority
+4013,turismo (nm),tourism
+4014,barbaridad (nf),atrocity
+4015,rollo (nm),"roll, coil"
+4016,arbitrario (adj),arbitrary
+4017,triángulo (nm),triangle
+4018,aislamiento (nm),isolation
+4019,alivio (nm),"relief, unburdening"
+4020,entrenamiento (nm),training
+4021,truco (nm),"trick, ruse"
+4022,respetable (adj),respectable
+4023,disparate (nm),"nonsense, blunder"
+4024,cocinero (nm/f),cook
+4025,aburrir (v),"to bore, tire"
+4026,diminuto (adj),"diminutive, tiny, minute"
+4027,celeste (adj),"heavenly, sky-blue"
+4028,fotógrafo (nm/f),photographer
+4029,imposición (nf),imposition
+4030,diluir (v),"to dilute, weaken"
+4031,convincente (adj),convincing (adj)
+4032,consuelo (nm),"comfort, consolation"
+4033,periodístico (adj),journalistic
+4034,cariñoso (adj),affectionate
+4035,transmisión (nf),"broadcast, transmission"
+4036,titular (v),"to title, call (v)"
+4037,sendero (nm),foot path
+4038,frecuentar (v),"to frequent, visit"
+4039,desacuerdo (nm),disagreement
+4040,academia (nf),academy
+4041,acertado (adj),"correct, accurate"
+4042,catedral (nf),cathedral
+4043,mediocre (adj),mediocre
+4044,vanguardia (nf),"vanguard, forefront"
+4045,desafiar (v),"to defy, stand up to"
+4046,agitado (adj),"agitated, irritated"
+4047,precario (adj),precarious
+4048,sanitario (adj),"health, sanitary, clean"
+4049,comprensible (adj),understandable
+4050,cuidadoso (adj),"careful, cautious"
+4051,despojar (v),"to deprive, rob"
+4052,embarazo (nm),pregnancy
+4053,imposibilidad (nf),impossibility
+4054,irracional (adj),irrational
+4055,reinar (v),"to reign, prevail"
+4056,hundido (adj),"buried, sunken"
+4057,reportaje (nm),news report
+4058,tambor (nm),drum
+4059,fundación (nf),foundation
+4060,transparencia (nf),"transparency, slide"
+4061,elegancia (nf),"elegance, style"
+4062,criminal (nc),criminal (nc)
+4063,elogio (nm),"praise, eulogy, compliment"
+4064,manta (nf),blanket
+4065,dinámico (adj),dynamic
+4066,hervir (v),to boil
+4067,sereno (adj),"serene, calm"
+4068,retirado (adj),"retired, remote, secluded"
+4069,alerta (nf),alert
+4070,sinceridad (nf),sincerity
+4071,cátedra (nf),academic chair
+4072,refinado (adj),refined
+4073,repertorio (nm),"repertoire, list, index"
+4074,plancha (nf),"electric iron, plate, sheet"
+4075,terraza (nf),"terrace, balcony"
+4076,gala (nf),gala (performance/dinner)
+4077,era (nf),"era, age"
+4078,arranque (nm),"start, outburst, kick-start"
+4079,patada (nf),"kick, punt"
+4080,disculpar (v),to excuse
+4081,lapso (nm),lapse
+4082,sudor (nm),"sweat, perspiration"
+4083,apetito (nm),appetite
+4084,íntimamente (adv),intimately
+4085,indicación (nf),indication
+4086,perdurar (v),"to last, live on, endure"
+4087,aliado (nm),ally
+4088,presidencia (nf),presidency
+4089,maldito (adj),"damned, wretched"
+4090,consejero (nm/f),"advisor, counselor"
+4091,inundar (v),"to flood, inundate"
+4092,consigna (nf),"watchword, motto, slogan"
+4093,cortesía (nf),courtesy
+4094,inmóvil (adj),"immovable, motionless"
+4095,atributo (nm),"attribute, quality"
+4096,furia (nf),"fury, rage"
+4097,grosero (adj),"crude, rude, crass"
+4098,catalán (adj),Catalan
+4099,estatura (nf),"stature, height"
+4100,vejez (nf),old age
+4101,terremoto (nm),earthquake
+4102,articular (v),to articulate
+4103,tira (nf),"strip, strap"
+4104,emisor (nm),"transmitter, emitter"
+4105,relevante (adj),"relevant, significant"
+4106,integridad (nf),integrity
+4107,autorización (nf),authorization
+4108,audaz (adj),"audacious, bold"
+4109,seminario (nm),"seminar, seminary"
+4110,marea (nf),"wave, tide, ebb"
+4111,resentimiento (nm),resentment
+4112,delincuente (nc),delinquent
+4113,debilitar (v),"to weaken, debilitate"
+4114,fingir (v),"to feign, pretend"
+4115,igualar (v),"to equate, equalize"
+4116,disfrazado (adj),disguised
+4117,trepar (v),to climb
+4118,mutuamente (adv),"mutually, each other"
+4119,correctamente (adv),correctly
+4120,ágil (adj),agile
+4121,atrasado (adj),"behind, slow"
+4122,esqueleto (nm),"skeleton, framework"
+4123,indignación (nf),indignation
+4124,agradecido (adj),"grateful, thankful"
+4125,adicional (adj),additional
+4126,escultura (nf),"sculpture, carving"
+4127,condicionado (adj),conditioned
+4128,infinidad (nf),"infinity, countless"
+4129,pilar (nm),"pillar, column"
+4130,óptimo (adj),optimum
+4131,súbito (adj) [also repentino],sudden
+4132,regular (v),"to regulate, adjust (v)"
+4133,vosotros (pron),you (subj plural familiar)
+4134,rematar (v),"to finish off, finish up"
+4135,incomprensible (adj),incomprehensible
+4136,independientemente (adv),independently
+4137,percepción (nf),perception
+4138,minoría (nf),minority
+4139,deterioro (nm),"deterioration, damage"
+4140,argumentar (v),"to argue, deduce"
+4141,guapo (adj),"handsome, beautiful"
+4142,sanción (nf),"sanction, approval, penalty"
+4143,poblar (v),"to populate, inhabit"
+4144,contradecir (v),"to contradict, be inconsistent"
+4145,inmerso (adj),"engrossed, immersed"
+4146,manipular (v),"to manipulate, handle"
+4147,maleta (nf),"suitcase, case"
+4148,faena (nf),"task, job, performance"
+4149,regar (v),"to water, irrigate"
+4150,evocar (v),"to evoke, recall"
+4151,serpiente (nf),snake
+4152,proveniente (adj) [also procedente],coming from
+4153,primordial (adj),"fundamental, primary"
+4154,agitación (nf),"agitation, excitement"
+4155,prosperar (v),"to prosper, thrive"
+4156,ganancia (nf),"gain, profit"
+4157,genético (adj),genetic
+4158,pino (nm),pine tree
+4159,arrasar (v),"to raze, ravage"
+4160,rebajar (v),to discount
+4161,entrevistar (v),to interview
+4162,infeliz (adj),"unhappy, unfortunate"
+4163,compacto (adj),"compact, dense"
+4164,llanto (nm),"crying, weeping"
+4165,ida (nf),"departure, first half of a trip"
+4166,criminal (adj),criminal (adj)
+4167,coherente (adj),"coherent, connected"
+4168,falla (nf),"flaw, failure"
+4169,contribución (nf),contribution (nf)
+4170,burla (nf),"mockery, joke, trick"
+4171,seguidor (nm),"follower, supporter, fan"
+4172,estratégico (adj),strategic
+4173,perla (nf),pearl
+4174,ético (adj),ethical
+4175,integración (nf),integration
+4176,enterado (adj),aware of
+4177,siesta (nf),"siesta, afternoon nap"
+4178,replicar (v),to reply
+4179,incipiente (adj),"incipient, beginning"
+4180,adornar (v),"to adorn, to decorate"
+4181,alternativo (adj),"alternating, alternative"
+4182,expresivo (adj),expressive
+4183,bigote (nm),mustache
+4184,concurrir (v),"to coincide, concur, meet"
+4185,niñez (nf),"childhood, infancy"
+4186,leña (nf),firewood
+4187,atardecer (nm),"evening, dusk"
+4188,restaurar (v),"to restore, reinstate"
+4189,retrasar (v),"to delay, fall behind"
+4190,estatal (adj),"state, government-owned"
+4191,interrogante (nc),"question, interrogator"
+4192,palpar (v),"to feel, touch, fondle"
+4193,perpetuo (adj),"continual, perpetual"
+4194,lente (nmf),"lens, [pl] glasses"
+4195,compás (nm),"rhythm, time, compass"
+4196,estéril (adj),"sterile, barren"
+4197,llanura (nf),"plain, prairie, plainness"
+4198,collar (nm),"collar, necklace"
+4199,veneno (nm),"poison, venom"
+4200,mármol (nm),marble
+4201,biografía (nf),biography
+4202,latente (adj),latent
+4203,rebelión (nf),rebellion
+4204,hígado (nm),liver
+4205,aparentar (v),to give the appearance
+4206,holandés (adj),Dutch
+4207,tablero (nm),"board, panel"
+4208,enterrado (adj),buried
+4209,imitación (nf),imitation
+4210,adelanto (nm) [also avance],"advance, progress"
+4211,celoso (adj),jealous
+4212,oscurecer (v),to get dark
+4213,constitucional (adj),constitutional
+4214,intervalo (nm),"interval, gap"
+4215,trago (nm),"swig, drink"
+4216,fracción (nf),fraction
+4217,convento (nm),"convent, monastery"
+4218,arroyo (nm),"brook, stream, gutter"
+4219,circular (adj),circular (adj)
+4220,enlace (nm),"link, connection, bond"
+4221,torcer (v),"to twist, bend, distort"
+4222,derramar (v),"to shed, pour out"
+4223,diccionario (nm),dictionary
+4224,reflejado (adj),reflected
+4225,afueras (nf),"outskirts, suburbs"
+4226,agravar (v),to aggravate
+4227,ceja (nf),"eyebrow, brow"
+4228,detallado (adj),"detailed, thorough"
+4229,interponer (v),"to interpose, intervene"
+4230,topar (v),"to run into, bump into"
+4231,constitución (nf),constitution
+4232,enlazar (v),"to link, connect"
+4233,clasificación (nf),classification
+4234,atrapado (adj),trapped
+4235,lío (nm),"mess, problem, bad situation"
+4236,sede (nf),"headquarters, seat"
+4237,colar (v),to slip in [se]
+4238,altamente (adv),highly
+4239,litro (nm),liter
+4240,bandeja (nf),tray
+4241,aproximación (nf),approximation
+4242,liviano (adj),"light, frivolous"
+4243,entusiasmado (adj),"enthused, excited"
+4244,trapo (nm),"rag, cloth"
+4245,conocedor (nm),"expert, judge, connoisseur"
+4246,encaminar (v),"to head for, guide"
+4247,altar (nm),altar
+4248,acierto (nm),"good aim, guess, hit"
+4249,piloto (nm/f),"pilot, driver"
+4250,susceptible (adj),susceptible
+4251,inolvidable (adj),unforgettable
+4252,invocar (v),to invoke
+4253,computadora (nf),computer
+4254,ostentar (v),"to flaunt, show off"
+4255,alambre (nm),wire
+4256,mango (nm),"handle, mango"
+4257,configurar (v),"to make up, comprise"
+4258,rosario (nm),"rosary, beads, string"
+4259,reconstrucción (nf),reconstruction
+4260,parroquia (nf),parish
+4261,ruidoso (adj),noisy
+4262,supuestamente (adv),"supposedly, allegedly"
+4263,ampliamente (adv),widely
+4264,gigante (adj),gigantic (adj)
+4265,prevalecer (v),to prevail
+4266,comprador (nm),buyer
+4267,piedad (nf),"pity, mercy"
+4268,semanal (adj),weekly
+4269,clandestino (adj),"undercover, clandestine"
+4270,defensivo (adj),defensive
+4271,manual (adj),manual (adj)
+4272,engendrar (v),"to engender, beget"
+4273,contagiar (v),"to infect, infest"
+4274,niebla (nf),fog
+4275,adonde (adv),to where
+4276,consagrar (v),"to consecrate, establish"
+4277,mixto (adj),"mixed, co-ed"
+4278,verbo (nm),verb
+4279,cadera (nf),hip
+4280,procesión (nf),procession
+4281,encuesta (nf),"poll, survey, inquiry"
+4282,cría (nf),"breeding, raising"
+4283,narración (nf),"narration, account"
+4284,ramo (nm),"bunch of flowers, branch"
+4285,penal (adj),penal
+4286,traidor (nm),traitor
+4287,catálogo (nm),catalog
+4288,protector (nm),"protector, defender"
+4289,amparo (nm),"protection, shelter"
+4290,farmacia (nf),"pharmacy, drugstore"
+4291,cima (nf),"summit, peak, top"
+4292,riñón (nm),kidney
+4293,pintoresco (adj),picturesque
+4294,finca (nf),"property, estate"
+4295,calificación (nf),"evaluation, qualification"
+4296,caudal (nm),"volume, abundance"
+4297,publicitario (adj),advertising
+4298,trastorno (nm),"confusion, trouble, upheaval"
+4299,ceñir (v),"to adhere to, fit tightly"
+4300,jovencito (nm),young person
+4301,incorporación (nf),"inclusion, incorporation"
+4302,corral (nm),"corral, yard"
+4303,fatiga (nf),fatigue
+4304,virgen (adj),virgin (adj)
+4305,bruja (nf),"witch, hag"
+4306,exploración (nf),exploration
+4307,matrimonial (adj),matrimonial
+4308,equivalente (adj),equivalent (adj)
+4309,ilustración (nf),illustration
+4310,cómplice (nc),accomplice
+4311,melodía (nf),melody
+4312,productor (nm),producer
+4313,deseable (adj),desirable
+4314,constatar (v),"to prove, verify"
+4315,portero (nm/f),"porter, doorkeeper, goalkeeper"
+4316,conejo (nm),rabbit
+4317,pasivo (adj),passive
+4318,densidad (nf),"density, thickness"
+4319,dispersar (v),"to disperse, scatter, spread"
+4320,apuesta (nf),"wager, bet"
+4321,nacionalidad (nf),nationality
+4322,llamativo (adj),striking
+4323,vacilar (v),"to vacillate, hesitate"
+4324,mozo (nm),"waiter, youth, bellboy"
+4325,capturar (v),to capture
+4326,cuerno (nm),"horn, antler"
+4327,remediar (v),"to heal, cure"
+4328,fiar (v),"to vouch for, confide, trust"
+4329,desfilar (v),"to march, parade"
+4330,talla (nf),"size (of clothing), stature"
+4331,justificado (adj),"justifiable, justified"
+4332,comisario (nm),"commissioner, delegate"
+4333,fotográfico (adj),photographic
+4334,acercamiento (nm),"approach, approximation"
+4335,desordenado (adj),"messy, confused"
+4336,gráfico (adj),"graphic, explicit"
+4337,reaparecer (v),to reappear
+4338,revuelto (adj),"confused, messed up"
+4339,contorno (nm),"outline, perimeter, edge"
+4340,egoísmo (nm),selfishness
+4341,a bordo (nm),on board
+4342,compensación (nf),compensation
+4343,prohibición (nf),prohibition
+4344,obrar (v),"to work, act"
+4345,expreso (adj),"express, explicit"
+4346,coronar (v),"to crown, top"
+4347,liquidar (v),"to liquidate, sell off"
+4348,laberinto (nm),"maze, labyrinth"
+4349,erótico (adj),erotic
+4350,amenazado (adj),threatened
+4351,inminente (adj),imminent
+4352,eternidad (nf),eternity
+4353,repasar (v),"to review, revise"
+4354,pastilla (nf),"pill, capsule"
+4355,mierda (nf),"shit, crap, excrement"
+4356,contienda (nf),"contest, dispute"
+4357,imperial (adj),"imperial, imperialist"
+4358,inexplicable (adj),unexplainable
+4359,peruano (adj),Peruvian
+4360,experimental (adj),experimental
+4361,chorro (nm),"stream, jet, spurt"
+4362,opaco (adj),"dull, opaque, heavy"
+4363,clavo (nm),"nail, tack, peg"
+4364,sequía (nf),drought
+4365,dinámica (nf),dynamics
+4366,ocio (nm),leisure time
+4367,normalidad (nf),normality
+4368,intuir (v),to sense
+4369,resonancia (nf),"resonance, repercussion"
+4370,devorar (v),"to devour, consume"
+4371,efímero (adj),"ephemeral, short-lived"
+4372,chaqueta (nf),jacket
+4373,aferrar (v),"to grasp, clutch"
+4374,invertido (adj),"reversed, inverted"
+4375,asco (nm),disgust
+4376,consolidar (v),to consolidate
+4377,apresurar(se) (v) [also apurar],to hurry up
+4378,pleito (nm),"litigation, suit, dispute"
+4379,latir (v),to beat (heart)
+4380,sencillez (nf),simplicity
+4381,transitorio (adj),transitory
+4382,estupidez (nf) [also tontería],"stupidity, stupid thing"
+4383,mojado (adj),wet
+4384,descalzo (adj),barefoot
+4385,orientado (adj),"positioned, guided"
+4386,senador (nm/f),senator
+4387,rencor (nm),"grudge, spite"
+4388,presidencial (adj),presidential
+4389,apurarse (v) [also apresurarse],to hurry (LAm)
+4390,insultar (v),"to insult, berate"
+4391,brasileño (adj),Brazilian
+4392,sustentar (v),"to maintain, support"
+4393,probabilidad (nf),probability
+4394,minucioso (adj),"meticulous, thorough"
+4395,rústico (adj),"rustic, rural"
+4396,gobernante (nc),"ruler, leader"
+4397,merced (nf),"favor, mercy"
+4398,acariciar (v),"to stroke, fondle, caress"
+4399,tonelada (nf),ton
+4400,rebelde (nc),"rebel, insurgent (nc)"
+4401,anhelo (nm),"longing, yearning"
+4402,princesa (nf),princess
+4403,decididamente (adv),"decidedly, decisively"
+4404,embajada (nf),embassy
+4405,apagado (adj),turned off
+4406,bruscamente (adv),"quickly, sharply"
+4407,vincular (v),"to connect, link, bind"
+4408,amargura (nf),"bitterness, sorrow"
+4409,fortalecer (v),to fortify
+4410,validez (nf),validity
+4411,tacto (nm),"sense of touch, feel"
+4412,codo (nm),elbow
+4413,vibrar (v),"to vibrate, tremble"
+4414,calzar (v),to wear shoes
+4415,chimenea (nf),"chimney, fireplace"
+4416,comunitario (adj),of the community
+4417,explícito (adj),explicit
+4418,silvestre (adj),wild
+4419,evaluar (v),"to evaluate, assess"
+4420,emocionar (v),"to move, make/get excited"
+4421,editar (v),"to edit, publish, release"
+4422,abanico (nm),"range, handheld fan"
+4423,fiscal (adj),"fiscal, treasury (adj)"
+4424,espacial (adj),"spatial, space"
+4425,violentamente (adv),violently
+4426,medieval (adj),medieval
+4427,camiseta (nf),T-shirt
+4428,honrado (adj),"honest, respectable"
+4429,veloz (adj),"fast, quick"
+4430,corteza (nf),"bark, crust, rind, peel"
+4431,sumergir (v),"to submerge, plunge"
+4432,cordillera (nf),mountain range
+4433,monótono (adj),monotonous
+4434,longitud (nf),"length, longitude"
+4435,espantar (v),"to scare, frighten"
+4436,imprevisto (adj),"unforeseen, unexpected"
+4437,psicología (nf),psychology
+4438,soviético (adj),Soviet
+4439,potencial (adj),potential
+4440,ambulante (adj),traveling
+4441,agrupar (v),to put in a group
+4442,exageración (nf),exaggeration
+4443,apreciación (nf),"appreciation, assessment"
+4444,perverso (adj),"perverse, wicked"
+4445,estallido (nm),"crash, outbreak, explosion"
+4446,ardiente (adj),"passionate, ardent"
+4447,talón (nm),"heel, check, coupon, stub"
+4448,atener (v),"to abide by, comply with"
+4449,colchón (nm),mattress
+4450,tenue (adj),"tenuous, flimsy"
+4451,tinte (nm),"tint, dye"
+4452,indiscutible (adj),"indisputable, unquestionable"
+4453,imprenta (nf),printing house
+4454,bastón (nm),walking cane
+4455,sombrío (adj),"shady, dark, dismal"
+4456,humillación (nf),humiliation
+4457,trance (nm),"trance, fix, enrapture"
+4458,volante (nm),steering wheel
+4459,adolescente (adj),adolescent (adj)
+4460,encabezar (v),"to head, lead off"
+4461,rosado (adj),"pink, rosy"
+4462,amistoso (adj),friendly
+4463,noble (nc),"nobleman, noble (nc)"
+4464,radicalmente (adv),radically
+4465,reclamo (nm),"claim, complaint, protest"
+4466,asesor (nm/f),"adviser, consultant"
+4467,perteneciente (adj),"pertaining, belonging"
+4468,novelista (nc),novelist
+4469,herido (nm),wounded (person) (nm)
+4470,necesitado (adj),"poor, needy"
+4471,indefinido (adj),"vague, indefinite"
+4472,solidario (adj),"united, jointly shared"
+4473,paralizado (adj),paralyzed
+4474,grueso (nm),"bulk, mass (nm)"
+4475,chupar (v),to suck
+4476,grabación (nf),recording
+4477,frasco (nm),"bottle, jar, flask"
+4478,inquietante (adj),disquieting
+4479,visual (adj),visual
+4480,verdura (nf),"vegetables, greenery"
+4481,violación (nf),"violation, rape"
+4482,innovación (nf),innovation
+4483,tertulia (nf),"get-together, meeting of friends"
+4484,carcajada (nf),"hearty laughter, guffaw"
+4485,cancha (nf),"playing field, court"
+4486,republicano (adj),republican
+4487,destruido (adj),destroyed
+4488,aburrimiento (nm),boredom
+4489,trabajador (adj),hardworking (adj)
+4490,inquietar (v),"to make uneasy, disturb"
+4491,grandioso (adj),"magnificent, grandiose"
+4492,específicamente (adv),specifically
+4493,exportación (nf),"export, exportation"
+4494,extremadamente (adv),extremely
+4495,expandir (v),to expand
+4496,predecir (v),to predict
+4497,dichoso (adj),"fortunate, happy"
+4498,condicionar (v),"to condition, determine"
+4499,agrario (adj),"agrarian, agricultural"
+4500,suizo (adj),Swiss
+4501,presunto (adj),"alleged, presumed"
+4502,tranvía (nm),"trolley, tram, streetcar"
+4503,alertar (v),"to alert, warn"
+4504,cordón (nm),"cord, yarn, braid"
+4505,prioridad (nf),priority
+4506,modalidad (nf),"mode, manner"
+4507,desenlace (nm),"outcome, result"
+4508,bailarín (nm/f),dancer
+4509,artefacto (nm),"artifact, device"
+4510,trono (nm),throne
+4511,adjetivo (nm),adjective
+4512,gama (nf),"range, musical scale"
+4513,enfermar (v),to become ill
+4514,gabinete (nm),"cabinet, den, office"
+4515,indagar (v) [also investigar],to investigate
+4516,vertiginoso (adj),dizzying
+4517,decente (adj),"respectable, decent"
+4518,congelado (adj),frozen
+4519,peón (nm),"unskilled laborer, field hand"
+4520,triple (adj),triple
+4521,inspector (nm/f),inspector
+4522,órbita (nf),"orbit, socket, field"
+4523,autopista (nf),"freeway, motorway"
+4524,prosa (nf),prose
+4525,paréntesis (nm),"parenthesis, digression"
+4526,fabricación (nf),"manufacture, production"
+4527,lesión (nf),"injury, wound, harm"
+4528,mejilla (nf),cheek
+4529,inseguro (adj),"unsure, unsafe"
+4530,muelle (nm),"wharf, dock"
+4531,velo (nm),veil
+4532,decoración (nf),decoration
+4533,rancho (nm),"ranch, farm"
+4534,exceder (v),"to excel, exceed"
+4535,joder (v),"to f**k, screw (around/up)"
+4536,irónico (adj),"ironic, mocking"
+4537,alarmar (v),to alarm
+4538,negociación (nf),negotiation
+4539,euforia (nf),"euphoria, elation"
+4540,convencimiento (nm),convincing (nm)
+4541,asombrado (adj),"amazed, bewildered"
+4542,rascar (v),"to scratch, scrape"
+4543,desconcierto (nm),"disorder, chaos"
+4544,economista (nm/f),economist
+4545,oficialmente (adv),officially
+4546,sofisticado (adj),sophisticated
+4547,sobra (nf),"excess, surplus, leftover"
+4548,enredar (v),"to entangle, ensnare"
+4549,ingenioso (adj),"ingenious, clever"
+4550,tasa (nf),"rate, fee, levy"
+4551,balanza (nf),"balance, (measuring) scale"
+4552,factura (nf),"invoice, bill"
+4553,hormiga (nf),ant
+4554,vulnerable (adj),vulnerable
+4555,oso (nm),bear
+4556,trazo (nm),"line, stroke"
+4557,geométrico (adj),geometric
+4558,suspirar (v),to sigh
+4559,gusano (nm),"worm, caterpillar"
+4560,bendito (adj),blessed
+4561,conferir (v),to confer
+4562,manía (nf),"obsession, mania"
+4563,disculpa (nf),"apology, excuse"
+4564,trascendente (adj),transcendent
+4565,alarmante (adj),alarming
+4566,pequeñito (adj),"very small, tiny"
+4567,predominar (v),to predominate
+4568,metáfora (nf),metaphor
+4569,penetración (nf),"penetration, insight"
+4570,pasajero (adj),"fleeting, transitory (adj)"
+4571,whisky (nm),whisky
+4572,turístico (adj),tourist (adj)
+4573,despejar (v),to clear up
+4574,delirio (nm),"delirium, nonsense"
+4575,impecable (adj),"impeccable, faultless"
+4576,soberbio (adj) [also orgulloso],"proud, arrogant"
+4577,librería (nf),bookstore
+4578,documentación (nf),documentation
+4579,sonriente (adj),smiling
+4580,decena (nf),ten (of something)
+4581,nulo (adj),"void, null"
+4582,tigre (nm),tiger
+4583,premiar (v),to award
+4584,implacable (adj),"relentless, implacable"
+4585,senda (nf),"path, lane"
+4586,temperamento (nm),"temperament, personality"
+4587,brevemente (adv),briefly
+4588,desayunar (v),to have breakfast
+4589,productivo (adj),"productive, profitable"
+4590,dicha (nf),"fortune, happiness, luck"
+4591,andaluz (adj),Andalusian
+4592,acta (nf el),"meeting proceedings, minutes"
+4593,cera (nf),wax
+4594,tanque (nm),"tank, large container"
+4595,institucional (adj),institutional
+4596,vigoroso (adj),"vigorous, strong"
+4597,batería (nf),"battery, gun deck"
+4598,crema (nf),cream
+4599,atroz (adj),atrocious
+4600,entretenimiento (nm),entertainment
+4601,pala (nf),shovel
+4602,servidumbre (nf),"staff of servants, servitude"
+4603,resucitar (v),to resuscitate
+4604,psicólogo (nm/f),psychologist
+4605,sabroso (adj),"delicious, tasty"
+4606,actriz (nf),actress
+4607,esencialmente (adv),essentially
+4608,larguísimo (adj),very long
+4609,simultáneo (adj),simultaneous
+4610,burro (nm),donkey
+4611,procedencia (nf),"origin, source"
+4612,fiscal (nc),"district attorney, prosecutor (nc)"
+4613,trascendental (adj),"far-reaching, transcendental"
+4614,colorado (adj),"red, colored"
+4615,financiar (v),to finance
+4616,participante (nm),participant
+4617,rescate (nm),"rescue, ransom"
+4618,apuro (nm),"trouble, predicament"
+4619,sudar (v),to sweat
+4620,prestigioso (adj),prestigious
+4621,cautela (nf),caution
+4622,crónico (adj),chronic
+4623,táctica (nf),"tactics, strategy"
+4624,descuido (nm),"neglect, oversight"
+4625,bíblico (adj),biblical
+4626,matanza (nf),"slaughter, carnage"
+4627,perturbar (v),"to perturb, upset"
+4628,paterno (adj),paternal
+4629,escrito (nm),"manuscript, writing"
+4630,pinta (nf),"appearance, look, aspect"
+4631,envidiar (v),to envy
+4632,reposar (v),"to rest, lie down"
+4633,acelerado (adj),"accelerated, quick"
+4634,árido (adj),"arid, dry"
+4635,caprichoso (adj),"capricious, whimsical"
+4636,minúsculo (adj),"minute, insignificant"
+4637,caldo (nm),"broth, soup"
+4638,agonía (nf),"agony, grief"
+4639,deteriorar (v),to deteriorate
+4640,tregua (nf),"truce, rest"
+4641,vestuario (nm),"wardrobe, changing room"
+4642,desesperar (v),"to despair, lose hope"
+4643,bodega (nf),"cellar, pantry, warehouse"
+4644,antena (nf),antenna
+4645,ligar (v),"to tie, link, bind"
+4646,maldad (nf),"evil, wickedness"
+4647,obediencia (nf),obedience
+4648,ocurrencia (nf),"idea, witty remark"
+4649,abiertamente (adv),openly
+4650,complemento (nm),"complement, supplement"
+4651,editor (nm/f),"editor, publisher"
+4652,periodismo (nm),journalism
+4653,piscina (nf),swimming pool
+4654,provincial (adj),provincial
+4655,mediar (v),to mediate
+4656,endurecer (v),"harden, make hard"
+4657,tradicionalmente (adv),traditionally
+4658,inyección (nf),"shot, injection"
+4659,ilegal (adj),illegal
+4660,reproche (nm),"reproach, criticism"
+4661,consistencia (nf),consistency
+4662,nobleza (nf),"nobility, uprightness"
+4663,terrestre (adj),"earthly, of the earth"
+4664,impotencia (nf),impotence
+46651,vislumbrar (v),to glimpse
+4666,cordial (adj),"cordial, friendly"
+4667,hostilidad (nf),"hostility, enmity"
+4668,angustiado (adj),"anguished, distressed"
+4669,medicamento (nm),"medicine, drug"
+4670,entrenar (v),to train
+4671,piadoso (adj),"devout, pious, merciful"
+4672,corporal (adj),"of the body, corporal"
+4673,conspiración (nf),conspiracy
+4674,ilimitado (adj),unlimited
+4675,detención (nf),"detention, arrest"
+4676,autobús (nm),bus
+4677,firmemente (adv),firmly
+4678,esporádico (adj),sporadic
+4679,destreza (nf),skill
+4680,razonar (v),"to reason out, think"
+4681,entrañas (nf),"insides, bowels"
+4682,gratitud (nf),gratitude
+4683,rectificar (v),"to rectify, straighten out"
+4684,melancólico (adj),melancholy
+4685,editorial (nmf),"publisher (f), editorial article (m)"
+4686,móvil (adj),mobile
+4687,bicho (nm),"bug, creature"
+4688,martillo (nm),hammer
+4689,robusto (adj),"strong, robust, sturdy"
+4690,cooperación (nf),cooperation
+4691,elevación (nf),"rise, elevation, increase"
+4692,atentado (nm),"attack, offense"
+4693,puñado (nm),"fistful, small group"
+4694,llano (adj),"flat, level, plain"
+4695,colombiano (adj),Colombian
+4696,sirena (nf),"siren, mermaid"
+4697,espuma (nf),"foam, lather"
+4698,cirujano (nm/f),surgeon
+4699,angustioso (adj),distressing
+4700,vereda (nf),"path, sidewalk"
+4701,excitar (v),to excite
+4702,reivindicación (nf),"claim, demand, redemption"
+4703,infección (nf),infection
+4704,chiquillo (nm),"kid, youngster"
+4705,distracción (nf),"distraction, amusement"
+4706,enumerar (v),"to enumerate, count"
+4707,estadístico (adj),statistical
+4708,ingrediente (nm),ingredient
+4709,posar (v),"to rest, pose, land"
+4710,maligno (adj),"evil, malignant"
+4711,irritar (v),to irritate
+4712,pugna (nf),"battle, struggle"
+4713,comprensivo (adj),understanding (adj)
+4714,hueco (adj),hollow (adj)
+4715,torta (nf),cake
+4716,intérprete (nc),"performer, interpreter"
+4717,araña (nf),spider
+4718,facción (nf),"face feature, faction"
+4719,elocuente (adj),eloquent
+4720,tumbar (v),"to knock over, cast down"
+4721,adentrar (v),"to penetrate, go inside"
+4722,diplomático (nm/f),diplomat (nm/f)
+4723,exhibición (nf),"exhibition, showing"
+4724,relajar (v),to relax
+4725,escaparate (nm),"showcase, display window"
+4726,afín (adj),"related, similar"
+4727,sargento (nm),sergeant
+4728,recrear (v),"to recreate, amuse"
+4729,usual (adj),"normal, usual"
+4730,estética (nf),aesthetics
+4731,caballería (nf),"cavalry, knighthood"
+4732,padrino (nm),"godparent, sponsor"
+4733,diversidad (nf),"diversity, variety"
+4734,banquete (nm),"banquet, feast"
+4735,bancario (adj),"bank, banking"
+4736,impartir (v),"to impart, administer"
+4737,andar (nm),"walk, gait, pace (nm)"
+4738,gigante (nc),giant (nc)
+4739,afortunado (adj),fortunate
+4740,pabellón (nm),"pavilion, sports hall"
+4741,abeja (nf),bee
+4742,asentir (v),"to assent, agree"
+4743,espontáneamente (adv),spontaneously
+4744,informativo (adj),informative
+4745,violín (nm),violin
+4746,astro (nm),star (nm)
+4747,dictador (nm),dictator
+4748,roce (nm),"brush, graze"
+4749,prolongación (nf),extension
+4750,cráneo (nm),"skull, cranium"
+4751,aflojar (v),to loosen
+4752,hola (interj),"hello, hi"
+4753,importado (adj),imported
+4754,íntegro (adj),"whole, entire, honest"
+4755,agradecimiento (nm),"gratitude, gratefulness"
+4756,extra (adj),extra
+4757,audacia (nf),"boldness, audacity"
+4758,cólera (nmf),"rage (f), cholera (m)"
+4759,resignación (nf),"resignation, acceptance"
+4760,legislación (nf),legislation
+4761,recíproco (adj),reciprocal
+4762,caramelo (nm),"piece of candy, caramel"
+4763,pólvora (nf),"gunpowder, powder"
+4764,rol (nm),role
+4765,fértil (adj),"fertile, rich"
+4766,ensuciar (v),to get dirty
+4767,largar (v),"to let go, start out"
+4768,acomodado (adj),"well-to-do, suitable"
+4769,idiota (nc),"idiot, dunce"
+4770,bahía (nf),bay
+4771,latitud (nf),latitude
+4772,buey (nm),ox
+4773,vaivén (nm),"swinging, rocking"
+4774,equivocación (nf),"mistake, misconception"
+4775,comunismo (nm),communism
+4776,partícula (nf),particle
+4777,intermedio (nm),"means, interval (nm)"
+4778,económicamente (adv),economically
+4779,limosna (nf),"alms, charity"
+4780,equivalente (nm),equivalent (nm)
+4781,flecha (nf),"arrow, dart"
+4782,soberano (adj),"sovereign, self-assured"
+4783,presentir (v),to sense in advance
+4784,desilusión (nf),"disappointment, letdown"
+4785,insertar (v),"to insert, put in"
+4786,pato (nm),duck
+4787,guerrero (adj),"warrior, warlike (adj)"
+4788,grieta (nf),"crack, opening, slit"
+4789,jinete (nm),"rider, horseman"
+4790,involuntario (adj),involuntary
+4791,discurrir (v),"to flow, pass, roam"
+4792,inexistente (adj),non-existent
+4793,subjetivo (adj),subjective
+4794,agricultor (nm/f),farmer
+4795,garra (nf),"claw, fang"
+4796,engordar (v),"to fatten, get fat"
+4797,soporte (nm),"support, endorsement"
+4798,concurrencia (nf),"coming together, participation"
+4799,pirámide (nf),pyramid
+4800,aventurar (v),"to venture, risk"
+4801,neutro (adj),neutral
+4802,demandar (v),"to claim, sue"
+4803,fósforo (nm),"match, match stick"
+4804,profeta (nm),prophet
+4805,renacer (v),"to be reborn, reappear"
+4806,restablecer (v),"to reestablish, restore"
+4807,muslo (nm),thigh
+4808,desconcertado (adj),"disoriented, disconcerted"
+4809,retiro (nm),"withdrawal, retreat"
+4810,comando (nm),"command, order"
+4811,sobrevenir (v),"to occur, befall, strike"
+4812,emisión (nf),"broadcast, emission"
+4813,rebasar (v),"to exceed, pass over"
+4814,tenor (nm),"meaning, sense"
+4815,recompensa (nf),"reward, recompense"
+4816,complicidad (nf),"involvement, complicity"
+4817,recelo (nm),"mistrust, suspicion"
+4818,vibración (nf),vibration
+4819,restricción (nf),restriction
+4820,acatar (v),"to comply with, abide by"
+4821,transitar (v),"to roam, go by"
+4822,vara (nf),"rod, stick"
+4823,clientela (nf),"customers, clients"
+4824,soberanía (nf),sovereignty
+4825,impreciso (adj),imprecise
+4826,percatar (v),"to inform, become aware"
+4827,frialdad (nf),"coldness, indifference"
+4828,encomendar (v),"to commend, entrust"
+4829,inspección (nf),inspection
+4830,inicial (nf),initial (letters) (nf)
+4831,seducir (v),"to seduce, tempt"
+4832,incidencia (nf),"ocurrence, impact"
+4833,retroceso (nm),movement backwards
+4834,micrófono (nm),microphone
+4835,previsible (adj),foreseeable
+4836,ventanilla (nf),vehicle window
+4837,frontal (adj),frontal
+4838,extinción (nf),extinction
+4839,infinito (nm),"infinite, infinity (nm)"
+4840,campeón (nm),champion
+4841,incidir (v),"to influence, affect"
+4842,monstruoso (adj),monstrous
+4843,persistente (adj),persistent
+4844,oxígeno (nm),oxygen
+4845,rigidez (nf),rigidity
+4846,educado (adj),educated
+4847,irreversible (adj),irreversible
+4848,despedida (nf),"goodbye, farewell"
+4849,vengar (v),"to take revenge, avenge"
+4850,encaje (nm),lace
+4851,estropear (v),"to ruin, mess up"
+4852,repercusión (nf),"repercussion, impact"
+4853,prematuro (adj),premature
+4854,fascinar (v),to fascinate
+4855,ganador (nm),winner
+4856,emperador (nm),emperor
+4857,cometa (nmf),"comet (m), kite (f)"
+4858,precedente (nm),precedent
+4859,rudo (adj),"rude, crude, coarse"
+4860,cerebral (adj),cerebral
+4861,mosaico (nm),mosaic
+4862,significación (nf),"meaning, significance"
+4863,contestación (nf),answer
+4864,pedagógico (adj),"pedagogical, teaching"
+4865,asilo (nm),"asylum, shelter"
+4866,incremento (nm),"increase, raise"
+4867,incurrir (v),"to incur, fall into"
+4868,lomo (nm),"back, loin, spine"
+4869,tentar (v),"to tempt, entice"
+4870,navegación (nf),"navigation, shipping"
+4871,edificación (nf),"construction, building"
+4872,abstracción (nf),abstraction
+4873,veintidós (num),twenty-two
+4874,grotesco (adj),"grotesque, ridiculous"
+4875,duramente (adv),"harshly, severely"
+4876,sumido (adj),"sunken, drowned"
+4877,públicamente (adv),"publicly, in public"
+4878,resignar (v),"to resign, relinquish"
+4879,mortal (nc),mortal (nc)
+4880,siniestro (adj),sinister
+4881,místico (adj),mystical
+4882,cabina (nf),"cabin, cockpit"
+4883,dialogar (v),"to confer, talk"
+4884,exento (adj),"exempt, free"
+4885,guerrero (nm/f),"warrior, soldier (nm/f)"
+4886,acera (nf),sidewalk
+4887,clínico (adj),clinical
+4888,largamente (adv),"for a long time, at length"
+4889,callejero (adj),of the street
+4890,adherir (v),"to adhere, attach"
+4891,voluntariamente (adv),voluntarily
+4892,centavo (nm),cent
+4893,molino (nm),"mill, windmill"
+4894,parcialmente (adv),partially
+4895,decepción (nf),"disappointment, disenchantment"
+4896,alojar (v),"to host, accommodate"
+4897,debidamente (adv),"properly, duly"
+4898,ente (nm),"entity, being, firm"
+4899,internar (v),to confine
+4900,mismísimo (adj),very same
+4901,contundente (adj),"decisive, blunt, forceful"
+4902,inundación (nf),"flood, deluge"
+4903,diligencia (nf),diligence
+4904,viceversa (adv),vice versa
+4905,séptimo (adj),seventh
+4906,complejidad (nf),complexity
+4907,carente (adj),"lacking, devoid"
+4908,nítido (adj),"clear, clean, neat"
+4909,imponente (adj),"impressive, magnificent"
+4910,vecindad (nf),"nearness, vicinity"
+4911,secular (adj),"secular, lay"
+4912,cabra (nf),goat
+4913,olfato (nm),sense of smell
+4914,denominación (nf),"name, denomination"
+4915,bordear (v),to border
+4916,envergadura (nf),"breadth, expanse"
+4917,admirador (nm),admirer
+4918,instruir (v),to instruct
+4919,rebaño (nm),"herd, flock"
+4920,inicialmente (adv),initially
+4921,vegetal (nm),"plant, vegetable (nm)"
+4922,inseparable (adj),inseparable
+4923,fiera (nf),wild beast
+49240,verter (v),"to pour, spill, shed"
+4925,desmentir (v),to contradict
+4926,inestable (adj),"unstable, unsteady"
+4927,olla (nf),"pot, kettle"
+4928,terriblemente (adv),terribly
+4929,coco (nm),coconut
+4930,sótano (nm),basement
+4931,agresividad (nf),aggressiveness
+4932,mentalmente (adv),mentally
+4933,adhesión (nf),adherence
+4934,convención (nf),"convention, assembly"
+4935,paraje (nm),"place, spot"
+4936,frívolo (adj),"trivial, frivolous"
+4937,cohete (nm),rocket
+4938,prodigioso (adj),"prodigious, famous"
+4939,almohada (nf),pillow
+4940,eficiencia (nf),efficiency
+4941,laborioso (adj),"laborious, industrious"
+4942,eclesiástico (adj),ecclesiastical
+4943,confundido (adj),confused
+4944,tejado (nm),"roof, housetop"
+4945,elefante (nm),elephant
+4946,descifrar (v),to decipher
+4947,navaja (nf),"razor, blade, navaja"
+4948,maldición (nf),"damnation, curse"
+4949,marinero (nm/f),sailor
+4950,bachillerato (nm),high school diploma
+4951,marrón (adj),brown
+4952,entablar (v),"to start, establish"
+4953,desequilibrio (nm),"imbalance, unsteadiness"
+4954,sintético (adj),synthetic
+4955,bélico (adj),warlike
+4956,combinado (adj),combined
+4957,desperdicio (nm),"waste, refuse, garbage"
+4958,propagar (v),"to propagate, spread"
+4959,ampliación (nf),"enlargement, extension"
+4960,recipiente (nm),"container, recipient, tank"
+4961,parlamentario (adj),parliamentary
+4962,trasero (adj),"behind, back"
+4963,despliegue (nm),"deployment, display"
+4964,libra (nf),pound (money/weight)
+4965,incursión (nf),"invasion, incursion"
+4966,irreal (adj),unreal
+4967,toalla (nf),towel
+4968,tenis (nm),tennis
+4969,perfilar (v),"to outline, shape"
+4970,entusiasta (adj),enthusiastic
+4971,descarga (nf),"unloading, discharge"
+4972,patriótico (adj),patriotic
+4973,higiene (nf),hygiene
+4974,decaer (v),"to decay, wane"
+4975,cuenca (nf),"socket, basin, bowl"
+4976,aplastado (adj),"crushed, flattened"
+4977,cal (nf),"lime, whitewash"
+4978,rítmico (adj),rhythmic
+4979,disfrazar (v),"to disguise, hide, conceal"
+4980,pionero (nm),pioneer
+4981,volcán (nm),volcano
+4982,puta (nf),"whore, prostitute"
+4983,hispano (adj),Hispanic
+4984,diamante (nm),diamond
+4985,constructivo (adj),constructive
+4986,delicadeza (nf),"gentleness, tenderness"
+4987,ocasional (adj),"occasional, random"
+4988,expulsión (nf),"expulsion, ejection"
+4989,enigma (nm),"enigma, mystery"
+4990,monumental (adj),monumental
+4991,hectárea (nf),hectare
+4992,accesible (adj),accessible
+4993,inmigrante (nc),immigrant
+4994,irrumpir (v),"to burst in, raid"
+4995,prevención (nf),"prevention, warning"
+4996,cerco (nm),"fence, circle, ring"
+4997,penumbra (nf),"semidarkness, twilight"
+4998,jugada (nf),"move, play"
+4999,estampa (nf),"print, engraving, illustration"
+5000,cueva (nf),cave
